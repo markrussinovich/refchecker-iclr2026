@@ -210,6 +210,9 @@ def replace_bulk_report_paper(bulk_path: Path, single_payload: dict[str, Any], p
         index for index, paper in enumerate(papers)
         if paper.get("source_paper_id") == paper_id
     ]
+    if len(paper_indexes) == 0:
+        print(f"Bulk JSON does not contain {paper_id}; skipping bulk JSON replacement")
+        return
     if len(paper_indexes) != 1:
         raise RuntimeError(f"Expected one paper summary for {paper_id} in {bulk_path}, found {len(paper_indexes)}")
 
