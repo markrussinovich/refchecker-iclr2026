@@ -283,13 +283,20 @@ def synthesize_checkpoint_row(
         record for record in (single_payload.get("records") or [])
         if record.get("source_paper_id") == paper_id
     ]
+    total_references_processed = (
+        (single_payload.get("summary") or {}).get("total_references_processed")
+        or replacement_paper.get("total_references_processed")
+        or replacement_paper.get("references_processed")
+        or replacement_paper.get("total_records")
+        or len(replacement_records)
+    )
     error_count, warning_count, info_count = count_raw_kinds(replacement_records)
     row = dict(old_row)
     row.update({
         "paper_id": paper_id,
         "title": replacement_paper.get("source_title") or old_row.get("title") or "",
         "source_url": replacement_paper.get("source_url") or old_row.get("source_url") or "",
-        "references_processed": replacement_paper.get("total_records", len(replacement_records)),
+        "references_processed": total_references_processed,
         "total_errors_found": error_count,
         "total_warnings_found": warning_count,
         "total_info_found": info_count,
