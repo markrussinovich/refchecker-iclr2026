@@ -127,7 +127,7 @@ def run_single_paper_scan(
     database_dir: Path,
     model: str,
     max_workers: int,
-) -> tuple[dict[str, Any], dict[str, Any]]:
+) -> tuple[dict[str, Any], dict[str, Any] | None]:
     with tempfile.TemporaryDirectory(prefix="refchecker-openreview-rerun-") as tmp:
         tmp_dir = Path(tmp)
         paper_list = tmp_dir / "paper-list.txt"
@@ -168,9 +168,10 @@ def run_single_paper_scan(
 
         checkpoint_path = report_file.with_suffix(".checkpoint.jsonl")
         checkpoint_rows = load_checkpoint(checkpoint_path)
-        if len(checkpoint_rows) != 1:
-            raise RuntimeError(f"Expected one checkpoint row from rerun, found {len(checkpoint_rows)}")
-        return load_json(report_file), checkpoint_rows[0]
+        checkpoint_row = checkpoint_rows[0] if len(checkpoint_rows) == 1 else None
+        if checkpoint_row is None:
+            print("Temporary checkpoint row was not retained; will synthesize checkpoint update from JSON report")
+        return load_json(report_file), checkpoint_row
 
 
 def recompute_summary(payload: dict[str, Any]) -> None:
@@ -238,7 +239,73 @@ def replace_bulk_report_paper(bulk_path: Path, single_payload: dict[str, Any], p
     write_json(bulk_path, payload)
 
 
-def replace_checkpoint_row(checkpoint_path: Path, replacement_row: dict[str, Any], paper_id: str, *, dry_run: bool) -> None:
+def count_rows_with_raw_type(records: list[dict[str, Any]], raw_type: str) -> int:
+    count = 0
+    for record in records:
+        raw_errors = record.get("_original_errors") or []
+        if any(
+            item.get("error_type") == raw_type
+            or item.get("warning_type") == raw_type
+            or item.get("info_type") == raw_type
+            for item in raw_errors
+        ):
+            count += 1
+    return count
+
+
+def count_raw_kinds(records: list[dict[str, Any]]) -> tuple[int, int, int]:
+    errors = warnings = info = 0
+    for record in records:
+        for item in record.get("_original_errors") or []:
+            if item.get("info_type"):
+                info += 1
+            elif item.get("warning_type"):
+                warnings += 1
+            elif item.get("error_type") and item.get("error_type") != "unverified":
+                errors += 1
+    return errors, warnings, info
+
+
+def synthesize_checkpoint_row(
+    *,
+    old_row: dict[str, Any],
+    single_payload: dict[str, Any],
+    paper_id: str,
+) -> dict[str, Any]:
+    single_papers = single_payload.get("papers") or []
+    if len(single_papers) != 1:
+        raise RuntimeError(f"Expected one paper summary in rerun report, found {len(single_papers)}")
+    replacement_paper = single_papers[0]
+    replacement_records = [
+        record for record in (single_payload.get("records") or [])
+        if record.get("source_paper_id") == paper_id
+    ]
+    error_count, warning_count, info_count = count_raw_kinds(replacement_records)
+    row = dict(old_row)
+    row.update({
+        "paper_id": paper_id,
+        "title": replacement_paper.get("source_title") or old_row.get("title") or "",
+        "source_url": replacement_paper.get("source_url") or old_row.get("source_url") or "",
+        "references_processed": replacement_paper.get("total_records", len(replacement_records)),
+        "total_errors_found": error_count,
+        "total_warnings_found": warning_count,
+        "total_info_found": info_count,
+        "total_unverified_refs": count_rows_with_raw_type(replacement_records, "unverified"),
+        "errors": replacement_records,
+        "fatal_error": False,
+        "fatal_error_message": None,
+    })
+    return row
+
+
+def replace_checkpoint_row(
+    checkpoint_path: Path,
+    replacement_row: dict[str, Any] | None,
+    single_payload: dict[str, Any],
+    paper_id: str,
+    *,
+    dry_run: bool,
+) -> None:
     if not checkpoint_path.exists():
         print(f"Checkpoint not found, skipping: {checkpoint_path}")
         return
@@ -251,7 +318,11 @@ def replace_checkpoint_row(checkpoint_path: Path, replacement_row: dict[str, Any
         raise RuntimeError(f"Expected one checkpoint row for {paper_id} in {checkpoint_path}, found {len(matches)}")
 
     old_row = rows[matches[0]]
-    updated = dict(replacement_row)
+    updated = (
+        dict(replacement_row)
+        if replacement_row is not None
+        else synthesize_checkpoint_row(old_row=old_row, single_payload=single_payload, paper_id=paper_id)
+    )
     updated["index"] = old_row["index"]
     updated["input_spec"] = old_row["input_spec"]
     print(
@@ -291,7 +362,7 @@ def update_one(args: argparse.Namespace, openreview_url: str) -> None:
     )
     replace_bulk_report_paper(args.bulk_results, single_payload, paper_id, dry_run=args.dry_run)
     if args.checkpoint:
-        replace_checkpoint_row(args.checkpoint, checkpoint_row, paper_id, dry_run=args.dry_run)
+        replace_checkpoint_row(args.checkpoint, checkpoint_row, single_payload, paper_id, dry_run=args.dry_run)
 
 
 def main() -> int:
