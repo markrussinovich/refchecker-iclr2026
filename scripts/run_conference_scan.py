@@ -49,7 +49,7 @@ def build_command(args: argparse.Namespace, paper_list: Path, run_dir: Path) -> 
     if not python_bin.exists():
         raise SystemExit(f"RefChecker Python not found: {python_bin}")
 
-    return [
+    command = [
         "/usr/bin/time",
         "-p",
         str(python_bin),
@@ -77,11 +77,71 @@ def build_command(args: argparse.Namespace, paper_list: Path, run_dir: Path) -> 
         "--max-workers",
         str(args.max_workers),
     ]
+    if args.disable_parallel:
+        command.append("--disable-parallel")
+    if args.llm_no_parallel_chunks:
+        command.append("--llm-no-parallel-chunks")
+    if args.llm_max_chunk_workers is not None:
+        command.extend(["--llm-max-chunk-workers", str(args.llm_max_chunk_workers)])
+    return command
 
 
-def write_run_script(run_dir: Path, refchecker: Path, command: list[str]) -> Path:
+def build_stats_report_command(
+    root: Path,
+    conference: str,
+    year: str,
+    scan_report_path: Path,
+    output_dir: Path,
+) -> list[str]:
+    return [
+        sys.executable,
+        str(root / "scripts" / "generate_hallucination_report.py"),
+        "--conference",
+        conference,
+        "--year",
+        year,
+        "--input",
+        str(scan_report_path),
+        "--output",
+        str(output_dir / "hallucination_report.md"),
+        "--chart",
+        str(output_dir / "hallucination_count_distribution.png"),
+    ]
+
+
+def build_overview_command(root: Path, output_dir: Path | None = None) -> list[str]:
+    command = [
+        sys.executable,
+        str(root / "scripts" / "generate_overview_hallucination_rate_chart.py"),
+        "--workspace-dir",
+        str(root / "_workspace"),
+    ]
+    if output_dir is not None:
+        command.extend(
+            [
+                "--output",
+                str(output_dir / "papers_with_ge2_flags_by_year.png"),
+                "--data-output",
+                str(output_dir / "papers_with_ge2_flags_by_year.csv"),
+                "--reference-output",
+                str(output_dir / "hallucinated_reference_rate_by_year.png"),
+                "--reference-data-output",
+                str(output_dir / "hallucinated_reference_rate_by_year.csv"),
+            ]
+        )
+    return command
+
+
+def shell_command_line(command: list[str]) -> str:
+    separator = " \\" + "\n  "
+    return separator.join(shlex.quote(part) for part in command)
+
+
+def write_run_script(run_dir: Path, refchecker: Path, commands: list[list[str]]) -> Path:
     script_path = run_dir / "run_full.sh"
-    command_line = " \\\n  ".join(shlex.quote(part) for part in command)
+    command_lines = []
+    for command in commands:
+        command_lines.extend([shell_command_line(command), ""])
     body = "\n".join(
         [
             "#!/usr/bin/env bash",
@@ -89,8 +149,8 @@ def write_run_script(run_dir: Path, refchecker: Path, command: list[str]) -> Pat
             "",
             "export REFCHECKER_KEEP_CHECKPOINT=1",
             f"cd {shlex.quote(str(refchecker))}",
-            command_line,
             "",
+            *command_lines,
         ]
     )
     script_path.write_text(body, encoding="utf-8")
@@ -112,6 +172,9 @@ def main() -> int:
     parser.add_argument("--hallucination-provider", default=DEFAULT_HALLUCINATION_PROVIDER)
     parser.add_argument("--hallucination-model", default=DEFAULT_HALLUCINATION_MODEL)
     parser.add_argument("--max-workers", type=int, default=DEFAULT_MAX_WORKERS)
+    parser.add_argument("--disable-parallel", action="store_true", help="Disable parallel reference verification inside each paper.")
+    parser.add_argument("--llm-no-parallel-chunks", action="store_true", help="Disable parallel LLM chunk processing during bibliography extraction.")
+    parser.add_argument("--llm-max-chunk-workers", type=int, help="Maximum workers for parallel LLM chunk processing.")
     parser.add_argument("--background", "--detach", action="store_true", help="Start the scan in a detached background process.")
     parser.add_argument("--dry-run", action="store_true", help="Print the resolved command without running it.")
     args = parser.parse_args()
@@ -123,11 +186,39 @@ def main() -> int:
         raise SystemExit(f"Paper list not found: {paper_list}")
 
     run_dir = root / "_workspace" / f"{conference}{year}"
+    scan_report_path = run_dir / "results" / "scan_report.json"
+    public_report_dir = root / "reports" / conference / year
+    public_overview_dir = root / "reports" / "overview"
     for subdir in ("fresh_cache", "logs", "results"):
         (run_dir / subdir).mkdir(parents=True, exist_ok=True)
+    public_report_dir.mkdir(parents=True, exist_ok=True)
+    public_overview_dir.mkdir(parents=True, exist_ok=True)
 
     command = build_command(args, paper_list, run_dir)
-    run_script = write_run_script(run_dir, args.refchecker.resolve(), command)
+    workspace_stats_report_command = build_stats_report_command(
+        root,
+        conference,
+        year,
+        scan_report_path,
+        run_dir,
+    )
+    public_stats_report_command = build_stats_report_command(
+        root,
+        conference,
+        year,
+        scan_report_path,
+        public_report_dir,
+    )
+    workspace_overview_command = build_overview_command(root)
+    public_overview_command = build_overview_command(root, public_overview_dir)
+    commands = [
+        command,
+        workspace_stats_report_command,
+        public_stats_report_command,
+        workspace_overview_command,
+        public_overview_command,
+    ]
+    run_script = write_run_script(run_dir, args.refchecker.resolve(), commands)
     log_path = run_dir / "logs" / "run.log"
 
     print(f"conference: {conference}")
@@ -136,10 +227,15 @@ def main() -> int:
     print(f"run_dir: {run_dir}")
     print(f"run_script: {run_script}")
     print(f"log: {log_path}")
+    print(f"stats_report: {run_dir / 'hallucination_report.md'}")
+    print(f"public_stats_report: {public_report_dir / 'hallucination_report.md'}")
+    print(f"overview_dir: {root / '_workspace' / 'overview'}")
+    print(f"public_overview_dir: {public_overview_dir}")
 
     if args.dry_run:
-        print("command:")
-        print(" ".join(shlex.quote(part) for part in command))
+        print("commands:")
+        for command_item in commands:
+            print(" ".join(shlex.quote(part) for part in command_item))
         return 0
 
     env = os.environ.copy()
@@ -147,8 +243,8 @@ def main() -> int:
     if args.background:
         log_file = log_path.open("ab")
         process = subprocess.Popen(
-            command,
-            cwd=args.refchecker,
+            [str(run_script)],
+            cwd=root,
             env=env,
             stdin=subprocess.DEVNULL,
             stdout=log_file,
@@ -160,8 +256,8 @@ def main() -> int:
 
     with log_path.open("ab") as log_file:
         return subprocess.call(
-            command,
-            cwd=args.refchecker,
+            [str(run_script)],
+            cwd=root,
             env=env,
             stdout=log_file,
             stderr=subprocess.STDOUT,

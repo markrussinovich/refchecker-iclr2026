@@ -54,6 +54,34 @@ def paper_total_refs(paper: dict[str, Any]) -> int:
     )
 
 
+def scan_report_total_papers(scan_report: dict[str, Any], papers: list[dict[str, Any]]) -> int:
+    source_summary = scan_report.get("summary") or {}
+    return int(
+        source_summary.get("total_papers_processed")
+        or source_summary.get("total_papers_scanned")
+        or source_summary.get("total_papers")
+        or len(papers)
+    )
+
+
+def chart_distribution_series(summary: dict[str, Any]) -> tuple[list[int], list[int], list[float]]:
+    """Return x values, exact-count bars, and cumulative >= threshold percentages."""
+    distribution: Counter[int] = summary["distribution"]
+    if not distribution:
+        return [], [], []
+
+    x_values = list(range(1, max(distribution) + 1))
+    exact_counts = [distribution.get(value, 0) for value in x_values]
+    total_papers = max(1, int(summary.get("total_papers") or sum(distribution.values())))
+    threshold_pct = [
+        sum(papers_at_count for count, papers_at_count in distribution.items() if count >= value)
+        / total_papers
+        * 100
+        for value in x_values
+    ]
+    return x_values, exact_counts, threshold_pct
+
+
 def normalize_paper(paper: dict[str, Any]) -> dict[str, Any]:
     return {
         "paper_id": paper.get("source_paper_id") or paper.get("paper_id") or "",
@@ -79,7 +107,7 @@ def summary_from_scan_report(scan_report: dict[str, Any]) -> dict[str, Any]:
 
     return {
         "papers": papers,
-        "total_papers": len(papers),
+        "total_papers": scan_report_total_papers(scan_report, papers),
         "distribution": distribution,
         "likely_count": likely_count,
         "papers_with_likely": papers_with_likely,
@@ -149,16 +177,8 @@ def render_chart(summary: dict[str, Any], *, conference: str, year: str, output_
     if not distribution:
         return
 
-    x_values = sorted(distribution)
-    paper_counts = [distribution.get(value, 0) for value in x_values]
+    x_values, paper_counts, threshold_pct = chart_distribution_series(summary)
     positions = np.arange(len(x_values))
-    total_papers = max(1, int(summary.get("total_papers") or sum(distribution.values())))
-    threshold_pct = [
-        sum(papers_at_count for count, papers_at_count in distribution.items() if count >= value)
-        / total_papers
-        * 100
-        for value in x_values
-    ]
 
     fig, ax = plt.subplots(figsize=(10.5, 5.8))
     bar_color = "#4C78A8"
