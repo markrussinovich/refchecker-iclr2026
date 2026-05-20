@@ -1,6 +1,6 @@
 # USENIX-SECURITY 2025 Hallucinated Reference Report
 
-Generated: 2026-05-20 02:47:49 UTC
+Generated: 2026-05-20 13:29:13 UTC
 
 Source: `_workspace/usenix-security2025/results/scan_report.json`
 

@@ -14,6 +14,7 @@ from typing import Any
 
 ROOT = Path(__file__).resolve().parent.parent
 DEFAULT_OUTPUT = ROOT / "_workspace" / "overview" / "papers_with_ge2_flags_by_year.png"
+DEFAULT_ACADEMIC_PAPER_OUTPUT = ROOT / "_workspace" / "overview" / "papers_with_ge2_academic_flags_by_year.png"
 DEFAULT_REFERENCE_OUTPUT = ROOT / "_workspace" / "overview" / "hallucinated_reference_rate_by_year.png"
 DEFAULT_ACADEMIC_REFERENCE_OUTPUT = ROOT / "_workspace" / "overview" / "academic_paper_hallucinated_reference_rate_by_year.png"
 CONFERENCE_DIR_RE = re.compile(r"^(iclr|icml|neurips|usenix-security)(\d{4})$")
@@ -32,12 +33,20 @@ ACADEMIC_URL_RE = re.compile(
     r"\b(arxiv\.org|doi\.org|dl\.acm\.org|ieeexplore\.ieee\.org|springer\.com|"
     r"link\.springer\.com|sciencedirect\.com|aclanthology\.org|openreview\.net|"
     r"proceedings\.mlr\.press|proceedings\.neurips\.cc|jmlr\.org|usenix\.org/"
-    r"(?:conference|system/files)|hal\.science|eprint\.iacr\.org)\b",
+    r"(?:conference|system/files)|hal\.science|eprint\.iacr\.org|semanticscholar\.org|"
+    r"projecteuclid\.org|academic\.oup\.com|oup\.com|onlinelibrary\.wiley\.com|"
+    r"wiley\.com|cambridge\.org|tandfonline\.com|sagepub\.com|informs\.org|"
+    r"siam\.org|ams\.org|nber\.org|ssrn\.com|biorxiv\.org|medrxiv\.org|"
+    r"pubmed\.ncbi\.nlm\.nih\.gov|pmc\.ncbi\.nlm\.nih\.gov|frontiersin\.org|"
+    r"mdpi\.com|nature\.com|science\.org|cell\.com|pnas\.org|plos\.org)\b",
     re.IGNORECASE,
 )
 ACADEMIC_TEXT_RE = re.compile(
     r"\b(arxiv|doi|preprint|proceedings|conference|symposium|workshop|journal|"
-    r"transactions|thesis|dissertation|acm|ieee|usenix|ndss|ccs|neurips|icml|"
+    r"transactions|technical report|tech report|research report|working paper|"
+    r"lecture notes|book chapter|monograph|university press|mit press|princeton "
+    r"university press|cambridge university press|oxford university press|wiley|"
+    r"now publishers|foundations and trends|thesis|dissertation|acm|ieee|usenix|ndss|ccs|neurips|icml|"
     r"iclr|cvpr|iccv|eccv|acl|emnlp|naacl|sigir|kdd|sigmod|vldb|pods|sosp|"
     r"osdi|asplos|eurocrypt|crypto|asiacrypt|popets|pets|pmlr|openreview|"
     r"springer|elsevier|jmlr|aaai|ijcai)\b",
@@ -89,6 +98,7 @@ class ConferencePoint:
     year: int
     total_papers: int
     papers_with_flags: int
+    papers_with_academic_flags: int
     total_references: int
     hallucinated_references: int
     academic_hallucinated_references: int
@@ -103,6 +113,10 @@ class ConferencePoint:
     @property
     def paper_rate(self) -> float:
         return self.papers_with_flags / self.total_papers * 100
+
+    @property
+    def academic_paper_rate(self) -> float:
+        return self.papers_with_academic_flags / self.total_papers * 100
 
     @property
     def reference_rate(self) -> float:
@@ -196,8 +210,17 @@ def scan_points(workspace_dir: Path) -> list[ConferencePoint]:
         total_papers = int(summary.get("total_papers_processed") or len(papers) or 0)
         total_references = int(summary.get("total_references_processed") or 0)
         hallucinated_references = int(summary.get("flagged_records") or 0)
-        academic_hallucinated_references = sum(
-            1 for record in report.get("records", []) if is_academic_paper_flag(record)
+        academic_flag_counts_by_paper: dict[str, int] = {}
+        for record in report.get("records", []):
+            if not is_academic_paper_flag(record):
+                continue
+            paper_id = str(record.get("source_paper_id") or "")
+            if paper_id:
+                academic_flag_counts_by_paper[paper_id] = academic_flag_counts_by_paper.get(paper_id, 0) + 1
+
+        academic_hallucinated_references = sum(academic_flag_counts_by_paper.values())
+        papers_with_academic_flags = sum(
+            1 for flag_count in academic_flag_counts_by_paper.values() if flag_count >= FLAG_THRESHOLD
         )
         papers_with_flags = sum(
             1
@@ -220,6 +243,7 @@ def scan_points(workspace_dir: Path) -> list[ConferencePoint]:
                 year=parsed_year,
                 total_papers=total_papers,
                 papers_with_flags=papers_with_flags,
+                papers_with_academic_flags=papers_with_academic_flags,
                 total_references=total_references,
                 hallucinated_references=hallucinated_references,
                 academic_hallucinated_references=academic_hallucinated_references,
@@ -340,6 +364,16 @@ def render_paper_chart(points: list[ConferencePoint], output_path: Path) -> None
     )
 
 
+def render_academic_paper_chart(points: list[ConferencePoint], output_path: Path) -> None:
+    render_timeline_chart(
+        points,
+        output_path,
+        title="Papers With At Least 2 Academic-Paper Hallucination Flags",
+        ylabel="Papers with >=2 academic-paper flags (%)",
+        rate_attr="academic_paper_rate",
+    )
+
+
 def render_reference_chart(points: list[ConferencePoint], output_path: Path) -> None:
     render_timeline_chart(
         [point for point in points if point.total_references > 0],
@@ -369,6 +403,19 @@ def write_data_table(points: list[ConferencePoint], output_path: Path) -> None:
             f"{point.conference},{point.year},{point.submission_deadline.isoformat()},"
             f"{point.total_papers},"
             f"{point.papers_with_flags},{point.paper_rate:.6f}"
+        )
+    output_path.write_text("\n".join(lines) + "\n", encoding="utf-8")
+
+
+def write_academic_paper_data_table(points: list[ConferencePoint], output_path: Path) -> None:
+    lines = [
+        "conference,year,submission_deadline,total_papers,papers_with_ge2_academic_flags,academic_paper_rate_percent"
+    ]
+    for point in sorted(points, key=lambda item: item.submission_deadline):
+        lines.append(
+            f"{point.conference},{point.year},{point.submission_deadline.isoformat()},"
+            f"{point.total_papers},"
+            f"{point.papers_with_academic_flags},{point.academic_paper_rate:.6f}"
         )
     output_path.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
@@ -426,6 +473,18 @@ def parse_args() -> argparse.Namespace:
         help="Output CSV path for chart data.",
     )
     parser.add_argument(
+        "--academic-paper-output",
+        type=Path,
+        default=DEFAULT_ACADEMIC_PAPER_OUTPUT,
+        help="Output PNG path for the >=2 academic-paper flags chart.",
+    )
+    parser.add_argument(
+        "--academic-paper-data-output",
+        type=Path,
+        default=DEFAULT_ACADEMIC_PAPER_OUTPUT.with_suffix(".csv"),
+        help="Output CSV path for >=2 academic-paper flags chart data.",
+    )
+    parser.add_argument(
         "--reference-output",
         type=Path,
         default=DEFAULT_REFERENCE_OUTPUT,
@@ -456,13 +515,17 @@ def main() -> None:
     args = parse_args()
     points = scan_points(args.workspace_dir)
     render_paper_chart(points, args.output)
+    render_academic_paper_chart(points, args.academic_paper_output)
     render_reference_chart(points, args.reference_output)
     render_academic_reference_chart(points, args.academic_reference_output)
     write_data_table(points, args.data_output)
+    write_academic_paper_data_table(points, args.academic_paper_data_output)
     write_reference_data_table(points, args.reference_data_output)
     write_academic_reference_data_table(points, args.academic_reference_data_output)
     print(f"Wrote {args.output}")
     print(f"Wrote {args.data_output}")
+    print(f"Wrote {args.academic_paper_output}")
+    print(f"Wrote {args.academic_paper_data_output}")
     print(f"Wrote {args.reference_output}")
     print(f"Wrote {args.reference_data_output}")
     print(f"Wrote {args.academic_reference_output}")

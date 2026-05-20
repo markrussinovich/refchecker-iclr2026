@@ -78,6 +78,14 @@ def generate_overview(workspace_dir: Path, reports_dir: Path) -> None:
     points = overview_report.scan_points(workspace_dir)
     overview_report.render_paper_chart(points, output_dir / "papers_with_ge2_flags_by_year.png")
     overview_report.write_data_table(points, output_dir / "papers_with_ge2_flags_by_year.csv")
+    overview_report.render_academic_paper_chart(
+        points,
+        output_dir / "papers_with_ge2_academic_flags_by_year.png",
+    )
+    overview_report.write_academic_paper_data_table(
+        points,
+        output_dir / "papers_with_ge2_academic_flags_by_year.csv",
+    )
     overview_report.render_reference_chart(points, output_dir / "hallucinated_reference_rate_by_year.png")
     overview_report.write_reference_data_table(
         points,
@@ -93,6 +101,8 @@ def generate_overview(workspace_dir: Path, reports_dir: Path) -> None:
     )
     print(f"Wrote {output_dir / 'papers_with_ge2_flags_by_year.png'}")
     print(f"Wrote {output_dir / 'papers_with_ge2_flags_by_year.csv'}")
+    print(f"Wrote {output_dir / 'papers_with_ge2_academic_flags_by_year.png'}")
+    print(f"Wrote {output_dir / 'papers_with_ge2_academic_flags_by_year.csv'}")
     print(f"Wrote {output_dir / 'hallucinated_reference_rate_by_year.png'}")
     print(f"Wrote {output_dir / 'hallucinated_reference_rate_by_year.csv'}")
     print(f"Wrote {output_dir / 'academic_paper_hallucinated_reference_rate_by_year.png'}")

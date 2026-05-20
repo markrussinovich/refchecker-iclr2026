@@ -1,6 +1,6 @@
 # USENIX-SECURITY 2021 Hallucinated Reference Report
 
-Generated: 2026-05-20 02:47:48 UTC
+Generated: 2026-05-20 13:29:11 UTC
 
 Source: `_workspace/usenix-security2021/results/scan_report.json`
 
