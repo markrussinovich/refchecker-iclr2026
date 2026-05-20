@@ -15,9 +15,54 @@ from typing import Any
 ROOT = Path(__file__).resolve().parent.parent
 DEFAULT_OUTPUT = ROOT / "_workspace" / "overview" / "papers_with_ge2_flags_by_year.png"
 DEFAULT_REFERENCE_OUTPUT = ROOT / "_workspace" / "overview" / "hallucinated_reference_rate_by_year.png"
-CONFERENCE_DIR_RE = re.compile(r"^(iclr|icml|neurips)(\d{4})$")
+DEFAULT_ACADEMIC_REFERENCE_OUTPUT = ROOT / "_workspace" / "overview" / "academic_paper_hallucinated_reference_rate_by_year.png"
+CONFERENCE_DIR_RE = re.compile(r"^(iclr|icml|neurips|usenix-security)(\d{4})$")
 FLAG_THRESHOLD = 2
 CHATGPT_RELEASE_DATE = date(2022, 11, 30)
+CONFERENCE_LABELS = {"usenix-security": "USENIX"}
+ACADEMIC_DATABASES = {
+    "ACL Anthology",
+    "ArXiv",
+    "CrossRef",
+    "DBLP",
+    "OpenAlex",
+    "Semantic Scholar",
+}
+ACADEMIC_URL_RE = re.compile(
+    r"\b(arxiv\.org|doi\.org|dl\.acm\.org|ieeexplore\.ieee\.org|springer\.com|"
+    r"link\.springer\.com|sciencedirect\.com|aclanthology\.org|openreview\.net|"
+    r"proceedings\.mlr\.press|proceedings\.neurips\.cc|jmlr\.org|usenix\.org/"
+    r"(?:conference|system/files)|hal\.science|eprint\.iacr\.org)\b",
+    re.IGNORECASE,
+)
+ACADEMIC_TEXT_RE = re.compile(
+    r"\b(arxiv|doi|preprint|proceedings|conference|symposium|workshop|journal|"
+    r"transactions|thesis|dissertation|acm|ieee|usenix|ndss|ccs|neurips|icml|"
+    r"iclr|cvpr|iccv|eccv|acl|emnlp|naacl|sigir|kdd|sigmod|vldb|pods|sosp|"
+    r"osdi|asplos|eurocrypt|crypto|asiacrypt|popets|pets|pmlr|openreview|"
+    r"springer|elsevier|jmlr|aaai|ijcai)\b",
+    re.IGNORECASE,
+)
+NON_ACADEMIC_URL_RE = re.compile(
+    r"\b(github\.com|gitlab\.|bitbucket\.org|sourceforge\.net|npmjs\.com|pypi\.org|"
+    r"youtube\.com|youtu\.be|twitter\.com|x\.com|reddit\.com|medium\.com|substack\.com|"
+    r"wordpress\.com|blogspot\.com|support\.|docs\.|developer\.|developers\.|"
+    r"stackoverflow\.com|stackexchange\.com|wikipedia\.org|bbc\.com|nytimes\.com|"
+    r"theguardian\.com|forbes\.com|wired\.com|techcrunch\.com|arstechnica\.com|"
+    r"bloomberg\.com|businesswire\.com|marketresearch|fundrazr\.com|givesendgo\.com|"
+    r"indiegogo\.com|change\.org|discord|hackforums\.net|\.onion|bit\.ly|tinyurl\.com|"
+    r"rb\.gy|encr\.pw|l1nq\.com|t\.co)\b",
+    re.IGNORECASE,
+)
+NON_ACADEMIC_TEXT_RE = re.compile(
+    r"\b(blog post|news article|newspaper article|youtube video|video poc|web page|"
+    r"website|homepage|product page|support page|documentation page|github repository|"
+    r"gitlab repository|software repository|bug tracker|issue tracker|pull request|"
+    r"source code|code commit|commercial service|marketing page|crowdfunding|campaign|"
+    r"market research|market report|vendor page|not an academic paper|not a formal "
+    r"publication|not a publication|not a paper)\b",
+    re.IGNORECASE,
+)
 
 # Full-paper submission deadlines, used as the timeline position for each accepted-paper corpus.
 SUBMISSION_DEADLINES: dict[tuple[str, int], date] = {
@@ -32,6 +77,9 @@ SUBMISSION_DEADLINES: dict[tuple[str, int], date] = {
     ("NEURIPS", 2024): date(2024, 5, 22),
     ("NEURIPS", 2025): date(2025, 5, 15),
     ("NEURIPS", 2026): date(2026, 5, 6),
+    ("USENIX", 2021): date(2021, 2, 4),
+    ("USENIX", 2024): date(2024, 2, 8),
+    ("USENIX", 2025): date(2025, 2, 6),
 }
 
 
@@ -43,6 +91,7 @@ class ConferencePoint:
     papers_with_flags: int
     total_references: int
     hallucinated_references: int
+    academic_hallucinated_references: int
 
     @property
     def submission_deadline(self) -> date:
@@ -59,10 +108,72 @@ class ConferencePoint:
     def reference_rate(self) -> float:
         return self.hallucinated_references / self.total_references * 100
 
+    @property
+    def academic_reference_rate(self) -> float:
+        return self.academic_hallucinated_references / self.total_references * 100
+
 
 def load_json(path: Path) -> dict[str, Any]:
     with path.open(encoding="utf-8") as handle:
         return json.load(handle)
+
+
+def is_likely_hallucinated_record(record: dict[str, Any]) -> bool:
+    assessment = record.get("hallucination_assessment") or {}
+    if assessment.get("verdict") == "LIKELY":
+        return True
+    details = str(record.get("error_details") or "")
+    return "Likely hallucinated" in details or "🚩" in details
+
+
+def record_text(record: dict[str, Any]) -> str:
+    assessment = record.get("hallucination_assessment") or {}
+    fields = [
+        record.get("ref_title"),
+        record.get("ref_authors_cited"),
+        record.get("ref_raw_text"),
+        record.get("ref_standard_format"),
+        record.get("matched_database"),
+        assessment.get("found_title"),
+        assessment.get("found_authors"),
+        assessment.get("found_venue"),
+        assessment.get("explanation"),
+    ]
+    return " ".join(str(field) for field in fields if field)
+
+
+def record_urls(record: dict[str, Any]) -> list[str]:
+    assessment = record.get("hallucination_assessment") or {}
+    return [
+        str(url)
+        for url in (
+            record.get("ref_url_cited"),
+            record.get("ref_verified_url"),
+            assessment.get("link"),
+        )
+        if url
+    ]
+
+
+def is_academic_paper_flag(record: dict[str, Any]) -> bool:
+    if not is_likely_hallucinated_record(record):
+        return False
+
+    urls = record_urls(record)
+    cited_url = str(record.get("ref_url_cited") or "")
+    if cited_url and NON_ACADEMIC_URL_RE.search(cited_url) and not ACADEMIC_URL_RE.search(cited_url):
+        return False
+
+    text = record_text(record)
+    if NON_ACADEMIC_TEXT_RE.search(text):
+        return False
+
+    matched_database = str(record.get("matched_database") or "")
+    return (
+        matched_database in ACADEMIC_DATABASES
+        or any(ACADEMIC_URL_RE.search(url) for url in urls)
+        or bool(ACADEMIC_TEXT_RE.search(text))
+    )
 
 
 def scan_points(workspace_dir: Path) -> list[ConferencePoint]:
@@ -85,6 +196,9 @@ def scan_points(workspace_dir: Path) -> list[ConferencePoint]:
         total_papers = int(summary.get("total_papers_processed") or len(papers) or 0)
         total_references = int(summary.get("total_references_processed") or 0)
         hallucinated_references = int(summary.get("flagged_records") or 0)
+        academic_hallucinated_references = sum(
+            1 for record in report.get("records", []) if is_academic_paper_flag(record)
+        )
         papers_with_flags = sum(
             1
             for paper in papers
@@ -94,8 +208,8 @@ def scan_points(workspace_dir: Path) -> list[ConferencePoint]:
         if total_papers <= 0:
             continue
 
-        conference, year = match.groups()
-        conference = conference.upper()
+        conference_key, year = match.groups()
+        conference = CONFERENCE_LABELS.get(conference_key, conference_key.upper())
         parsed_year = int(year)
         if (conference, parsed_year) not in SUBMISSION_DEADLINES:
             raise ValueError(f"Missing submission deadline for {conference} {parsed_year}")
@@ -108,6 +222,7 @@ def scan_points(workspace_dir: Path) -> list[ConferencePoint]:
                 papers_with_flags=papers_with_flags,
                 total_references=total_references,
                 hallucinated_references=hallucinated_references,
+                academic_hallucinated_references=academic_hallucinated_references,
             )
         )
 
@@ -131,9 +246,9 @@ def render_timeline_chart(
     if not points:
         raise ValueError("No completed scan reports found with reference totals.")
 
-    conferences = ["ICML", "ICLR", "NEURIPS"]
-    colors = {"ICML": "#4C78A8", "ICLR": "#F58518", "NEURIPS": "#54A24B"}
-    markers = {"ICML": "o", "ICLR": "s", "NEURIPS": "^"}
+    conferences = ["ICML", "ICLR", "NEURIPS", "USENIX"]
+    colors = {"ICML": "#4C78A8", "ICLR": "#F58518", "NEURIPS": "#54A24B", "USENIX": "#B279A2"}
+    markers = {"ICML": "o", "ICLR": "s", "NEURIPS": "^", "USENIX": "D"}
 
     fig, ax = plt.subplots(figsize=(10.5, 5.8))
     for conference in conferences:
@@ -235,6 +350,16 @@ def render_reference_chart(points: list[ConferencePoint], output_path: Path) -> 
     )
 
 
+def render_academic_reference_chart(points: list[ConferencePoint], output_path: Path) -> None:
+    render_timeline_chart(
+        [point for point in points if point.total_references > 0],
+        output_path,
+        title="Academic-Paper Hallucinated Reference Rate",
+        ylabel="Academic-paper hallucinated references (%)",
+        rate_attr="academic_reference_rate",
+    )
+
+
 def write_data_table(points: list[ConferencePoint], output_path: Path) -> None:
     lines = [
         "conference,year,submission_deadline,total_papers,papers_with_ge2_flags,paper_rate_percent"
@@ -259,6 +384,21 @@ def write_reference_data_table(points: list[ConferencePoint], output_path: Path)
             f"{point.conference},{point.year},{point.submission_deadline.isoformat()},"
             f"{point.total_references},"
             f"{point.hallucinated_references},{point.reference_rate:.6f}"
+        )
+    output_path.write_text("\n".join(lines) + "\n", encoding="utf-8")
+
+
+def write_academic_reference_data_table(points: list[ConferencePoint], output_path: Path) -> None:
+    lines = [
+        "conference,year,submission_deadline,total_references,academic_paper_hallucinated_references,academic_paper_hallucination_rate_percent"
+    ]
+    for point in sorted(points, key=lambda item: item.submission_deadline):
+        if point.total_references <= 0:
+            continue
+        lines.append(
+            f"{point.conference},{point.year},{point.submission_deadline.isoformat()},"
+            f"{point.total_references},"
+            f"{point.academic_hallucinated_references},{point.academic_reference_rate:.6f}"
         )
     output_path.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
@@ -297,6 +437,18 @@ def parse_args() -> argparse.Namespace:
         default=DEFAULT_REFERENCE_OUTPUT.with_suffix(".csv"),
         help="Output CSV path for reference-rate chart data.",
     )
+    parser.add_argument(
+        "--academic-reference-output",
+        type=Path,
+        default=DEFAULT_ACADEMIC_REFERENCE_OUTPUT,
+        help="Output PNG path for the academic-paper reference-rate chart.",
+    )
+    parser.add_argument(
+        "--academic-reference-data-output",
+        type=Path,
+        default=DEFAULT_ACADEMIC_REFERENCE_OUTPUT.with_suffix(".csv"),
+        help="Output CSV path for academic-paper reference-rate chart data.",
+    )
     return parser.parse_args()
 
 
@@ -305,12 +457,16 @@ def main() -> None:
     points = scan_points(args.workspace_dir)
     render_paper_chart(points, args.output)
     render_reference_chart(points, args.reference_output)
+    render_academic_reference_chart(points, args.academic_reference_output)
     write_data_table(points, args.data_output)
     write_reference_data_table(points, args.reference_data_output)
+    write_academic_reference_data_table(points, args.academic_reference_data_output)
     print(f"Wrote {args.output}")
     print(f"Wrote {args.data_output}")
     print(f"Wrote {args.reference_output}")
     print(f"Wrote {args.reference_data_output}")
+    print(f"Wrote {args.academic_reference_output}")
+    print(f"Wrote {args.academic_reference_data_output}")
 
 
 if __name__ == "__main__":

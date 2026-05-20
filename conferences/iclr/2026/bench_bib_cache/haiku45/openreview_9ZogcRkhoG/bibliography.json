@@ -1,0 +1,1278 @@
+[
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Josh Abramson",
+      "Jonas Adler",
+      "Jack Dunger",
+      "Richard Evans",
+      "Tim Green",
+      "Alexander Pritzel",
+      "Olaf Ronneberger",
+      "Lindsay Willmore",
+      "Andrew J Ballard",
+      "Joshua Bambrick",
+      "et al"
+    ],
+    "venue": "Nature",
+    "title": "Accurate structure prediction of biomolecular interactions with alphafold 3",
+    "raw_text": "Josh Abramson*Jonas Adler*Jack Dunger*Richard Evans*Tim Green*Alexander Pritzel*Olaf Ronneberger*Lindsay Willmore*Andrew J Ballard*Joshua Bambrick*et al.#Accurate structure prediction of biomolecular interactions with alphafold 3#Nature#2024",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Gustaf Ahdritz",
+      "Nazim Bouatta",
+      "Christina Floristean",
+      "Sachin Kadyan",
+      "Qinghui Xia",
+      "William Gerecke",
+      "Timothy J O'Donnell",
+      "Daniel Berenberg",
+      "Ian Fisk",
+      "Niccolò Zanichelli",
+      "et al"
+    ],
+    "venue": "Nature Methods",
+    "title": "Openfold: Retraining alphafold2 yields new insights into its learning mechanisms and capacity for generalization",
+    "raw_text": "Gustaf Ahdritz*Nazim Bouatta*Christina Floristean*Sachin Kadyan*Qinghui Xia*William Gerecke*Timothy J O'Donnell*Daniel Berenberg*Ian Fisk*Niccolò Zanichelli*et al.#Openfold: Retraining alphafold2 yields new insights into its learning mechanisms and capacity for generalization#Nature Methods#2024",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2023,
+    "authors": [
+      "Nicolas Ancona",
+      "Ananta Bastola",
+      "Emil Alexov"
+    ],
+    "venue": "Journal of computational biophysics and chemistry",
+    "title": "PKAD-2: new entries and expansion of functionalities of the database of experimentally measured pka's of proteins",
+    "raw_text": "Nicolas Ancona*Ananta Bastola*Emil Alexov#PKAD-2: new entries and expansion of functionalities of the database of experimentally measured pka's of proteins#Journal of computational biophysics and chemistry#2023",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2022,
+    "authors": [
+      "Ilyes Batatia",
+      "David P Kovacs",
+      "Gregor Simm",
+      "Christoph Ortner",
+      "Gábor Csányi"
+    ],
+    "venue": "Advances in neural information processing systems",
+    "title": "MACE: Higher order equivariant message passing neural networks for fast and accurate force fields",
+    "raw_text": "Ilyes Batatia*David P Kovacs*Gregor Simm*Christoph Ortner*Gábor Csányi#MACE: Higher order equivariant message passing neural networks for fast and accurate force fields#Advances in neural information processing systems#2022",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2011,
+    "authors": [
+      "Jörg Behler"
+    ],
+    "venue": "The Journal of chemical physics",
+    "title": "Atom-centered symmetry functions for constructing high-dimensional neural network potentials",
+    "raw_text": "Jörg Behler#Atom-centered symmetry functions for constructing high-dimensional neural network potentials#The Journal of chemical physics#2011",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2016,
+    "authors": [
+      "Jörg Behler"
+    ],
+    "venue": "The Journal of chemical physics",
+    "title": "Perspective: Machine learning potentials for atomistic simulations",
+    "raw_text": "Jörg Behler#Perspective: Machine learning potentials for atomistic simulations#The Journal of chemical physics#2016",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2007,
+    "authors": [
+      "Jörg Behler",
+      "Michele Parrinello"
+    ],
+    "venue": "Physical review letters",
+    "title": "Generalized neural-network representation of high-dimensional potential-energy surfaces",
+    "raw_text": "Jörg Behler*Michele Parrinello#Generalized neural-network representation of high-dimensional potential-energy surfaces#Physical review letters#2007",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2015,
+    "authors": [
+      "Wolfgang Bermel",
+      "Ivano Bertini",
+      "Isabella C Felli",
+      "Roberta Pierattelli"
+    ],
+    "venue": "Natural Product Reports",
+    "title": "NMR spectroscopy for the structural characterization of natural products",
+    "raw_text": "Wolfgang Bermel*Ivano Bertini*Isabella C Felli*Roberta Pierattelli#NMR spectroscopy for the structural characterization of natural products#Natural Product Reports#2015",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2021,
+    "authors": [
+      "Amit Boyarski",
+      "Alex Bronstein"
+    ],
+    "venue": "Computer Vision: A Reference Guide",
+    "title": "Multidimensional scaling",
+    "raw_text": "Amit Boyarski*Alex Bronstein#Multidimensional scaling#Computer Vision: A Reference Guide#2021",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2017,
+    "authors": [
+      "Stephen K Burley",
+      "Helen M Berman",
+      "Gerard J Kleywegt",
+      "John L Markley",
+      "Haruki Nakamura",
+      "Sameer Velankar"
+    ],
+    "venue": "Protein crystallography: methods and protocols",
+    "title": "Protein data bank (pdb): the single global macromolecular structure archive",
+    "raw_text": "Stephen K Burley*Helen M Berman*Gerard J Kleywegt*John L Markley*Haruki Nakamura*Sameer Velankar#Protein data bank (pdb): the single global macromolecular structure archive#Protein crystallography: methods and protocols#2017",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2013,
+    "authors": [
+      "David A Case"
+    ],
+    "venue": "Current Opinion in Structural Biology",
+    "title": "Chemical shift prediction in biomolecular nmr",
+    "raw_text": "David A Case#Chemical shift prediction in biomolecular nmr#Current Opinion in Structural Biology#2013",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2019,
+    "authors": [
+      "Lixue Cheng",
+      "Matthew Welborn",
+      "Anders S Christensen",
+      "Thomas F Miller"
+    ],
+    "venue": "The Journal of chemical physics",
+    "title": "A universal density matrix functional from molecular orbital-based machine learning: Transferability across organic molecules",
+    "raw_text": "Lixue Cheng*Matthew Welborn*Anders S Christensen*Thomas F Miller#A universal density matrix functional from molecular orbital-based machine learning: Transferability across organic molecules#The Journal of chemical physics#2019",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2023,
+    "authors": [
+      "Stefan Chmiela",
+      "Valentin Vassilev-Galindo",
+      "Oliver T Unke",
+      "Adil Kabylda",
+      "Huziel E Sauceda",
+      "Alexandre Tkatchenko",
+      "Klaus-Robert Müller"
+    ],
+    "venue": "Science Advances",
+    "title": "Accurate global machine learning force fields for molecules with hundreds of atoms",
+    "raw_text": "Stefan Chmiela*Valentin Vassilev-Galindo*Oliver T Unke*Adil Kabylda*Huziel E Sauceda*Alexandre Tkatchenko*Klaus-Robert Müller#Accurate global machine learning force fields for molecules with hundreds of atoms#Science Advances#2023",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2016,
+    "authors": [
+      "Timothy D.W. Claridge"
+    ],
+    "venue": "Elsevier",
+    "title": "High-Resolution NMR Techniques in Organic Chemistry",
+    "raw_text": "Timothy D.W. Claridge#High-Resolution NMR Techniques in Organic Chemistry#Elsevier#2016",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2023,
+    "authors": [
+      "Bowen Deng",
+      "Peichen Zhong",
+      "KyuJung Jun",
+      "Janosh Riebesell",
+      "Kevin Han",
+      "Christopher J Bartel",
+      "Gerbrand Ceder"
+    ],
+    "venue": "Nature Machine Intelligence",
+    "title": "CHGNet as a pretrained universal neural network potential for charge-informed atomistic modelling",
+    "raw_text": "Bowen Deng*Peichen Zhong*KyuJung Jun*Janosh Riebesell*Kevin Han*Christopher J Bartel*Gerbrand Ceder#CHGNet as a pretrained universal neural network potential for charge-informed atomistic modelling#Nature Machine Intelligence#2023",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2019,
+    "authors": [
+      "Jacob Devlin",
+      "Ming-Wei Chang",
+      "Kenton Lee",
+      "Kristina Toutanova"
+    ],
+    "venue": "Proceedings of the 2019 conference of the North American chapter of the association for computational linguistics: human language technologies",
+    "title": "BERT: Pre-training of deep bidirectional transformers for language understanding",
+    "raw_text": "Jacob Devlin*Ming-Wei Chang*Kenton Lee*Kristina Toutanova#BERT: Pre-training of deep bidirectional transformers for language understanding#Proceedings of the 2019 conference of the North American chapter of the association for computational linguistics: human language technologies#2019",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2018,
+    "authors": [
+      "Stefan Elfwing",
+      "Eiji Uchibe",
+      "Kenji Doya"
+    ],
+    "venue": "Neural networks",
+    "title": "Sigmoid-weighted linear units for neural network function approximation in reinforcement learning",
+    "raw_text": "Stefan Elfwing*Eiji Uchibe*Kenji Doya#Sigmoid-weighted linear units for neural network function approximation in reinforcement learning#Neural networks#2018",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Rokas Elijošius",
+      "Fabian Zills",
+      "Ilyes Batatia",
+      "Sam Walton Norwood",
+      "Dávid Péter Kovács",
+      "Christian Holm",
+      "Gábor Csányi"
+    ],
+    "venue": "Nature Communications",
+    "title": "Zero shot molecular generation via similarity kernels",
+    "raw_text": "Rokas Elijošius*Fabian Zills*Ilyes Batatia*Sam Walton Norwood*Dávid Péter Kovács*Christian Holm*Gábor Csányi#Zero shot molecular generation via similarity kernels#Nature Communications#2025",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Zsolt Fazekas",
+      "Dóra K. Menyhárd",
+      "András Perczel"
+    ],
+    "venue": "Nature Communications",
+    "title": "LoCoHD: a metric for comparing local environments of proteins",
+    "raw_text": "Zsolt Fazekas*Dóra K. Menyhárd*András Perczel#LoCoHD: a metric for comparing local environments of proteins#Nature Communications#2024",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 1995,
+    "authors": [
+      "Dmitrij Frishman",
+      "Patrick Argos"
+    ],
+    "venue": "Proteins: Structure, Function, and Bioinformatics",
+    "title": "Knowledge-based protein secondary structure assignment",
+    "raw_text": "Dmitrij Frishman*Patrick Argos#Knowledge-based protein secondary structure assignment#Proteins: Structure, Function, and Bioinformatics#1995",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2017,
+    "authors": [
+      "Justin Gilmer",
+      "Samuel S Schoenholz",
+      "Patrick F Riley",
+      "Oriol Vinyals",
+      "George E Dahl"
+    ],
+    "venue": "International conference on machine learning",
+    "title": "Neural message passing for quantum chemistry",
+    "raw_text": "Justin Gilmer*Samuel S Schoenholz*Patrick F Riley*Oriol Vinyals*George E Dahl#Neural message passing for quantum chemistry#International conference on machine learning#2017",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2022,
+    "authors": [
+      "Hatice Gokcan",
+      "Olexandr Isayev"
+    ],
+    "venue": "Chemical Science",
+    "title": "Prediction of protein pka with representation learning",
+    "raw_text": "Hatice Gokcan*Olexandr Isayev#Prediction of protein pka with representation learning#Chemical Science#2022",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2013,
+    "authors": [
+      "Hans Günther"
+    ],
+    "venue": "Wiley",
+    "title": "NMR Spectroscopy: Basic Principles, Concepts, and Applications in Chemistry",
+    "raw_text": "Hans Günther#NMR Spectroscopy: Basic Principles, Concepts, and Applications in Chemistry#Wiley#2013",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 1979,
+    "authors": [
+      "CW Haigh",
+      "RB Mallion"
+    ],
+    "venue": "Progress in nuclear magnetic resonance spectroscopy",
+    "title": "Ring current theories in nuclear magnetic resonance",
+    "raw_text": "CW Haigh*RB Mallion#Ring current theories in nuclear magnetic resonance#Progress in nuclear magnetic resonance spectroscopy#1979",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2011,
+    "authors": [
+      "B. Han",
+      "Y. Liu",
+      "S.W. Ginzinger",
+      "D.S. Wishart"
+    ],
+    "venue": "Journal of Biomolecular NMR",
+    "title": "SHIFTX2: significantly improved protein chemical shift prediction",
+    "raw_text": "B. Han*Y. Liu*S.W. Ginzinger*D.S. Wishart#SHIFTX2: significantly improved protein chemical shift prediction#Journal of Biomolecular NMR#2011",
+    "type": "other"
+  },
+  {
+    "url": "http://dx.doi.org/10.1126/science.ads0018",
+    "cited_url": "http://dx.doi.org/10.1126/science.ads0018",
+    "arxiv_url": "",
+    "doi": "10.1126/science.ads0018",
+    "year": 2025,
+    "authors": [
+      "Thomas Hayes",
+      "Roshan Rao",
+      "Halil Akin",
+      "Nicholas J. Sofroniew",
+      "Deniz Oktay",
+      "Zeming Lin",
+      "Robert Verkuil",
+      "Vincent Q. Tran",
+      "Jonathan Deaton",
+      "Marius Wiggert",
+      "Rohil Badkundri",
+      "Irhum Shafkat",
+      "Jun Gong",
+      "Alexander Derry",
+      "Raul S. Molina",
+      "Neil Thomas",
+      "Yousuf A. Khan",
+      "Chetan Mishra",
+      "Carolyn Kim",
+      "Liam J. Bartie",
+      "Matthew Nemeth",
+      "Patrick D. Hsu",
+      "Tom Sercu",
+      "Salvatore Candido",
+      "Alexander Rives"
+    ],
+    "venue": "Science",
+    "title": "Simulating 500 million years of evolution with a language model",
+    "raw_text": "Thomas Hayes*Roshan Rao*Halil Akin*Nicholas J. Sofroniew*Deniz Oktay*Zeming Lin*Robert Verkuil*Vincent Q. Tran*Jonathan Deaton*Marius Wiggert*Rohil Badkundri*Irhum Shafkat*Jun Gong*Alexander Derry*Raul S. Molina*Neil Thomas*Yousuf A. Khan*Chetan Mishra*Carolyn Kim*Liam J. Bartie*Matthew Nemeth*Patrick D. Hsu*Tom Sercu*Salvatore Candido*Alexander Rives#Simulating 500 million years of evolution with a language model#Science#2025#http://dx.doi.org/10.1126/science.ads0018",
+    "type": "non-arxiv"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2023,
+    "authors": [
+      "Jeffrey C Hoch",
+      "Kumaran Baskaran",
+      "Harrison Burr",
+      "John Chin",
+      "Hamid R Eghbalnia",
+      "Toshimichi Fujiwara",
+      "Michael R Gryk",
+      "Takeshi Iwata",
+      "Chojiro Kojima",
+      "Genji Kurisu",
+      "et al"
+    ],
+    "venue": "Nucleic acids research",
+    "title": "Biological magnetic resonance data bank",
+    "raw_text": "Jeffrey C Hoch*Kumaran Baskaran*Harrison Burr*John Chin*Hamid R Eghbalnia*Toshimichi Fujiwara*Michael R Gryk*Takeshi Iwata*Chojiro Kojima*Genji Kurisu*et al.#Biological magnetic resonance data bank#Nucleic acids research#2023",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2006,
+    "authors": [
+      "Viktor Hornak",
+      "Robert Abel",
+      "Asim Okur",
+      "Bentley Strockbine",
+      "Adrian Roitberg",
+      "Carlos Simmerling"
+    ],
+    "venue": "Proteins: Structure, Function, and Bioinformatics",
+    "title": "Comparison of multiple amber force fields and development of improved protein backbone parameters",
+    "raw_text": "Viktor Hornak*Robert Abel*Asim Okur*Bentley Strockbine*Adrian Roitberg*Carlos Simmerling#Comparison of multiple amber force fields and development of improved protein backbone parameters#Proteins: Structure, Function, and Bioinformatics#2006",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2018,
+    "authors": [
+      "Marc OJ Jäger",
+      "Eiaki V Morooka",
+      "Filippo Federici Canova",
+      "Lauri Himanen",
+      "Adam S Foster"
+    ],
+    "venue": "npj Computational Materials",
+    "title": "Machine learning hydrogen adsorption on nanoclusters through structural descriptors",
+    "raw_text": "Marc OJ Jäger*Eiaki V Morooka*Filippo Federici Canova*Lauri Himanen*Adam S Foster#Machine learning hydrogen adsorption on nanoclusters through structural descriptors#npj Computational Materials#2018",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2021,
+    "authors": [
+      "John Jumper",
+      "Richard Evans",
+      "Alexander Pritzel",
+      "Tim Green",
+      "Michael Figurnov",
+      "Olaf Ronneberger",
+      "Kathryn Tunyasuvunakool",
+      "Russ Bates",
+      "Augustin Žídek",
+      "Anna Potapenko",
+      "et al"
+    ],
+    "venue": "nature",
+    "title": "Highly accurate protein structure prediction with alphafold",
+    "raw_text": "John Jumper*Richard Evans*Alexander Pritzel*Tim Green*Michael Figurnov*Olaf Ronneberger*Kathryn Tunyasuvunakool*Russ Bates*Augustin Žídek*Anna Potapenko*et al.#Highly accurate protein structure prediction with alphafold#nature#2021",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 1983,
+    "authors": [
+      "Wolfgang Kabsch",
+      "Christian Sander"
+    ],
+    "venue": "Biopolymers: Original Research on Biomolecules",
+    "title": "Dictionary of protein secondary structure: pattern recognition of hydrogen-bonded and geometrical features",
+    "raw_text": "Wolfgang Kabsch*Christian Sander#Dictionary of protein secondary structure: pattern recognition of hydrogen-bonded and geometrical features#Biopolymers: Original Research on Biomolecules#1983",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2000,
+    "authors": [
+      "Shuichi Kawashima",
+      "Minoru Kanehisa"
+    ],
+    "venue": "Nucleic acids research",
+    "title": "Aaindex: amino acid index database",
+    "raw_text": "Shuichi Kawashima*Minoru Kanehisa#Aaindex: amino acid index database#Nucleic acids research#2000",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2015,
+    "authors": [
+      "Diederik P Kingma",
+      "Jimmy Ba"
+    ],
+    "venue": "International Conference on Learning Representations",
+    "title": "Adam: A method for stochastic optimization",
+    "raw_text": "Diederik P Kingma*Jimmy Ba#Adam: A method for stochastic optimization#International Conference on Learning Representations#2015",
+    "type": "other"
+  },
+  {
+    "url": "https://arxiv.org/abs/1609.02907",
+    "cited_url": "https://arxiv.org/abs/1609.02907",
+    "arxiv_url": "https://arxiv.org/abs/1609.02907",
+    "doi": null,
+    "year": 2016,
+    "authors": [
+      "Thomas N Kipf",
+      "Max Welling"
+    ],
+    "venue": "arXiv preprint arXiv:1609.02907",
+    "title": "Semi-supervised classification with graph convolutional networks",
+    "raw_text": "Thomas N Kipf*Max Welling#Semi-supervised classification with graph convolutional networks#arXiv preprint arXiv:1609.02907#2016",
+    "type": "arxiv"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2009,
+    "authors": [
+      "Kai J Kohlhoff",
+      "Paul Robustelli",
+      "Andrea Cavalli",
+      "Xavier Salvatella",
+      "Michele Vendruscolo"
+    ],
+    "venue": "Journal of the American Chemical Society",
+    "title": "Fast and accurate predictions of protein nmr chemical shifts from interatomic distances",
+    "raw_text": "Kai J Kohlhoff*Paul Robustelli*Andrea Cavalli*Xavier Salvatella*Michele Vendruscolo#Fast and accurate predictions of protein nmr chemical shifts from interatomic distances#Journal of the American Chemical Society#2009",
+    "type": "other"
+  },
+  {
+    "url": "https://arxiv.org/abs/2312.15211",
+    "cited_url": "https://arxiv.org/abs/2312.15211",
+    "arxiv_url": "https://arxiv.org/abs/2312.15211",
+    "doi": null,
+    "year": 2023,
+    "authors": [
+      "Dávid Péter Kovács",
+      "J Harry Moore",
+      "Nicholas J Browning",
+      "Ilyes Batatia",
+      "Joshua T Horton",
+      "Venkat Kapil",
+      "William C Witt",
+      "Ioan-Bogdan Magdău",
+      "Daniel J Cole",
+      "Gábor Csányi"
+    ],
+    "venue": "arXiv preprint arXiv:2312.15211",
+    "title": "Mace-off23: Transferable machine learning force fields for organic molecules",
+    "raw_text": "Dávid Péter Kovács*J Harry Moore*Nicholas J Browning*Ilyes Batatia*Joshua T Horton*Venkat Kapil*William C Witt*Ioan-Bogdan Magdău*Daniel J Cole*Gábor Csányi#Mace-off23: Transferable machine learning force fields for organic molecules#arXiv preprint arXiv:2312.15211#2023",
+    "type": "arxiv"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Dávid Péter Kovács",
+      "J Harry Moore",
+      "Nicholas J Browning",
+      "Ilyes Batatia",
+      "Joshua T Horton",
+      "Yixuan Pu",
+      "Venkat Kapil",
+      "William C Witt",
+      "Ioan-Bogdan Magdau",
+      "Daniel J Cole",
+      "et al"
+    ],
+    "venue": "Journal of the American Chemical Society",
+    "title": "Mace-off: Short-range transferable machine learning force fields for organic molecules",
+    "raw_text": "Dávid Péter Kovács*J Harry Moore*Nicholas J Browning*Ilyes Batatia*Joshua T Horton*Yixuan Pu*Venkat Kapil*William C Witt*Ioan-Bogdan Magdau*Daniel J Cole*et al.#Mace-off: Short-range transferable machine learning force fields for organic molecules#Journal of the American Chemical Society#2025",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2007,
+    "authors": [
+      "Ilya Kuprov",
+      "Nicola Wagner-Rundell",
+      "P. J. Hore"
+    ],
+    "venue": "Progress in Nuclear Magnetic Resonance Spectroscopy",
+    "title": "Nmr of large proteins: Overcoming the relaxation hurdle",
+    "raw_text": "Ilya Kuprov*Nicola Wagner-Rundell*P. J. Hore#Nmr of large proteins: Overcoming the relaxation hurdle#Progress in Nuclear Magnetic Resonance Spectroscopy#2007",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2014,
+    "authors": [
+      "Vivian Law",
+      "Craig Knox",
+      "Yannick Djoumbou",
+      "Tim Jewison",
+      "An Chi Guo",
+      "Yifeng Liu",
+      "Adam Maciejewski",
+      "David Arndt",
+      "Michael Wilson",
+      "Vanessa Neveu",
+      "et al"
+    ],
+    "venue": "Nucleic acids research",
+    "title": "Drugbank 4.0: shedding new light on drug metabolism",
+    "raw_text": "Vivian Law*Craig Knox*Yannick Djoumbou*Tim Jewison*An Chi Guo*Yifeng Liu*Adam Maciejewski*David Arndt*Michael Wilson*Vanessa Neveu*et al.#Drugbank 4.0: shedding new light on drug metabolism#Nucleic acids research#2014",
+    "type": "other"
+  },
+  {
+    "url": "https://arxiv.org/abs/2406.04239",
+    "cited_url": "https://arxiv.org/abs/2406.04239",
+    "arxiv_url": "https://arxiv.org/abs/2406.04239",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Axel Levy",
+      "Eric R. Chan",
+      "Sara Fridovich-Keil",
+      "Frédéric Poitevin",
+      "Ellen D. Zhong",
+      "Gordon Wetzstein"
+    ],
+    "venue": "arXiv",
+    "title": "Solving inverse problems in protein space using diffusion-based priors",
+    "raw_text": "Axel Levy*Eric R. Chan*Sara Fridovich-Keil*Frédéric Poitevin*Ellen D. Zhong*Gordon Wetzstein#Solving inverse problems in protein space using diffusion-based priors#arXiv#2025#https://arxiv.org/abs/2406.04239",
+    "type": "arxiv"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2012,
+    "authors": [
+      "Da-Wei Li",
+      "Rafael Brüschweiler"
+    ],
+    "venue": "J. Biomol. NMR",
+    "title": "PPM: a side-chain and backbone chemical shift predictor for the assessment of protein conformational ensembles",
+    "raw_text": "Da-Wei Li*Rafael Brüschweiler#PPM: a side-chain and backbone chemical shift predictor for the assessment of protein conformational ensembles#J. Biomol. NMR#2012",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2015,
+    "authors": [
+      "Dawei Li",
+      "Rafael Brüschweiler"
+    ],
+    "venue": "J. Biomol. NMR",
+    "title": "Ppm one: a static protein structure based chemical shift predictor",
+    "raw_text": "Dawei Li*Rafael Brüschweiler#Ppm one: a static protein structure based chemical shift predictor#J. Biomol. NMR#2015",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2023,
+    "authors": [
+      "Zeming Lin",
+      "Halil Akin",
+      "Roshan Rao",
+      "Brian Hie",
+      "Zhongkai Zhu",
+      "Wenting Lu",
+      "Nikita Smetanin",
+      "Robert Verkuil",
+      "Ori Kabeli",
+      "Yaniv Shmueli",
+      "et al"
+    ],
+    "venue": "Science",
+    "title": "Evolutionary-scale prediction of atomic-level protein structure with a language model",
+    "raw_text": "Zeming Lin*Halil Akin*Roshan Rao*Brian Hie*Zhongkai Zhu*Wenting Lu*Nikita Smetanin*Robert Verkuil*Ori Kabeli*Yaniv Shmueli*et al.#Evolutionary-scale prediction of atomic-level protein structure with a language model#Science#2023",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Advaith Maddipatla",
+      "Nadav Bojan Sellam",
+      "Meital Bojan",
+      "Sanketh Vedula",
+      "Paul Schanda",
+      "Ailie Marx",
+      "Alex M. Bronstein"
+    ],
+    "venue": "Forty-second International Conference on Machine Learning",
+    "title": "Inverse problems with experiment-guided alphafold",
+    "raw_text": "Advaith Maddipatla*Nadav Bojan Sellam*Meital Bojan*Sanketh Vedula*Paul Schanda*Ailie Marx*Alex M. Bronstein#Inverse problems with experiment-guided alphafold#Forty-second International Conference on Machine Learning#2025",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Sai Advaith Maddipatla",
+      "Nadav Bojan Sellam",
+      "Sanketh Vedula",
+      "Ailie Marx",
+      "Alex Bronstein"
+    ],
+    "venue": "NeurIPS 2024 Workshop on Machine Learning for Structural Biology",
+    "title": "Generative modeling of protein ensembles guided by crystallographic electron densities",
+    "raw_text": "Sai Advaith Maddipatla*Nadav Bojan Sellam*Sanketh Vedula*Ailie Marx*Alex Bronstein#Generative modeling of protein ensembles guided by crystallographic electron densities#NeurIPS 2024 Workshop on Machine Learning for Structural Biology#2024",
+    "type": "other"
+  },
+  {
+    "url": "https://arxiv.org/abs/1802.03426",
+    "cited_url": "https://arxiv.org/abs/1802.03426",
+    "arxiv_url": "https://arxiv.org/abs/1802.03426",
+    "doi": null,
+    "year": 2018,
+    "authors": [
+      "Leland McInnes",
+      "John Healy",
+      "James Melville"
+    ],
+    "venue": "arXiv preprint arXiv:1802.03426",
+    "title": "Umap: Uniform manifold approximation and projection for dimension reduction",
+    "raw_text": "Leland McInnes*John Healy*James Melville#Umap: Uniform manifold approximation and projection for dimension reduction#arXiv preprint arXiv:1802.03426#2018",
+    "type": "arxiv"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2003,
+    "authors": [
+      "Jens Meiler"
+    ],
+    "venue": "Journal of Biomolecular NMR",
+    "title": "Proshift: protein chemical shift prediction using artificial neural networks",
+    "raw_text": "Jens Meiler#Proshift: protein chemical shift prediction using artificial neural networks#Journal of Biomolecular NMR#2003",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2007,
+    "authors": [
+      "Seongho Moon",
+      "David A Case"
+    ],
+    "venue": "Journal of biomolecular NMR",
+    "title": "A new model for chemical shifts of amide hydrogens in proteins",
+    "raw_text": "Seongho Moon*David A Case#A new model for chemical shifts of amide hydrogens in proteins#Journal of biomolecular NMR#2007",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2003,
+    "authors": [
+      "Stephen Neal",
+      "Amy M Nip",
+      "Hongwei Zhang",
+      "David S Wishart"
+    ],
+    "venue": "Journal of Biomolecular NMR",
+    "title": "Shiftx: chemical shift prediction from protein structures",
+    "raw_text": "Stephen Neal*Amy M Nip*Hongwei Zhang*David S Wishart#Shiftx: chemical shift prediction from protein structures#Journal of Biomolecular NMR#2003",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2019,
+    "authors": [
+      "Frank Noé",
+      "Simon Olsson",
+      "Jonas Köhler",
+      "Hao Wu"
+    ],
+    "venue": "Science",
+    "title": "Boltzmann generators: Sampling equilibrium states of many-body systems with deep learning",
+    "raw_text": "Frank Noé*Simon Olsson*Jonas Köhler*Hao Wu#Boltzmann generators: Sampling equilibrium states of many-body systems with deep learning#Science#2019",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2011,
+    "authors": [
+      "Mats HM Olsson",
+      "Chresten R Søndergaard",
+      "Michal Rostkowski",
+      "Jan H Jensen"
+    ],
+    "venue": "Journal of chemical theory and computation",
+    "title": "Propka3: consistent treatment of internal and surface residues in empirical pka predictions",
+    "raw_text": "Mats HM Olsson*Chresten R Søndergaard*Michal Rostkowski*Jan H Jensen#Propka3: consistent treatment of internal and surface residues in empirical pka predictions#Journal of chemical theory and computation#2011",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Jeffrey Ouyang-Zhang",
+      "Chengyue Gong",
+      "Yue Zhao",
+      "Philipp Kraehenbuehl",
+      "Adam Klivans",
+      "Daniel Jesus Diaz"
+    ],
+    "venue": "The Thirteenth International Conference on Learning Representations",
+    "title": "Distilling structural representations into protein sequence models",
+    "raw_text": "Jeffrey Ouyang-Zhang*Chengyue Gong*Yue Zhao*Philipp Kraehenbuehl*Adam Klivans*Daniel Jesus Diaz#Distilling structural representations into protein sequence models#The Thirteenth International Conference on Learning Representations#2025",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Aleksandra Laura Ptaszek",
+      "Jie Li",
+      "Robert Konrat",
+      "Gerald Platzer",
+      "Teresa Head-Gordon"
+    ],
+    "venue": "Journal of the American Chemical Society",
+    "title": "Ucbshift 2.0: Bridging the gap from backbone to side chain protein chemical shift prediction for protein structures",
+    "raw_text": "Aleksandra Laura Ptaszek*Jie Li*Robert Konrat*Gerald Platzer*Teresa Head-Gordon#Ucbshift 2.0: Bridging the gap from backbone to side chain protein chemical shift prediction for protein structures#Journal of the American Chemical Society#2024",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2020,
+    "authors": [
+      "Zhuoran Qiao",
+      "Matthew Welborn",
+      "Animashree Anandkumar",
+      "Frederick R Manby",
+      "Thomas F Miller"
+    ],
+    "venue": "The Journal of chemical physics",
+    "title": "Orbnet: Deep learning for quantum chemistry using symmetry-adapted atomic-orbital features",
+    "raw_text": "Zhuoran Qiao*Matthew Welborn*Animashree Anandkumar*Frederick R Manby*Thomas F Miller#Orbnet: Deep learning for quantum chemistry using symmetry-adapted atomic-orbital features#The Journal of chemical physics#2020",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2014,
+    "authors": [
+      "Raghunathan Ramakrishnan",
+      "Pavlo O Dral",
+      "Matthias Rupp",
+      "O Anatole V on Lilienfeld"
+    ],
+    "venue": "Scientific data",
+    "title": "Quantum chemistry structures and properties of 134 kilo molecules",
+    "raw_text": "Raghunathan Ramakrishnan*Pavlo O Dral*Matthias Rupp*O Anatole V on Lilienfeld#Quantum chemistry structures and properties of 134 kilo molecules#Scientific data#2014",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2020,
+    "authors": [
+      "Pedro BPS Reis",
+      "Diogo Vila-Vicosa",
+      "Walter Rocchia",
+      "Miguel Machuqueiro"
+    ],
+    "venue": "Journal of chemical information and modeling",
+    "title": "Pypka: A flexible python module for poisson–boltzmann-based pka calculations",
+    "raw_text": "Pedro BPS Reis*Diogo Vila-Vicosa*Walter Rocchia*Miguel Machuqueiro#Pypka: A flexible python module for poisson–boltzmann-based pka calculations#Journal of chemical information and modeling#2020",
+    "type": "other"
+  },
+  {
+    "url": "https://doi.org/10.1038/s41467-022-30390-9",
+    "cited_url": "https://doi.org/10.1038/s41467-022-30390-9",
+    "arxiv_url": "",
+    "doi": "10.1038/s41467-022-30390-9",
+    "year": 2022,
+    "authors": [
+      "A. A. Rosenberg",
+      "A. Marx",
+      "A. M. Bronstein"
+    ],
+    "venue": "Nature Communications",
+    "title": "Codon-specific ramachandran plots show amino acid backbone conformation depends on identity of the translated codon",
+    "raw_text": "A. A. Rosenberg*A. Marx*A. M. Bronstein#Codon-specific ramachandran plots show amino acid backbone conformation depends on identity of the translated codon#Nature Communications#2022#https://doi.org/10.1038/s41467-022-30390-9",
+    "type": "non-arxiv"
+  },
+  {
+    "url": "https://www.biorxiv.org/content/early/2024/08/31/2024.08.31.610605",
+    "cited_url": "https://www.biorxiv.org/content/early/2024/08/31/2024.08.31.610605",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Aviv A. Rosenberg",
+      "Sanketh Vedula",
+      "Alex M. Bronstein",
+      "Ailie Marx"
+    ],
+    "venue": "bioRxiv",
+    "title": "Seeing double: Molecular dynamics simulations reveal the stability of certain alternate protein conformations in crystal structures",
+    "raw_text": "Aviv A. Rosenberg*Sanketh Vedula*Alex M. Bronstein*Ailie Marx#Seeing double: Molecular dynamics simulations reveal the stability of certain alternate protein conformations in crystal structures#bioRxiv#2024#https://www.biorxiv.org/content/early/2024/08/31/2024.08.31.610605",
+    "type": "non-arxiv"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2012,
+    "authors": [
+      "Lars Ruddigkeit",
+      "Ruud Van Deursen",
+      "Lorenz C Blum",
+      "Jean-Louis Reymond"
+    ],
+    "venue": "Journal of chemical information and modeling",
+    "title": "Enumeration of 166 billion organic small molecules in the chemical universe database gdb-17",
+    "raw_text": "Lars Ruddigkeit*Ruud Van Deursen*Lorenz C Blum*Jean-Louis Reymond#Enumeration of 166 billion organic small molecules in the chemical universe database gdb-17#Journal of chemical information and modeling#2012",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2017,
+    "authors": [
+      "Kristof Schütt",
+      "Pieter-Jan Kindermans",
+      "Huziel Enoc Sauceda Felix",
+      "Stefan Chmiela",
+      "Alexandre Tkatchenko",
+      "Klaus-Robert Müller"
+    ],
+    "venue": "Advances in neural information processing systems",
+    "title": "Schnet: A continuous-filter convolutional neural network for modeling quantum interactions",
+    "raw_text": "Kristof Schütt*Pieter-Jan Kindermans*Huziel Enoc Sauceda Felix*Stefan Chmiela*Alexandre Tkatchenko*Klaus-Robert Müller#Schnet: A continuous-filter convolutional neural network for modeling quantum interactions#Advances in neural information processing systems#2017",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2021,
+    "authors": [
+      "Kristof Schütt",
+      "Oliver Unke",
+      "Michael Gastegger"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "title": "Equivariant message passing for the prediction of tensorial properties and molecular spectra",
+    "raw_text": "Kristof Schütt*Oliver Unke*Michael Gastegger#Equivariant message passing for the prediction of tensorial properties and molecular spectra#International Conference on Machine Learning#2021",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2018,
+    "authors": [
+      "Kristof T Schütt",
+      "Huziel E Sauceda",
+      "P-J Kindermans",
+      "Alexandre Tkatchenko",
+      "K-R Müller"
+    ],
+    "venue": "The Journal of Chemical Physics",
+    "title": "Schnet–a deep learning architecture for molecules and materials",
+    "raw_text": "Kristof T Schütt*Huziel E Sauceda*P-J Kindermans*Alexandre Tkatchenko*K-R Müller#Schnet–a deep learning architecture for molecules and materials#The Journal of Chemical Physics#2018",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2008,
+    "authors": [
+      "Yang Shen",
+      "Ad Bax"
+    ],
+    "venue": "Journal of Biomolecular NMR",
+    "title": "Sparta+: a modest improvement in empirical nmr chemical shift prediction by means of an artificial neural network",
+    "raw_text": "Yang Shen*Ad Bax#Sparta+: a modest improvement in empirical nmr chemical shift prediction by means of an artificial neural network#Journal of Biomolecular NMR#2008",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Tomoya Shiota",
+      "Kenji Ishihara",
+      "Wataru Mizukami"
+    ],
+    "venue": "Digital Discovery",
+    "title": "Universal neural network potentials as descriptors: towards scalable chemical property prediction using quantum and classical computers",
+    "raw_text": "Tomoya Shiota*Kenji Ishihara*Wataru Mizukami#Universal neural network potentials as descriptors: towards scalable chemical property prediction using quantum and classical computers#Digital Discovery#2024",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2018,
+    "authors": [
+      "Justin S Smith",
+      "Ben Nebgen",
+      "Nicholas Lubbers",
+      "Olexandr Isayev",
+      "Adrian E Roitberg"
+    ],
+    "venue": "The Journal of chemical physics",
+    "title": "Less is more: Sampling chemical space with active learning",
+    "raw_text": "Justin S Smith*Ben Nebgen*Nicholas Lubbers*Olexandr Isayev*Adrian E Roitberg#Less is more: Sampling chemical space with active learning#The Journal of chemical physics#2018",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2019,
+    "authors": [
+      "Yang Song",
+      "Stefano Ermon"
+    ],
+    "venue": "Advances in neural information processing systems",
+    "title": "Generative modeling by estimating gradients of the data distribution",
+    "raw_text": "Yang Song*Stefano Ermon#Generative modeling by estimating gradients of the data distribution#Advances in neural information processing systems#2019",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2014,
+    "authors": [
+      "Nitish Srivastava",
+      "Geoffrey Hinton",
+      "Alex Krizhevsky",
+      "Ilya Sutskever",
+      "Ruslan Salakhutdinov"
+    ],
+    "venue": "The journal of machine learning research",
+    "title": "Dropout: a simple way to prevent neural networks from overfitting",
+    "raw_text": "Nitish Srivastava*Geoffrey Hinton*Alex Krizhevsky*Ilya Sutskever*Ruslan Salakhutdinov#Dropout: a simple way to prevent neural networks from overfitting#The journal of machine learning research#2014",
+    "type": "other"
+  },
+  {
+    "url": "https://arxiv.org/abs/2504.20955",
+    "cited_url": "https://arxiv.org/abs/2504.20955",
+    "arxiv_url": "https://arxiv.org/abs/2504.20955",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Corin C Wagen",
+      "Elias L Mann",
+      "Jonathon E Vandezande",
+      "Arien M Wagen",
+      "Spencer C Schneider"
+    ],
+    "venue": "arXiv preprint arXiv:2504.20955",
+    "title": "Egret-1: Pretrained neural network potentials for efficient and accurate bioorganic simulation",
+    "raw_text": "Corin C Wagen*Elias L Mann*Jonathon E Vandezande*Arien M Wagen*Spencer C Schneider#Egret-1: Pretrained neural network potentials for efficient and accurate bioorganic simulation#arXiv preprint arXiv:2504.20955#2025",
+    "type": "arxiv"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2011,
+    "authors": [
+      "David S Wishart"
+    ],
+    "venue": "Current Opinion in Drug Discovery & Development",
+    "title": "Advances in nmr-based metabolomics: applications in drug discovery and development",
+    "raw_text": "David S Wishart#Advances in nmr-based metabolomics: applications in drug discovery and development#Current Opinion in Drug Discovery & Development#2011",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2003,
+    "authors": [
+      "Haiyan Zhang",
+      "Stephen Neal",
+      "David S Wishart"
+    ],
+    "venue": "Journal of biomolecular NMR",
+    "title": "Refdb: a database of uniformly referenced protein chemical shifts",
+    "raw_text": "Haiyan Zhang*Stephen Neal*David S Wishart#Refdb: a database of uniformly referenced protein chemical shifts#Journal of biomolecular NMR#2003",
+    "type": "other"
+  },
+  {
+    "url": "https://github.com/THGLab/CSpred",
+    "cited_url": "https://github.com/THGLab/CSpred",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2023,
+    "authors": [
+      "Y. Zhou",
+      "Y. Wang",
+      "H. Li",
+      "Y. Zhang",
+      "D. Xu"
+    ],
+    "venue": "",
+    "title": "Ucbshift: Protein chemical shift prediction using transfer learning and machine learning",
+    "raw_text": "Y. Zhou*Y. Wang*H. Li*Y. Zhang*D. Xu#Ucbshift: Protein chemical shift prediction using transfer learning and machine learning##2023#https://github.com/THGLab/CSpred",
+    "type": "non-arxiv"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2019,
+    "authors": [
+      "Roman Zubatyuk",
+      "Justin S Smith",
+      "Jerzy Leszczynski",
+      "Olexandr Isayev"
+    ],
+    "venue": "Science advances",
+    "title": "Accurate and transferable multitask prediction of chemical properties with an atoms-in-molecules neural network",
+    "raw_text": "Roman Zubatyuk*Justin S Smith*Jerzy Leszczynski*Olexandr Isayev#Accurate and transferable multitask prediction of chemical properties with an atoms-in-molecules neural network#Science advances#2019",
+    "type": "other"
+  }
+]

@@ -1,0 +1,1632 @@
+[
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2020,
+    "authors": [
+      "Virginia Aglietti",
+      "Xiaoyu Lu",
+      "Andrei Paleyes",
+      "Javier González"
+    ],
+    "venue": "International Conference on Artificial Intelligence and Statistics",
+    "title": "Causal Bayesian optimization",
+    "raw_text": "Virginia Aglietti*Xiaoyu Lu*Andrei Paleyes*Javier González#Causal Bayesian optimization#International Conference on Artificial Intelligence and Statistics#2020#",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2012,
+    "authors": [
+      "Shipra Agrawal",
+      "Navin Goyal"
+    ],
+    "venue": "Conference on learning theory",
+    "title": "Analysis of Thompson sampling for the multi-armed bandit problem",
+    "raw_text": "Shipra Agrawal*Navin Goyal#Analysis of Thompson sampling for the multi-armed bandit problem#Conference on learning theory#2012#",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2005,
+    "authors": [
+      "Chen Avin",
+      "Ilya Shpitser",
+      "Judea Pearl"
+    ],
+    "venue": "Proceedings of the Nineteenth International Joint Conference on Artificial Intelligence",
+    "title": "Identifiability of path-specific effects",
+    "raw_text": "Chen Avin*Ilya Shpitser*Judea Pearl#Identifiability of path-specific effects#Proceedings of the Nineteenth International Joint Conference on Artificial Intelligence#2005#",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 1994,
+    "authors": [
+      "Alexander Balke",
+      "Judea Pearl"
+    ],
+    "venue": "Probabilistic and Causal Inference: The Works of Judea Pearl",
+    "title": "Probabilistic evaluation of counterfactual queries",
+    "raw_text": "Alexander Balke*Judea Pearl#Probabilistic evaluation of counterfactual queries#Probabilistic and Causal Inference: The Works of Judea Pearl#1994#",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2012,
+    "authors": [
+      "Elias Bareinboim",
+      "Judea Pearl"
+    ],
+    "venue": "Proceedings of the 26th AAAI Conference on Artificial Intelligence",
+    "title": "Transportability of causal effects: Completeness results",
+    "raw_text": "Elias Bareinboim*Judea Pearl#Transportability of causal effects: Completeness results#Proceedings of the 26th AAAI Conference on Artificial Intelligence#2012#",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2016,
+    "authors": [
+      "Elias Bareinboim",
+      "Judea Pearl"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences",
+    "title": "Causal inference and the data-fusion problem",
+    "raw_text": "Elias Bareinboim*Judea Pearl#Causal inference and the data-fusion problem#Proceedings of the National Academy of Sciences#2016#",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2015,
+    "authors": [
+      "Elias Bareinboim",
+      "Andrew Forney",
+      "Judea Pearl"
+    ],
+    "venue": "Proceedings of the 28th Annual Conference on Neural Information Processing Systems",
+    "title": "Bandits with unobserved confounders: A causal approach",
+    "raw_text": "Elias Bareinboim*Andrew Forney*Judea Pearl#Bandits with unobserved confounders: A causal approach#Proceedings of the 28th Annual Conference on Neural Information Processing Systems#2015#",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2020,
+    "authors": [
+      "Elias Bareinboim",
+      "Juan D Correa",
+      "Duligur Ibeling",
+      "Thomas Icard"
+    ],
+    "venue": "Technical Report R-60. Causal Artificial Intelligence Laboratory, Columbia University",
+    "title": "On Pearl’s hierarchy and the foundations of causal inference",
+    "raw_text": "Elias Bareinboim*Juan D Correa*Duligur Ibeling*Thomas Icard#On Pearl’s hierarchy and the foundations of causal inference#Technical Report R-60. Causal Artificial Intelligence Laboratory, Columbia University#2020#",
+    "type": "other"
+  },
+  {
+    "url": "https://causalai.net/r65.pdf",
+    "cited_url": "https://causalai.net/r65.pdf",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Elias Bareinboim",
+      "Sanghack Lee",
+      "Junzhe Zhang"
+    ],
+    "venue": "Technical Report R-65, Causal Artificial Intelligence Lab, Columbia University",
+    "title": "An introduction to causal reinforcement learning",
+    "raw_text": "Elias Bareinboim*Sanghack Lee*Junzhe Zhang#An introduction to causal reinforcement learning#Technical Report R-65, Causal Artificial Intelligence Lab, Columbia University#2024#https://causalai.net/r65.pdf",
+    "type": "non-arxiv"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2023,
+    "authors": [
+      "Alexis Bellot",
+      "Alan Malek",
+      "Silvia Chiappa"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "title": "Transportability for bandits with data from different environments",
+    "raw_text": "Alexis Bellot*Alan Malek*Silvia Chiappa#Transportability for bandits with data from different environments#Advances in Neural Information Processing Systems#2023#",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2004,
+    "authors": [
+      "Marianne Bertrand",
+      "Sendhil Mullainathan"
+    ],
+    "venue": "American economic review",
+    "title": "Are Emily and Greg more employable than Lakisha and Jamal? a field experiment on labor market discrimination",
+    "raw_text": "Marianne Bertrand*Sendhil Mullainathan#Are Emily and Greg more employable than Lakisha and Jamal? a field experiment on labor market discrimination#American economic review#2004#",
+    "type": "other"
+  },
+  {
+    "url": "https://proceedings.mlr.press/v267/bhatija25a.html",
+    "cited_url": "https://proceedings.mlr.press/v267/bhatija25a.html",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Shriya Bhatija",
+      "Paul-David Zuercher",
+      "Jakob Thumm",
+      "Thomas Bohné"
+    ],
+    "venue": "Proceedings of the 42nd International Conference on Machine Learning",
+    "title": "Multi-objective causal Bayesian optimization",
+    "raw_text": "Shriya Bhatija*Paul-David Zuercher*Jakob Thumm*Thomas Bohné#Multi-objective causal Bayesian optimization#Proceedings of the 42nd International Conference on Machine Learning#2025#https://proceedings.mlr.press/v267/bhatija25a.html",
+    "type": "non-arxiv"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2022,
+    "authors": [
+      "Blair Bilodeau",
+      "Linbo Wang",
+      "Dan Roy"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "title": "Adaptively exploiting d-separators with causal bandits",
+    "raw_text": "Blair Bilodeau*Linbo Wang*Dan Roy#Adaptively exploiting d-separators with causal bandits#Advances in Neural Information Processing Systems#2022#",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2013,
+    "authors": [
+      "Olivier Cappé",
+      "Aurélien Garivier",
+      "Odalric-Ambrym Maillard",
+      "Rémi Munos",
+      "Gilles Stoltz"
+    ],
+    "venue": "The Annals of Statistics",
+    "title": "Kullback-leibler upper confidence bounds for optimal sequential allocation",
+    "raw_text": "Olivier Cappé*Aurélien Garivier*Odalric-Ambrym Maillard*Rémi Munos*Gilles Stoltz#Kullback-leibler upper confidence bounds for optimal sequential allocation#The Annals of Statistics#2013#",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Ryan Carey",
+      "Sanghack Lee",
+      "Robin J Evans"
+    ],
+    "venue": "Transactions on Machine Learning Research",
+    "title": "Toward a complete criterion for value of information in insoluble decision problems",
+    "raw_text": "Ryan Carey*Sanghack Lee*Robin J Evans#Toward a complete criterion for value of information in insoluble decision problems#Transactions on Machine Learning Research#2024#",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2011,
+    "authors": [
+      "Olivier Chapelle",
+      "Lihong Li"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "title": "An empirical evaluation of Thompson sampling",
+    "raw_text": "Olivier Chapelle*Lihong Li#An empirical evaluation of Thompson sampling#Advances in Neural Information Processing Systems#2011#",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2019,
+    "authors": [
+      "Silvia Chiappa"
+    ],
+    "venue": "Proceedings of the AAAI conference on artificial intelligence",
+    "title": "Path-specific counterfactual fairness",
+    "raw_text": "Silvia Chiappa#Path-specific counterfactual fairness#Proceedings of the AAAI conference on artificial intelligence#2019#",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2021,
+    "authors": [
+      "Juan Correa",
+      "Sanghack Lee",
+      "Elias Bareinboim"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "title": "Nested counterfactual identification from arbitrary surrogate experiments",
+    "raw_text": "Juan Correa*Sanghack Lee*Elias Bareinboim#Nested counterfactual identification from arbitrary surrogate experiments#Advances in Neural Information Processing Systems#2021#",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Juan D Correa",
+      "Elias Bareinboim"
+    ],
+    "venue": "Technical Report R-115, Causal Artificial Intelligence Lab, Columbia University",
+    "title": "Counterfactual graphical models: Constraints and inference",
+    "raw_text": "Juan D Correa*Elias Bareinboim#Counterfactual graphical models: Constraints and inference#Technical Report R-115, Causal Artificial Intelligence Lab, Columbia University#2024#",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2022,
+    "authors": [
+      "Arnoud De Kroon",
+      "Joris Mooij",
+      "Danielle Belgrave"
+    ],
+    "venue": "Conference on Causal Learning and Reasoning",
+    "title": "Causal bandits without prior knowledge using separating sets",
+    "raw_text": "Arnoud De Kroon*Joris Mooij*Danielle Belgrave#Causal bandits without prior knowledge using separating sets#Conference on Causal Learning and Reasoning#2022#",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Wen-Bo Du",
+      "Tian Qin",
+      "Tian-Zuo Wang",
+      "Zhi-Hua Zhou"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "title": "Avoiding undesired future with minimal cost in non-stationary environments",
+    "raw_text": "Wen-Bo Du*Tian Qin*Tian-Zuo Wang*Zhi-Hua Zhou#Avoiding undesired future with minimal cost in non-stationary environments#Advances in Neural Information Processing Systems#2024#",
+    "type": "other"
+  },
+  {
+    "url": "https://openreview.net/forum?id=jh0Fss7LA0",
+    "cited_url": "https://openreview.net/forum?id=jh0Fss7LA0",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Wen-Bo Du",
+      "Hao-Yi Lei",
+      "Lue Tao",
+      "Tian-Zuo Wang",
+      "Zhi-Hua Zhou"
+    ],
+    "venue": "Forty-second International Conference on Machine Learning",
+    "title": "Enabling optimal decisions in rehearsal learning under CARE condition",
+    "raw_text": "Wen-Bo Du*Hao-Yi Lei*Lue Tao*Tian-Zuo Wang*Zhi-Hua Zhou#Enabling optimal decisions in rehearsal learning under CARE condition#Forty-second International Conference on Machine Learning#2025a#https://openreview.net/forum?id=jh0Fss7LA0",
+    "type": "non-arxiv"
+  },
+  {
+    "url": "https://openreview.net/forum?id=3mOZvQfYpR",
+    "cited_url": "https://openreview.net/forum?id=3mOZvQfYpR",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Wen-Bo Du",
+      "Tian Qin",
+      "Tian-Zuo Wang",
+      "Zhi-Hua Zhou"
+    ],
+    "venue": "The Thirty-ninth Annual Conference on Neural Information Processing Systems",
+    "title": "Variance-reduced long-term rehearsal learning with quadratic programming reformulation",
+    "raw_text": "Wen-Bo Du*Tian Qin*Tian-Zuo Wang*Zhi-Hua Zhou#Variance-reduced long-term rehearsal learning with quadratic programming reformulation#The Thirty-ninth Annual Conference on Neural Information Processing Systems#2025b#https://openreview.net/forum?id=3mOZvQfYpR",
+    "type": "non-arxiv"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Muhammad Qasim Elahi",
+      "Mahsa Ghasemi",
+      "Murat Kocaoglu"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "title": "Partial structure discovery is sufficient for no-regret learning in causal bandits",
+    "raw_text": "Muhammad Qasim Elahi*Mahsa Ghasemi*Murat Kocaoglu#Partial structure discovery is sufficient for no-regret learning in causal bandits#Advances in Neural Information Processing Systems#2024#",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2021,
+    "authors": [
+      "Tom Everitt",
+      "Ryan Carey",
+      "Eric D Langlois",
+      "Pedro A Ortega",
+      "Shane Legg"
+    ],
+    "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+    "title": "Agent incentives: A causal perspective",
+    "raw_text": "Tom Everitt*Ryan Carey*Eric D Langlois*Pedro A Ortega*Shane Legg#Agent incentives: A causal perspective#Proceedings of the AAAI Conference on Artificial Intelligence#2021#",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2022,
+    "authors": [
+      "Helmut Farbmacher",
+      "Martin Huber",
+      "Lukáš Lafférs",
+      "Henrika Langen",
+      "Martin Spindler"
+    ],
+    "venue": "The Econometrics Journal",
+    "title": "Causal mediation analysis with double machine learning",
+    "raw_text": "Helmut Farbmacher*Martin Huber*Lukáš Lafférs*Henrika Langen*Martin Spindler#Causal mediation analysis with double machine learning#The Econometrics Journal#2022#",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2023,
+    "authors": [
+      "Shi Feng",
+      "Wei Chen"
+    ],
+    "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+    "title": "Combinatorial causal bandits",
+    "raw_text": "Shi Feng*Wei Chen#Combinatorial causal bandits#Proceedings of the AAAI Conference on Artificial Intelligence#2023#",
+    "type": "other"
+  },
+  {
+    "url": "https://proceedings.mlr.press/v260/feng25a.html",
+    "cited_url": "https://proceedings.mlr.press/v260/feng25a.html",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Shi Feng",
+      "Nuoya Xiong",
+      "Wei Chen"
+    ],
+    "venue": "Proceedings of the 16th Asian Conference on Machine Learning",
+    "title": "Combinatorial causal bandits without graph skeleton",
+    "raw_text": "Shi Feng*Nuoya Xiong*Wei Chen#Combinatorial causal bandits without graph skeleton#Proceedings of the 16th Asian Conference on Machine Learning#2025#https://proceedings.mlr.press/v260/feng25a.html",
+    "type": "non-arxiv"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 1935,
+    "authors": [
+      "Ronald A. Fisher"
+    ],
+    "venue": "Oliver & Boyd, Edinburgh",
+    "title": "The Design of Experiments",
+    "raw_text": "Ronald A. Fisher#The Design of Experiments#Oliver & Boyd, Edinburgh#1935#",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2019,
+    "authors": [
+      "Andrew Forney",
+      "Elias Bareinboim"
+    ],
+    "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+    "title": "Counterfactual randomization: rescuing experimental studies from obscured confounding",
+    "raw_text": "Andrew Forney*Elias Bareinboim#Counterfactual randomization: rescuing experimental studies from obscured confounding#Proceedings of the AAAI Conference on Artificial Intelligence#2019#",
+    "type": "other"
+  },
+  {
+    "url": "https://proceedings.mlr.press/v70/forney17a.html",
+    "cited_url": "https://proceedings.mlr.press/v70/forney17a.html",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2017,
+    "authors": [
+      "Andrew Forney",
+      "Judea Pearl",
+      "Elias Bareinboim"
+    ],
+    "venue": "Proceedings of the 34th International Conference on Machine Learning",
+    "title": "Counterfactual data-fusion for online reinforcement learners",
+    "raw_text": "Andrew Forney*Judea Pearl*Elias Bareinboim#Counterfactual data-fusion for online reinforcement learners#Proceedings of the 34th International Conference on Machine Learning#2017#https://proceedings.mlr.press/v70/forney17a.html",
+    "type": "non-arxiv"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2011,
+    "authors": [
+      "Aurélien Garivier",
+      "Olivier Cappé"
+    ],
+    "venue": "Proceedings of the 24th annual conference on learning theory",
+    "title": "The kl-ucb algorithm for bounded stochastic bandits and beyond",
+    "raw_text": "Aurélien Garivier*Olivier Cappé#The kl-ucb algorithm for bounded stochastic bandits and beyond#Proceedings of the 24th annual conference on learning theory#2011#",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 1985,
+    "authors": [
+      "James J Heckman",
+      "Richard Robb Jr"
+    ],
+    "venue": "Journal of econometrics",
+    "title": "Alternative methods for evaluating the impact of interventions: An overview",
+    "raw_text": "James J Heckman*Richard Robb Jr#Alternative methods for evaluating the impact of interventions: An overview#Journal of econometrics#1985#",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 1986,
+    "authors": [
+      "James J Heckman",
+      "Richard Robb Jr"
+    ],
+    "venue": "Drawing Inferences from Self-Selected Samples",
+    "title": "Alternative methods for solving the problem of selection bias in evaluating the impact of treatments on outcomes",
+    "raw_text": "James J Heckman*Richard Robb Jr#Alternative methods for solving the problem of selection bias in evaluating the impact of treatments on outcomes#Drawing Inferences from Self-Selected Samples#1986#",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Inwoo Hwang",
+      "Yunhyeok Kwak",
+      "Suhyung Choi",
+      "Byoung-Tak Zhang",
+      "Sanghack Lee"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "title": "Fine-grained causal dynamics learning with quantization for improving robustness in reinforcement learning",
+    "raw_text": "Inwoo Hwang*Yunhyeok Kwak*Suhyung Choi*Byoung-Tak Zhang*Sanghack Lee#Fine-grained causal dynamics learning with quantization for improving robustness in reinforcement learning#International Conference on Machine Learning#2024#",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2020,
+    "authors": [
+      "Duligur Ibeling",
+      "Thomas Icard"
+    ],
+    "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+    "title": "Probabilistic reasoning across the causal hierarchy",
+    "raw_text": "Duligur Ibeling*Thomas Icard#Probabilistic reasoning across the causal hierarchy#Proceedings of the AAAI Conference on Artificial Intelligence#2020",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2010,
+    "authors": [
+      "Kosuke Imai",
+      "Luke Keele",
+      "Teppei Yamamoto"
+    ],
+    "venue": "Statistical Science",
+    "title": "Identification, inference and sensitivity analysis for causal mediation effects",
+    "raw_text": "Kosuke Imai*Luke Keele*Teppei Yamamoto#Identification, inference and sensitivity analysis for causal mediation effects#Statistical Science#2010",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2011,
+    "authors": [
+      "Kosuke Imai",
+      "Luke Keele",
+      "Dustin Tingley",
+      "Teppei Yamamoto"
+    ],
+    "venue": "American Political Science Review",
+    "title": "Unpacking the black box of causality: Learning about causal mechanisms from experimental and observational studies",
+    "raw_text": "Kosuke Imai*Luke Keele*Dustin Tingley*Teppei Yamamoto#Unpacking the black box of causality: Learning about causal mechanisms from experimental and observational studies#American Political Science Review#2011",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Kasra Jalaldoust",
+      "Alexis Bellot",
+      "Elias Bareinboim"
+    ],
+    "venue": "The Thirty-eighth Annual Conference on Neural Information Processing Systems",
+    "title": "Partial transportability for domain generalization",
+    "raw_text": "Kasra Jalaldoust*Alexis Bellot*Elias Bareinboim#Partial transportability for domain generalization#The Thirty-eighth Annual Conference on Neural Information Processing Systems#2024",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Yonghan Jung",
+      "Min Woo Park",
+      "Sanghack Lee"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "title": "Complete graphical criterion for sequential covariate adjustment in causal inference",
+    "raw_text": "Yonghan Jung*Min Woo Park*Sanghack Lee#Complete graphical criterion for sequential covariate adjustment in causal inference#Advances in Neural Information Processing Systems#2024",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2012,
+    "authors": [
+      "Emilie Kaufmann",
+      "Nathaniel Korda",
+      "Rémi Munos"
+    ],
+    "venue": "International conference on algorithmic learning theory",
+    "title": "Thompson sampling: An asymptotically optimal finite-time analysis",
+    "raw_text": "Emilie Kaufmann*Nathaniel Korda*Rémi Munos#Thompson sampling: An asymptotically optimal finite-time analysis#International conference on algorithmic learning theory#2012",
+    "type": "other"
+  },
+  {
+    "url": "https://proceedings.mlr.press/v275/konobeev25a.html",
+    "cited_url": "https://proceedings.mlr.press/v275/konobeev25a.html",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Mikhail Konobeev",
+      "Jalal Etesami",
+      "Negar Kiyavash"
+    ],
+    "venue": "Proceedings of the Fourth Conference on Causal Learning and Reasoning",
+    "title": "Causal bandits without graph learning",
+    "raw_text": "Mikhail Konobeev*Jalal Etesami*Negar Kiyavash#Causal bandits without graph learning#Proceedings of the Fourth Conference on Causal Learning and Reasoning#2025#https://proceedings.mlr.press/v275/konobeev25a.html",
+    "type": "non-arxiv"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2021,
+    "authors": [
+      "Daniel Kumor",
+      "Junzhe Zhang",
+      "Elias Bareinboim"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "title": "Sequential causal imitation learning with unobserved confounders",
+    "raw_text": "Daniel Kumor*Junzhe Zhang*Elias Bareinboim#Sequential causal imitation learning with unobserved confounders#Advances in Neural Information Processing Systems#2021",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 1985,
+    "authors": [
+      "Tze Leung Lai",
+      "Herbert Robbins"
+    ],
+    "venue": "Advances in applied mathematics",
+    "title": "Asymptotically efficient adaptive allocation rules",
+    "raw_text": "Tze Leung Lai*Herbert Robbins#Asymptotically efficient adaptive allocation rules#Advances in applied mathematics#1985",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2016,
+    "authors": [
+      "Finnian Lattimore",
+      "Tor Lattimore",
+      "Mark D Reid"
+    ],
+    "venue": "Advances in neural information processing systems",
+    "title": "Causal bandits: Learning good interventions via causal inference",
+    "raw_text": "Finnian Lattimore*Tor Lattimore*Mark D Reid#Causal bandits: Learning good interventions via causal inference#Advances in neural information processing systems#2016",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2020,
+    "authors": [
+      "Tor Lattimore",
+      "Csaba Szepesvári"
+    ],
+    "venue": "Cambridge University Press",
+    "title": "Bandit algorithms",
+    "raw_text": "Tor Lattimore*Csaba Szepesvári#Bandit algorithms#Cambridge University Press#2020",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2018,
+    "authors": [
+      "Sanghack Lee",
+      "Elias Bareinboim"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "title": "Structural causal bandits: Where to intervene?",
+    "raw_text": "Sanghack Lee*Elias Bareinboim#Structural causal bandits: Where to intervene?#Advances in Neural Information Processing Systems#2018",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2019,
+    "authors": [
+      "Sanghack Lee",
+      "Elias Bareinboim"
+    ],
+    "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+    "title": "Structural causal bandits with non-manipulable variables",
+    "raw_text": "Sanghack Lee*Elias Bareinboim#Structural causal bandits with non-manipulable variables#Proceedings of the AAAI Conference on Artificial Intelligence#2019",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2020,
+    "authors": [
+      "Sanghack Lee",
+      "Elias Bareinboim"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "title": "Characterizing optimal mixed policies: Where to intervene and what to observe",
+    "raw_text": "Sanghack Lee*Elias Bareinboim#Characterizing optimal mixed policies: Where to intervene and what to observe#Advances in Neural Information Processing Systems#2020",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2019,
+    "authors": [
+      "Sanghack Lee",
+      "Juan D Correa",
+      "Elias Bareinboim"
+    ],
+    "venue": "Proceedings of the 35th Conference on Uncertainty in Artificial Intelligence",
+    "title": "General identifiability with arbitrary surrogate experiments",
+    "raw_text": "Sanghack Lee*Juan D Correa*Elias Bareinboim#General identifiability with arbitrary surrogate experiments#Proceedings of the 35th Conference on Uncertainty in Artificial Intelligence#2019",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2019,
+    "authors": [
+      "Ang Li",
+      "Judea Pearl"
+    ],
+    "venue": "Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence",
+    "title": "Unit selection based on counterfactual logic",
+    "raw_text": "Ang Li*Judea Pearl#Unit selection based on counterfactual logic#Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence#2019",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2020,
+    "authors": [
+      "Yangyi Lu",
+      "Amirhossein Meisami",
+      "Ambuj Tewari",
+      "William Yan"
+    ],
+    "venue": "Conference on Uncertainty in Artificial Intelligence",
+    "title": "Regret analysis of bandit problems with causal background knowledge",
+    "raw_text": "Yangyi Lu*Amirhossein Meisami*Ambuj Tewari*William Yan#Regret analysis of bandit problems with causal background knowledge#Conference on Uncertainty in Artificial Intelligence#2020",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2021,
+    "authors": [
+      "Yangyi Lu",
+      "Amirhossein Meisami",
+      "Ambuj Tewari"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "title": "Causal bandits with unknown graph structure",
+    "raw_text": "Yangyi Lu*Amirhossein Meisami*Ambuj Tewari#Causal bandits with unknown graph structure#Advances in Neural Information Processing Systems#2021",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2023,
+    "authors": [
+      "Alan Malek",
+      "Virginia Aglietti",
+      "Silvia Chiappa"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "title": "Additive causal bandits with unknown graph",
+    "raw_text": "Alan Malek*Virginia Aglietti*Silvia Chiappa#Additive causal bandits with unknown graph#International Conference on Machine Learning#2023",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2020,
+    "authors": [
+      "Caleb H Miles",
+      "Ilya Shpitser",
+      "Phyllis Kanki",
+      "Seema Meloni",
+      "Eric J Tchetgen Tchetgen"
+    ],
+    "venue": "Biometrika",
+    "title": "On semiparametric estimation of a path-specific effect in the presence of mediator-outcome confounding",
+    "raw_text": "Caleb H Miles*Ilya Shpitser*Phyllis Kanki*Seema Meloni*Eric J Tchetgen Tchetgen#On semiparametric estimation of a path-specific effect in the presence of mediator-outcome confounding#Biometrika#2020",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2023,
+    "authors": [
+      "Scott Mueller",
+      "Judea Pearl"
+    ],
+    "venue": "Journal of Causal Inference",
+    "title": "Personalized decision making–a conceptual introduction",
+    "raw_text": "Scott Mueller*Judea Pearl#Personalized decision making–a conceptual introduction#Journal of Causal Inference#2023",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Scott Mueller",
+      "Judea Pearl"
+    ],
+    "venue": "Technical report",
+    "title": "Perspective on ‘harm’in personalized medicine–an alternative perspective",
+    "raw_text": "Scott Mueller*Judea Pearl#Perspective on ‘harm’in personalized medicine–an alternative perspective#Technical report#2024",
+    "type": "other"
+  },
+  {
+    "url": "https://arxiv.org/abs/2511.17953",
+    "cited_url": "https://arxiv.org/abs/2511.17953",
+    "arxiv_url": "https://arxiv.org/abs/2511.17953",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Min Woo Park",
+      "Sanghack Lee"
+    ],
+    "venue": "arXiv preprint arXiv:2511.17953",
+    "title": "On transportability for structural causal bandits",
+    "raw_text": "Min Woo Park*Sanghack Lee#On transportability for structural causal bandits#arXiv preprint arXiv:2511.17953#2025",
+    "type": "arxiv"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Min Woo Park",
+      "Andy Arditi",
+      "Elias Bareinboim",
+      "Sanghack Lee"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "title": "Structural causal bandits under Markov equivalence",
+    "raw_text": "Min Woo Park*Andy Arditi*Elias Bareinboim*Sanghack Lee#Structural causal bandits under Markov equivalence#Advances in Neural Information Processing Systems#2025",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 1995,
+    "authors": [
+      "Judea Pearl"
+    ],
+    "venue": "Biometrika",
+    "title": "Causal diagrams for empirical research",
+    "raw_text": "Judea Pearl#Causal diagrams for empirical research#Biometrika#1995",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2009,
+    "authors": [
+      "Judea Pearl"
+    ],
+    "venue": "Cambridge University Press",
+    "title": "Causality: Models, Reasoning, and Inference",
+    "raw_text": "Judea Pearl#Causality: Models, Reasoning, and Inference#Cambridge University Press#2009",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2001,
+    "authors": [
+      "Judea Pearl"
+    ],
+    "venue": "Probabilistic and Causal Inference: The Works of Judea Pearl",
+    "title": "Direct and indirect effects",
+    "raw_text": "Judea Pearl#Direct and indirect effects#Probabilistic and Causal Inference: The Works of Judea Pearl#2001",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2011,
+    "authors": [
+      "Judea Pearl",
+      "Elias Bareinboim"
+    ],
+    "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+    "title": "Transportability of causal and statistical relations: A formal approach",
+    "raw_text": "Judea Pearl*Elias Bareinboim#Transportability of causal and statistical relations: A formal approach#Proceedings of the AAAI Conference on Artificial Intelligence#2011",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2018,
+    "authors": [
+      "Judea Pearl",
+      "Dana Mackenzie"
+    ],
+    "venue": "Basic Books",
+    "title": "The book of why: the new science of cause and effect",
+    "raw_text": "Judea Pearl*Dana Mackenzie#The book of why: the new science of cause and effect#Basic Books#2018",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 1995,
+    "authors": [
+      "Judea Pearl",
+      "James Robins"
+    ],
+    "venue": "Proceedings of the Eleventh conference on Uncertainty in artificial intelligence",
+    "title": "Probabilistic evaluation of sequential plans from causal models with hidden variables",
+    "raw_text": "Judea Pearl*James Robins#Probabilistic evaluation of sequential plans from causal models with hidden variables#Proceedings of the Eleventh conference on Uncertainty in artificial intelligence#1995",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2016,
+    "authors": [
+      "Judea Pearl",
+      "Madelyn Glymour",
+      "Nicholas P Jewell"
+    ],
+    "venue": "John Wiley & Sons",
+    "title": "Causal inference in statistics: a primer",
+    "raw_text": "Judea Pearl*Madelyn Glymour*Nicholas P Jewell#Causal inference in statistics: a primer#John Wiley & Sons#2016",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2020,
+    "authors": [
+      "Nathan Peiffer-Smadja",
+      "Timothy Miles Rawson",
+      "Raheelah Ahmad",
+      "Albert Buchard",
+      "P Georgiou",
+      "F-X Lescure",
+      "Gabriel Birgand",
+      "Alison Helen Holmes"
+    ],
+    "venue": "Clinical Microbiology and Infection",
+    "title": "Machine learning for clinical decision support in infectious diseases: a narrative review of current applications",
+    "raw_text": "Nathan Peiffer-Smadja*Timothy Miles Rawson*Raheelah Ahmad*Albert Buchard*P Georgiou*F-X Lescure*Gabriel Birgand*Alison Helen Holmes#Machine learning for clinical decision support in infectious diseases: a narrative review of current applications#Clinical Microbiology and Infection#2020",
+    "type": "other"
+  },
+  {
+    "url": "https://arxiv.org/abs/2207.11385",
+    "cited_url": "https://arxiv.org/abs/2207.11385",
+    "arxiv_url": "https://arxiv.org/abs/2207.11385",
+    "doi": null,
+    "year": 2022,
+    "authors": [
+      "Drago Plecko",
+      "Elias Bareinboim"
+    ],
+    "venue": "arXiv preprint arXiv:2207.11385",
+    "title": "Causal fairness analysis",
+    "raw_text": "Drago Plecko*Elias Bareinboim#Causal fairness analysis#arXiv preprint arXiv:2207.11385#2022",
+    "type": "arxiv"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2023,
+    "authors": [
+      "Tian Qin",
+      "Tian-Zuo Wang",
+      "Zhi-Hua Zhou"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "title": "Rehearsal learning for avoiding undesired future",
+    "raw_text": "Tian Qin*Tian-Zuo Wang*Zhi-Hua Zhou#Rehearsal learning for avoiding undesired future#Advances in Neural Information Processing Systems#2023",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Tian Qin",
+      "Tian-Zuo Wang",
+      "Zhi-Hua Zhou"
+    ],
+    "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+    "title": "Gradient-based nonlinear rehearsal learning with multivariate alterations",
+    "raw_text": "Tian Qin*Tian-Zuo Wang*Zhi-Hua Zhou#Gradient-based nonlinear rehearsal learning with multivariate alterations#Proceedings of the AAAI Conference on Artificial Intelligence#2025",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Arvind Raghavan",
+      "Elias Bareinboim"
+    ],
+    "venue": "The Thirteenth International Conference on Learning Representations",
+    "title": "Counterfactual realizability",
+    "raw_text": "Arvind Raghavan*Elias Bareinboim#Counterfactual realizability#The Thirteenth International Conference on Learning Representations#2025",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2002,
+    "authors": [
+      "Thomas Richardson",
+      "Peter Spirtes"
+    ],
+    "venue": "The Annals of Statistics",
+    "title": "Ancestral graph Markov models",
+    "raw_text": "Thomas Richardson*Peter Spirtes#Ancestral graph Markov models#The Annals of Statistics#2002",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2013,
+    "authors": [
+      "Thomas S Richardson",
+      "James M Robins"
+    ],
+    "venue": "Center for the Statistics and the Social Sciences, University of Washington Series. Working Paper",
+    "title": "Single world intervention graphs (swigs): A unification of the counterfactual and graphical approaches to causality",
+    "raw_text": "Thomas S Richardson*James M Robins#Single world intervention graphs (swigs): A unification of the counterfactual and graphical approaches to causality#Center for the Statistics and the Social Sciences, University of Washington Series. Working Paper#2013",
+    "type": "other"
+  },
+  {
+    "url": "https://openreview.net/forum?id=pOoKI3ouv1",
+    "cited_url": "https://openreview.net/forum?id=pOoKI3ouv1",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Jonathan Richens",
+      "Tom Everitt"
+    ],
+    "venue": "The Twelfth International Conference on Learning Representations",
+    "title": "Robust agents learn causal world models",
+    "raw_text": "Jonathan Richens*Tom Everitt#Robust agents learn causal world models#The Twelfth International Conference on Learning Representations#2024#https://openreview.net/forum?id=pOoKI3ouv1",
+    "type": "non-arxiv"
+  },
+  {
+    "url": "https://openreview.net/forum?id=dlIoumNiXt",
+    "cited_url": "https://openreview.net/forum?id=dlIoumNiXt",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Jonathan Richens",
+      "Tom Everitt",
+      "David Abel"
+    ],
+    "venue": "Forty-second International Conference on Machine Learning",
+    "title": "General agents need world models",
+    "raw_text": "Jonathan Richens*Tom Everitt*David Abel#General agents need world models#Forty-second International Conference on Machine Learning#2025#https://openreview.net/forum?id=dlIoumNiXt",
+    "type": "non-arxiv"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 1952,
+    "authors": [
+      "Herbert Robbins"
+    ],
+    "venue": "Bull. Amer. Math. Soc.",
+    "title": "Some aspects of the sequential design of experiments",
+    "raw_text": "Herbert Robbins#Some aspects of the sequential design of experiments#Bull. Amer. Math. Soc.#1952",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2013,
+    "authors": [],
+    "venue": "Center for the Statistics and the Social Sciences, University of Washington Series. Working Paper",
+    "title": "factual and graphical approaches to causality",
+    "raw_text": "#factual and graphical approaches to causality#Center for the Statistics and the Social Sciences, University of Washington Series. Working Paper#2013#",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2022,
+    "authors": [
+      "James M Robins",
+      "Thomas S Richardson",
+      "Ilya Shpitser"
+    ],
+    "venue": "Probabilistic and causal inference: the works of Judea Pearl",
+    "title": "An interventionist approach to mediation analysis",
+    "raw_text": "James M Robins*Thomas S Richardson*Ilya Shpitser#An interventionist approach to mediation analysis#Probabilistic and causal inference: the works of Judea Pearl#2022#",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Kangrui Ruan",
+      "Junzhe Zhang",
+      "Xuan Di",
+      "Elias Bareinboim"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "title": "Causal imitation for markov decision processes: A partial identification approach",
+    "raw_text": "Kangrui Ruan*Junzhe Zhang*Xuan Di*Elias Bareinboim#Causal imitation for markov decision processes: A partial identification approach#Advances in Neural Information Processing Systems#2024#",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2004,
+    "authors": [
+      "Donald B Rubin"
+    ],
+    "venue": "Scandinavian Journal of Statistics",
+    "title": "Direct and indirect causal effects via potential outcomes",
+    "raw_text": "Donald B Rubin#Direct and indirect causal effects via potential outcomes#Scandinavian Journal of Statistics#2004#",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2013,
+    "authors": [
+      "Ilya Shpitser"
+    ],
+    "venue": "Cognitive science",
+    "title": "Counterfactual graphical models for longitudinal mediation analysis with unobserved confounding",
+    "raw_text": "Ilya Shpitser#Counterfactual graphical models for longitudinal mediation analysis with unobserved confounding#Cognitive science#2013#",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2007,
+    "authors": [
+      "Ilya Shpitser",
+      "Judea Pearl"
+    ],
+    "venue": "23rd Conference on Uncertainty in Artificial Intelligence, UAI 2007",
+    "title": "What counterfactuals can be tested",
+    "raw_text": "Ilya Shpitser*Judea Pearl#What counterfactuals can be tested#23rd Conference on Uncertainty in Artificial Intelligence, UAI 2007#2007#",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2016,
+    "authors": [
+      "Ilya Shpitser",
+      "Eric Tchetgen Tchetgen"
+    ],
+    "venue": "Annals of statistics",
+    "title": "Causal inference with a graphical hierarchy of interventions",
+    "raw_text": "Ilya Shpitser*Eric Tchetgen Tchetgen#Causal inference with a graphical hierarchy of interventions#Annals of statistics#2016#",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2022,
+    "authors": [
+      "Ilya Shpitser",
+      "Thomas S Richardson",
+      "James M Robins"
+    ],
+    "venue": "Probabilistic and causal inference: The works of Judea Pearl",
+    "title": "Multivariate counterfactual systems and causal graphical models",
+    "raw_text": "Ilya Shpitser*Thomas S Richardson*James M Robins#Multivariate counterfactual systems and causal graphical models#Probabilistic and causal inference: The works of Judea Pearl#2022#",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Lue Tao",
+      "Tian-Zuo Wang",
+      "Yuan Jiang",
+      "Zhi-Hua Zhou"
+    ],
+    "venue": "Proceedings of the Thirty-Fourth International Joint Conference on Artificial Intelligence (IJCAI)",
+    "title": "Avoiding undesired future with sequential decisions",
+    "raw_text": "Lue Tao*Tian-Zuo Wang*Yuan Jiang*Zhi-Hua Zhou#Avoiding undesired future with sequential decisions#Proceedings of the Thirty-Fourth International Joint Conference on Artificial Intelligence (IJCAI)#2025#",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 1933,
+    "authors": [
+      "William R Thompson"
+    ],
+    "venue": "Biometrika",
+    "title": "On the likelihood that one unknown probability exceeds another in view of the evidence of two samples",
+    "raw_text": "William R Thompson#On the likelihood that one unknown probability exceeds another in view of the evidence of two samples#Biometrika#1933#",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2003,
+    "authors": [
+      "Jin Tian",
+      "Judea Pearl"
+    ],
+    "venue": "Technical Report R-290-L",
+    "title": "On the identification of causal effects",
+    "raw_text": "Jin Tian*Judea Pearl#On the identification of causal effects#Technical Report R-290-L#2003#",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2014,
+    "authors": [
+      "Tyler J VanderWeele",
+      "Mirjam J Knol"
+    ],
+    "venue": "Epidemiologic methods",
+    "title": "A tutorial on interaction",
+    "raw_text": "Tyler J VanderWeele*Mirjam J Knol#A tutorial on interaction#Epidemiologic methods#2014#",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2023,
+    "authors": [
+      "Burak Varici",
+      "Karthikeyan Shanmugam",
+      "Prasanna Sattigeri",
+      "Ali Tajer"
+    ],
+    "venue": "Journal of Machine Learning Research",
+    "title": "Causal bandits for linear structural equation models",
+    "raw_text": "Burak Varici*Karthikeyan Shanmugam*Prasanna Sattigeri*Ali Tajer#Causal bandits for linear structural equation models#Journal of Machine Learning Research#2023#",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2023,
+    "authors": [
+      "Lai Wei",
+      "Muhammad Qasim Elahi",
+      "Mahsa Ghasemi",
+      "Murat Kocaoglu"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "title": "Approximate allocation matching for structural causal bandits with unobserved confounders",
+    "raw_text": "Lai Wei*Muhammad Qasim Elahi*Mahsa Ghasemi*Murat Kocaoglu#Approximate allocation matching for structural causal bandits with unobserved confounders#Advances in Neural Information Processing Systems#2023#",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2021,
+    "authors": [
+      "Kevin Xia",
+      "Kai-Zhan Lee",
+      "Yoshua Bengio",
+      "Elias Bareinboim"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "title": "The causal-neural connection: Expressiveness, learnability, and inference",
+    "raw_text": "Kevin Xia*Kai-Zhan Lee*Yoshua Bengio*Elias Bareinboim#The causal-neural connection: Expressiveness, learnability, and inference#Advances in Neural Information Processing Systems#2021#",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2023,
+    "authors": [
+      "Kevin Muyuan Xia",
+      "Yushu Pan",
+      "Elias Bareinboim"
+    ],
+    "venue": "The Eleventh International Conference on Learning Representations",
+    "title": "Neural causal models for counterfactual identification and estimation",
+    "raw_text": "Kevin Muyuan Xia*Yushu Pan*Elias Bareinboim#Neural causal models for counterfactual identification and estimation#The Eleventh International Conference on Learning Representations#2023#",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Zirui Yan",
+      "Ali Tajer"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "title": "Linear causal bandits: Unknown graph and soft interventions",
+    "raw_text": "Zirui Yan*Ali Tajer#Linear causal bandits: Unknown graph and soft interventions#Advances in Neural Information Processing Systems#2024#",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Hongshuo Yang",
+      "Elias Bareinboim"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "title": "A hierarchy of graphical models for counterfactual inferences",
+    "raw_text": "Hongshuo Yang*Elias Bareinboim#A hierarchy of graphical models for counterfactual inferences#Advances in Neural Information Processing Systems#2025#",
+    "type": "other"
+  },
+  {
+    "url": "https://www.sciencedirect.com/science/article/pii/S0004370208001008",
+    "cited_url": "https://www.sciencedirect.com/science/article/pii/S0004370208001008",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2008,
+    "authors": [
+      "Jiji Zhang"
+    ],
+    "venue": "Artificial Intelligence",
+    "title": "On the completeness of orientation rules for causal discovery in the presence of latent confounders and selection bias",
+    "raw_text": "Jiji Zhang#On the completeness of orientation rules for causal discovery in the presence of latent confounders and selection bias#Artificial Intelligence#2008#https://www.sciencedirect.com/science/article/pii/S0004370208001008",
+    "type": "non-arxiv"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2017,
+    "authors": [
+      "Junzhe Zhang",
+      "Elias Bareinboim"
+    ],
+    "venue": "Proceedings of the 16th Conference on Autonomous Agents and MultiAgent Systems",
+    "title": "Transfer learning in multi-armed bandit: a causal approach",
+    "raw_text": "Junzhe Zhang*Elias Bareinboim#Transfer learning in multi-armed bandit: a causal approach#Proceedings of the 16th Conference on Autonomous Agents and MultiAgent Systems#2017#",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2018,
+    "authors": [
+      "Junzhe Zhang",
+      "Elias Bareinboim"
+    ],
+    "venue": "Proceedings of the AAAI conference on artificial intelligence",
+    "title": "Fairness in decision-making—the causal explanation formula",
+    "raw_text": "Junzhe Zhang*Elias Bareinboim#Fairness in decision-making—the causal explanation formula#Proceedings of the AAAI conference on artificial intelligence#2018#",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2019,
+    "authors": [
+      "Junzhe Zhang",
+      "Elias Bareinboim"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "title": "Near-optimal reinforcement learning in dynamic treatment regimes",
+    "raw_text": "Junzhe Zhang*Elias Bareinboim#Near-optimal reinforcement learning in dynamic treatment regimes#Advances in Neural Information Processing Systems#2019#",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2020,
+    "authors": [
+      "Junzhe Zhang",
+      "Elias Bareinboim"
+    ],
+    "venue": "International conference on machine learning",
+    "title": "Designing optimal dynamic treatment regimes: A causal reinforcement learning approach",
+    "raw_text": "Junzhe Zhang*Elias Bareinboim#Designing optimal dynamic treatment regimes: A causal reinforcement learning approach#International conference on machine learning#2020#",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2022,
+    "authors": [
+      "Junzhe Zhang",
+      "Elias Bareinboim"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "title": "Online reinforcement learning for mixed policy scopes",
+    "raw_text": "Junzhe Zhang*Elias Bareinboim#Online reinforcement learning for mixed policy scopes#Advances in Neural Information Processing Systems#2022#",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Junzhe Zhang",
+      "Elias Bareinboim"
+    ],
+    "venue": "OpenReview preprint",
+    "title": "Eligibility traces for confounding robust off-policy evaluation",
+    "raw_text": "Junzhe Zhang*Elias Bareinboim#Eligibility traces for confounding robust off-policy evaluation#OpenReview preprint#2024#",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2020,
+    "authors": [
+      "Junzhe Zhang",
+      "Daniel Kumor",
+      "Elias Bareinboim"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "title": "Causal imitation learning with unobserved confounders",
+    "raw_text": "Junzhe Zhang*Daniel Kumor*Elias Bareinboim#Causal imitation learning with unobserved confounders#Advances in Neural Information Processing Systems#2020#",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2022,
+    "authors": [
+      "Junzhe Zhang",
+      "Jin Tian",
+      "Elias Bareinboim"
+    ],
+    "venue": "International conference on machine learning",
+    "title": "Partial counterfactual identification from observational and experimental data",
+    "raw_text": "Junzhe Zhang*Jin Tian*Elias Bareinboim#Partial counterfactual identification from observational and experimental data#International conference on machine learning#2022#",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Kevin Zhang",
+      "Yonghan Jung",
+      "Divyat Mahajan",
+      "Karthikeyan Shanmugam",
+      "Shalmali Joshi"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "title": "Path-specific effects for pulse-oximetry guided decisions in critical care",
+    "raw_text": "Kevin Zhang*Yonghan Jung*Divyat Mahajan*Karthikeyan Shanmugam*Shalmali Joshi#Path-specific effects for pulse-oximetry guided decisions in critical care#Advances in Neural Information Processing Systems#2025#",
+    "type": "other"
+  }
+]

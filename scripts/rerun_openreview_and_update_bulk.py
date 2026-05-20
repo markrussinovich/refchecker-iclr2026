@@ -25,8 +25,8 @@ from typing import Any
 ROOT = Path(__file__).resolve().parent.parent
 DEFAULT_REFCHECKER_DIR = Path("/datadrive/refchecker")
 DEFAULT_REFCHECKER_PYTHON = DEFAULT_REFCHECKER_DIR / ".venv" / "bin" / "python"
-DEFAULT_BULK_RESULTS = ROOT / "data" / "iclr2026" / "scan_report.json"
-DEFAULT_CHECKPOINT = ROOT / "data" / "iclr2026" / "scan_report.checkpoint.jsonl"
+DEFAULT_BULK_RESULTS = ROOT / "conferences" / "iclr" / "2026" / "scan_report.json"
+DEFAULT_CHECKPOINT = ROOT / "conferences" / "iclr" / "2026" / "scan_report.checkpoint.jsonl"
 DEFAULT_CACHE_DIR = Path("/datadrive/refcheckercache/cache")
 DEFAULT_DATABASE_DIR = Path("/datadrive/refcheckercache/db")
 DEFAULT_MODEL = "gemini-3.1-flash-lite-preview"

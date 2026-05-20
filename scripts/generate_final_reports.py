@@ -14,7 +14,7 @@ import generate_overview_hallucination_rate_chart as overview_report
 
 
 ROOT = Path(__file__).resolve().parent.parent
-CONFERENCE_DIR_RE = re.compile(r"^([a-z]+)(20\d{2})$")
+CONFERENCE_DIR_RE = re.compile(r"^([a-z-]+)(20\d{2})$")
 
 
 def load_json(path: Path) -> dict[str, Any]:
@@ -83,10 +83,20 @@ def generate_overview(workspace_dir: Path, reports_dir: Path) -> None:
         points,
         output_dir / "hallucinated_reference_rate_by_year.csv",
     )
+    overview_report.render_academic_reference_chart(
+        points,
+        output_dir / "academic_paper_hallucinated_reference_rate_by_year.png",
+    )
+    overview_report.write_academic_reference_data_table(
+        points,
+        output_dir / "academic_paper_hallucinated_reference_rate_by_year.csv",
+    )
     print(f"Wrote {output_dir / 'papers_with_ge2_flags_by_year.png'}")
     print(f"Wrote {output_dir / 'papers_with_ge2_flags_by_year.csv'}")
     print(f"Wrote {output_dir / 'hallucinated_reference_rate_by_year.png'}")
     print(f"Wrote {output_dir / 'hallucinated_reference_rate_by_year.csv'}")
+    print(f"Wrote {output_dir / 'academic_paper_hallucinated_reference_rate_by_year.png'}")
+    print(f"Wrote {output_dir / 'academic_paper_hallucinated_reference_rate_by_year.csv'}")
 
 
 def parse_args() -> argparse.Namespace:

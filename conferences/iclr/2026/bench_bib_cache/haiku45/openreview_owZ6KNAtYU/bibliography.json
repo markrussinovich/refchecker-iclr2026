@@ -1,0 +1,2535 @@
+[
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2019,
+    "authors": [
+      "Sami Abu-El-Haija",
+      "Bryan Perozzi",
+      "Amol Kapoor",
+      "Nazanin Alipourfard",
+      "Kristina Lerman",
+      "Hrayr Harutyunyan",
+      "Greg Ver Steeg",
+      "Aram Galstyan"
+    ],
+    "venue": "Proceedings of the 36th International Conference on Machine Learning",
+    "title": "MixHop: Higher-order graph convolutional architectures via sparsified neighborhood mixing",
+    "raw_text": "Sami Abu-El-Haija*Bryan Perozzi*Amol Kapoor*Nazanin Alipourfard*Kristina Lerman*Hrayr Harutyunyan*Greg Ver Steeg*Aram Galstyan#MixHop: Higher-order graph convolutional architectures via sparsified neighborhood mixing#Proceedings of the 36th International Conference on Machine Learning#2019",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2020,
+    "authors": [
+      "Uri Alon",
+      "Eran Yahav"
+    ],
+    "venue": "arXiv preprint",
+    "title": "On the bottleneck of graph neural networks and its practical implications",
+    "raw_text": "Uri Alon*Eran Yahav#On the bottleneck of graph neural networks and its practical implications#arXiv preprint#2020",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2022,
+    "authors": [
+      "Adrián Arnaiz-Rodríguez",
+      "Ahmed Begga",
+      "Francisco Escolano",
+      "Nuria Oliver"
+    ],
+    "venue": "arXiv preprint",
+    "title": "DiffWire: Inductive graph rewiring via the lovász bound",
+    "raw_text": "Adrián Arnaiz-Rodríguez*Ahmed Begga*Francisco Escolano*Nuria Oliver#DiffWire: Inductive graph rewiring via the lovász bound#arXiv preprint#2022",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Wenxuan Bao",
+      "Ruxi Deng",
+      "Ruizhong Qiu",
+      "Tianxin Wei",
+      "Hanghang Tong",
+      "Jingrui He"
+    ],
+    "venue": "Proceedings of the IEEE/CVF International Conference on Computer Vision",
+    "title": "Latte: Collaborative test-time adaptation of vision-language models in federated learning",
+    "raw_text": "Wenxuan Bao*Ruxi Deng*Ruizhong Qiu*Tianxin Wei*Hanghang Tong*Jingrui He#Latte: Collaborative test-time adaptation of vision-language models in federated learning#Proceedings of the IEEE/CVF International Conference on Computer Vision#2025",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2023,
+    "authors": [
+      "Federico Barbero",
+      "Ameya Velingker",
+      "Amin Saberi",
+      "Michael Bronstein",
+      "Francesco Di Giovanni"
+    ],
+    "venue": "arXiv preprint",
+    "title": "Locality-aware graph-rewiring in gnns",
+    "raw_text": "Federico Barbero*Ameya Velingker*Amin Saberi*Michael Bronstein*Francesco Di Giovanni#Locality-aware graph-rewiring in gnns#arXiv preprint#2023",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Burak Bartan",
+      "Ruizhong Qiu",
+      "Rafael Esteves",
+      "Yuwei Ren",
+      "Weiliang Will Zeng",
+      "An Chen"
+    ],
+    "venue": "The 17th International OPT Workshop on Optimization for Machine Learning",
+    "title": "FineAMP: optimization-based automatic mixed precision quantization for efficient diffusion model inference",
+    "raw_text": "Burak Bartan*Ruizhong Qiu*Rafael Esteves*Yuwei Ren*Weiliang Will Zeng*An Chen#FineAMP: optimization-based automatic mixed precision quantization for efficient diffusion model inference#The 17th International OPT Workshop on Optimization for Machine Learning#2025",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Ali Behrouz",
+      "Farnoosh Hashemi"
+    ],
+    "venue": "Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
+    "title": "Graph Mamba: Towards learning on graphs with state space models",
+    "raw_text": "Ali Behrouz*Farnoosh Hashemi#Graph Mamba: Towards learning on graphs with state space models#Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining#2024",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2023,
+    "authors": [
+      "Mitchell Black",
+      "Zhengchao Wan",
+      "Amir Nayyeri",
+      "Yusu Wang"
+    ],
+    "venue": "Proceedings of the 40th International Conference on Machine Learning",
+    "title": "Understanding oversquashing in GNNs through the lens of effective resistance",
+    "raw_text": "Mitchell Black*Zhengchao Wan*Amir Nayyeri*Yusu Wang#Understanding oversquashing in GNNs through the lens of effective resistance#Proceedings of the 40th International Conference on Machine Learning#2023",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2021,
+    "authors": [
+      "Deyu Bo",
+      "Xiao Wang",
+      "Chuan Shi",
+      "Huawei Shen"
+    ],
+    "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+    "title": "Beyond low-frequency information in graph convolutional networks",
+    "raw_text": "Deyu Bo*Xiao Wang*Chuan Shi*Huawei Shen#Beyond low-frequency information in graph convolutional networks#Proceedings of the AAAI Conference on Artificial Intelligence#2021",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2021,
+    "authors": [
+      "Shaked Brody",
+      "Uri Alon",
+      "Eran Yahav"
+    ],
+    "venue": "arXiv preprint",
+    "title": "How attentive are graph attention networks?",
+    "raw_text": "Shaked Brody*Uri Alon*Eran Yahav#How attentive are graph attention networks?#arXiv preprint#2021",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Eunice Chan",
+      "Zhining Liu",
+      "Ruizhong Qiu",
+      "Yuheng Zhang",
+      "Ross Maciejewski",
+      "Hanghang Tong"
+    ],
+    "venue": "The 2024 ACM Conference on Fairness, Accountability, and Transparency",
+    "title": "Group fairness via group consensus",
+    "raw_text": "Eunice Chan*Zhining Liu*Ruizhong Qiu*Yuheng Zhang*Ross Maciejewski*Hanghang Tong#Group fairness via group consensus#The 2024 ACM Conference on Fairness, Accountability, and Transparency#2024",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Lingjie Chen",
+      "Ruizhong Qiu",
+      "Siyu Yuan",
+      "Zhining Liu",
+      "Tianxin Wei",
+      "Hyunsik Yoo",
+      "Zhichen Zeng",
+      "Deqing Yang"
+    ],
+    "venue": "arXiv preprint",
+    "title": "WAPITI: a watermark for finetuned open-source LLMs",
+    "raw_text": "Lingjie Chen*Ruizhong Qiu*Siyu Yuan*Zhining Liu*Tianxin Wei*Hyunsik Yoo*Zhichen Zeng*Deqing Yang#WAPITI: a watermark for finetuned open-source LLMs#arXiv preprint#2024",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2020,
+    "authors": [
+      "Ming Chen",
+      "Zhewei Wei",
+      "Zengfeng Huang",
+      "Bolin Ding",
+      "Yaliang Li"
+    ],
+    "venue": "Proceedings of the 37th International Conference on Machine Learning",
+    "title": "Simple and deep graph convolutional networks",
+    "raw_text": "Ming Chen*Zhewei Wei*Zengfeng Huang*Bolin Ding*Yaliang Li#Simple and deep graph convolutional networks#Proceedings of the 37th International Conference on Machine Learning#2020",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2026,
+    "authors": [
+      "Sirui Chen",
+      "Yunzhe Qi",
+      "Mengting Ai",
+      "Yifan Sun",
+      "Ruizhong Qiu",
+      "Jiaru Zou",
+      "Jingrui He"
+    ],
+    "venue": "The Fourteenth International Conference on Learning Representations",
+    "title": "Influence-preserving proxies for gradient-based data selection in LLM finetuning",
+    "raw_text": "Sirui Chen*Yunzhe Qi*Mengting Ai*Yifan Sun*Ruizhong Qiu*Jiaru Zou*Jingrui He#Influence-preserving proxies for gradient-based data selection in LLM finetuning#The Fourteenth International Conference on Learning Representations#2026",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2020,
+    "authors": [
+      "Eli Chien",
+      "Jianhao Peng",
+      "Pan Li",
+      "Olgica Milenkovic"
+    ],
+    "venue": "arXiv preprint",
+    "title": "Adaptive universal generalized PageRank graph neural network",
+    "raw_text": "Eli Chien*Jianhao Peng*Pan Li*Olgica Milenkovic#Adaptive universal generalized PageRank graph neural network#arXiv preprint#2020",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2026,
+    "authors": [
+      "Chengming Cui",
+      "Tianxin Wei",
+      "Ziyi Chen",
+      "Ruizhong Qiu",
+      "Zhichen Zeng",
+      "Zhining Liu",
+      "Xuying Ning",
+      "Duo Zhou",
+      "Jingrui He"
+    ],
+    "venue": "arXiv preprint",
+    "title": "AdaFuse: adaptive ensemble decoding with test-time scaling for LLMs",
+    "raw_text": "Chengming Cui*Tianxin Wei*Ziyi Chen*Ruizhong Qiu*Zhichen Zeng*Zhining Liu*Xuying Ning*Duo Zhou*Jingrui He#AdaFuse: adaptive ensemble decoding with test-time scaling for LLMs#arXiv preprint#2026",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2022,
+    "authors": [
+      "Andreea Deac",
+      "Marc Lackenby",
+      "Petar Veličković"
+    ],
+    "venue": "Learning on Graphs Conference",
+    "title": "Expander graph propagation",
+    "raw_text": "Andreea Deac*Marc Lackenby*Petar Veličković#Expander graph propagation#Learning on Graphs Conference#2022",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2016,
+    "authors": [
+      "Michaël Defferrard",
+      "Xavier Bresson",
+      "Pierre Vandergheynst"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "title": "Convolutional neural networks on graphs with fast localized spectral filtering",
+    "raw_text": "Michaël Defferrard*Xavier Bresson*Pierre Vandergheynst#Convolutional neural networks on graphs with fast localized spectral filtering#Advances in Neural Information Processing Systems#2016",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2023,
+    "authors": [
+      "Francesco Di Giovanni",
+      "Lorenzo Giusti",
+      "Federico Barbero",
+      "Giulia Luise",
+      "Pietro Lio",
+      "Michael M. Bronstein"
+    ],
+    "venue": "Proceedings of the 40th International Conference on Machine Learning",
+    "title": "On over-squashing in message passing neural networks: The impact of width, depth, and topology",
+    "raw_text": "Francesco Di Giovanni*Lorenzo Giusti*Federico Barbero*Giulia Luise*Pietro Lio*Michael M. Bronstein#On over-squashing in message passing neural networks: The impact of width, depth, and topology#Proceedings of the 40th International Conference on Machine Learning#2023",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Yanfei Dong",
+      "Mohammed Haroon Dupty",
+      "Lambert Deng",
+      "Zhuanghua Liu",
+      "Yong Liang Goh",
+      "Wee Sun Lee"
+    ],
+    "venue": "arXiv preprint",
+    "title": "Differentiable cluster graph neural network",
+    "raw_text": "Yanfei Dong*Mohammed Haroon Dupty*Lambert Deng*Zhuanghua Liu*Yong Liang Goh*Wee Sun Lee#Differentiable cluster graph neural network#arXiv preprint#2024",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2017,
+    "authors": [
+      "Jian Du",
+      "Shanghang Zhang",
+      "Guanhang Wu",
+      "José MF Moura",
+      "Soummya Kar"
+    ],
+    "venue": "arXiv preprint",
+    "title": "Topology adaptive graph convolutional networks",
+    "raw_text": "Jian Du*Shanghang Zhang*Guanhang Wu*José MF Moura*Soummya Kar#Topology adaptive graph convolutional networks#arXiv preprint#2017",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2019,
+    "authors": [
+      "Johannes Gasteiger",
+      "Aleksandar Bojchevski",
+      "Stephan Günnemann"
+    ],
+    "venue": "The Seventh International Conference on Learning Representations",
+    "title": "Predict then propagate: Graph neural networks meet personalized pagerank",
+    "raw_text": "Johannes Gasteiger*Aleksandar Bojchevski*Stephan Günnemann#Predict then propagate: Graph neural networks meet personalized pagerank#The Seventh International Conference on Learning Representations#2019",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2017,
+    "authors": [
+      "Justin Gilmer",
+      "Samuel S. Schoenholz",
+      "Patrick F. Riley",
+      "Oriol Vinyals",
+      "George E. Dahl"
+    ],
+    "venue": "Proceedings of the 34th International Conference on Machine Learning",
+    "title": "Neural message passing for quantum chemistry",
+    "raw_text": "Justin Gilmer*Samuel S. Schoenholz*Patrick F. Riley*Oriol Vinyals*George E. Dahl#Neural message passing for quantum chemistry#Proceedings of the 34th International Conference on Machine Learning#2017",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Chenghua Gong",
+      "Yao Cheng",
+      "Jianxiang Yu",
+      "Can Xu",
+      "Caihua Shan",
+      "Siqiang Luo",
+      "Xiang Li"
+    ],
+    "venue": "arXiv preprint",
+    "title": "A survey on learning from graphs with heterophily: Recent advances and future directions",
+    "raw_text": "Chenghua Gong*Yao Cheng*Jianxiang Yu*Can Xu*Caihua Shan*Siqiang Luo*Xiang Li#A survey on learning from graphs with heterophily: Recent advances and future directions#arXiv preprint#2024",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Ming Gu",
+      "Zhuonan Zheng",
+      "Sheng Zhou",
+      "Meihan Liu",
+      "Jiawei Chen",
+      "Tanyu Qiao",
+      "Liangcheng Li",
+      "Jiajun Bu"
+    ],
+    "venue": "arXiv preprint",
+    "title": "Universal inceptive GNNs by eliminating the smoothness-generalization dilemma",
+    "raw_text": "Ming Gu*Zhuonan Zheng*Sheng Zhou*Meihan Liu*Jiawei Chen*Tanyu Qiao*Liangcheng Li*Jiajun Bu#Universal inceptive GNNs by eliminating the smoothness-generalization dilemma#arXiv preprint#2024",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2017,
+    "authors": [
+      "Will Hamilton",
+      "Zhitao Ying",
+      "Jure Leskovec"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "title": "Inductive representation learning on large graphs",
+    "raw_text": "Will Hamilton*Zhitao Ying*Jure Leskovec#Inductive representation learning on large graphs#Advances in Neural Information Processing Systems#2017",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Xinyu He",
+      "Jian Kang",
+      "Ruizhong Qiu",
+      "Fei Wang",
+      "Jose Sepulveda",
+      "Hanghang Tong"
+    ],
+    "venue": "Proceedings of the 33rd ACM International Conference on Information and Knowledge Management",
+    "title": "On the sensitivity of individual fairness: Measures and robust algorithms",
+    "raw_text": "Xinyu He*Jian Kang*Ruizhong Qiu*Fei Wang*Jose Sepulveda*Hanghang Tong#On the sensitivity of individual fairness: Measures and robust algorithms#Proceedings of the 33rd ACM International Conference on Information and Knowledge Management#2024",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2026,
+    "authors": [
+      "Xinyu He",
+      "Chenhan Xiao",
+      "Haoran Li",
+      "Ruizhong Qiu",
+      "Zhe Xu",
+      "Yang Weng",
+      "Jingrui He",
+      "Hanghang Tong"
+    ],
+    "venue": "Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
+    "title": "PowerGrow: feasible co-growth of structures and dynamics for power grid synthesis",
+    "raw_text": "Xinyu He*Chenhan Xiao*Haoran Li*Ruizhong Qiu*Zhe Xu*Yang Weng*Jingrui He*Hanghang Tong#PowerGrow: feasible co-growth of structures and dynamics for power grid synthesis#Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining#2026",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2016,
+    "authors": [
+      "Dan Hendrycks",
+      "Kevin Gimpel"
+    ],
+    "venue": "arXiv preprint",
+    "title": "Gaussian error linear units",
+    "raw_text": "Dan Hendrycks*Kevin Gimpel#Gaussian error linear units#arXiv preprint#2016",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2022,
+    "authors": [
+      "Di Jin",
+      "Rui Wang",
+      "Meng Ge",
+      "Dongxiao He",
+      "Xiang Li",
+      "Wei Lin",
+      "Weixiong Zhang"
+    ],
+    "venue": "Proceedings of the 31st International Joint Conference on Artificial Intelligence",
+    "title": "RAW-GNN: Random walk aggregation based graph neural network",
+    "raw_text": "Di Jin*Rui Wang*Meng Ge*Dongxiao He*Xiang Li*Wei Lin*Weixiong Zhang#RAW-GNN: Random walk aggregation based graph neural network#Proceedings of the 31st International Joint Conference on Artificial Intelligence#2022",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Baoyu Jing",
+      "Sanhorn Chen",
+      "Lecheng Zheng",
+      "Boyu Liu",
+      "Zihao Li",
+      "Jiaru Zou",
+      "Tianxin Wei",
+      "Zhining Liu",
+      "Zhichen Zeng",
+      "Ruizhong Qiu",
+      "Xiao Lin",
+      "Yuchen Yan",
+      "Qi Yu",
+      "Dongqi Fu",
+      "Jingrui He",
+      "Hanghang Tong"
+    ],
+    "venue": "OpenReview",
+    "title": "TRQA: time series reasoning question and answering benchmark",
+    "raw_text": "Baoyu Jing*Sanhorn Chen*Lecheng Zheng*Boyu Liu*Zihao Li*Jiaru Zou*Tianxin Wei*Zhining Liu*Zhichen Zeng*Ruizhong Qiu*Xiao Lin*Yuchen Yan*Qi Yu*Dongqi Fu*Jingrui He*Hanghang Tong#TRQA: time series reasoning question and answering benchmark#OpenReview#2025",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2022,
+    "authors": [
+      "Kedar Karhadkar",
+      "Pradeep Kr Banerjee",
+      "Guido Montúfar"
+    ],
+    "venue": "arXiv preprint",
+    "title": "FoSR: First-order spectral rewiring for addressing oversquashing in gnns",
+    "raw_text": "Kedar Karhadkar*Pradeep Kr Banerjee*Guido Montúfar#FoSR: First-order spectral rewiring for addressing oversquashing in gnns#arXiv preprint#2022",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2014,
+    "authors": [
+      "Diederik P. Kingma",
+      "Jimmy Ba"
+    ],
+    "venue": "arXiv preprint",
+    "title": "Adam: A method for stochastic optimization",
+    "raw_text": "Diederik P. Kingma*Jimmy Ba#Adam: A method for stochastic optimization#arXiv preprint#2014",
+    "type": "other"
+  },
+  {
+    "url": "https://arxiv.org/abs/1609.02907",
+    "cited_url": "https://arxiv.org/abs/1609.02907",
+    "arxiv_url": "https://arxiv.org/abs/1609.02907",
+    "doi": null,
+    "year": 2016,
+    "authors": [
+      "Thomas N Kipf",
+      "Max Welling"
+    ],
+    "venue": "arXiv preprint arXiv:1609.02907",
+    "title": "Semi-supervised classification with graph convolutional networks",
+    "raw_text": "Thomas N Kipf*Max Welling#Semi-supervised classification with graph convolutional networks#arXiv preprint arXiv:1609.02907#2016",
+    "type": "arxiv"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2023,
+    "authors": [
+      "Gaotang Li",
+      "Marlena Duda",
+      "Xiang Zhang",
+      "Danai Koutra",
+      "Yujun Yan"
+    ],
+    "venue": "Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
+    "title": "Interpretable sparsification of brain graphs: Better practices and effective designs for graph neural networks",
+    "raw_text": "Gaotang Li*Marlena Duda*Xiang Zhang*Danai Koutra*Yujun Yan#Interpretable sparsification of brain graphs: Better practices and effective designs for graph neural networks#Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining#2023",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Gaotang Li",
+      "Ruizhong Qiu",
+      "Xiusi Chen",
+      "Heng Ji",
+      "Hanghang Tong"
+    ],
+    "venue": "arXiv preprint",
+    "title": "Beyond log likelihood: Probability-based objectives for supervised fine-tuning across the model capability continuum",
+    "raw_text": "Gaotang Li*Ruizhong Qiu*Xiusi Chen*Heng Ji*Hanghang Tong#Beyond log likelihood: Probability-based objectives for supervised fine-tuning across the model capability continuum#arXiv preprint#2025",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Mufei Li",
+      "Dongqi Fu",
+      "Limei Wang",
+      "Si Zhang",
+      "Hanqing Zeng",
+      "Kaan Sancak",
+      "Ruizhong Qiu",
+      "Haoyu Peter Wang",
+      "Xiaoxin He",
+      "Xavier Bresson",
+      "Yinglong Xia",
+      "Chonglin Sun",
+      "Pan Li"
+    ],
+    "venue": "NeurIPS 2025 Workshop on Evaluating the Evolving LLM Lifecycle: Benchmarks, Emergent Abilities, and Scaling",
+    "title": "Haystack engineering: Context engineering meets the long-context challenge in large language models",
+    "raw_text": "Mufei Li*Dongqi Fu*Limei Wang*Si Zhang*Hanqing Zeng*Kaan Sancak*Ruizhong Qiu*Haoyu Peter Wang*Xiaoxin He*Xavier Bresson*Yinglong Xia*Chonglin Sun*Pan Li#Haystack engineering: Context engineering meets the long-context challenge in large language models#NeurIPS 2025 Workshop on Evaluating the Evolving LLM Lifecycle: Benchmarks, Emergent Abilities, and Scaling#2025",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2023,
+    "authors": [
+      "Ting Wei Li",
+      "Qiaozhu Mei",
+      "Jiaqi Ma"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "title": "A metadata-driven approach to understand graph neural networks",
+    "raw_text": "Ting Wei Li*Qiaozhu Mei*Jiaqi Ma#A metadata-driven approach to understand graph neural networks#Advances in Neural Information Processing Systems#2023",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Ting-Wei Li",
+      "Ruizhong Qiu",
+      "Hanghang Tong"
+    ],
+    "venue": "Advances in Neural Information Processing Systems 38",
+    "title": "Graph data selection for domain adaptation: A model-free approach",
+    "raw_text": "Ting-Wei Li*Ruizhong Qiu*Hanghang Tong#Graph data selection for domain adaptation: A model-free approach#Advances in Neural Information Processing Systems 38#2025",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2022,
+    "authors": [
+      "Xiang Li",
+      "Renyu Zhu",
+      "Yao Cheng",
+      "Caihua Shan",
+      "Siqiang Luo",
+      "Dongsheng Li",
+      "Weining Qian"
+    ],
+    "venue": "Proceedings of the 39th International Conference on Machine Learning",
+    "title": "Finding global homophily in graph neural networks when meeting heterophily",
+    "raw_text": "Xiang Li*Renyu Zhu*Yao Cheng*Caihua Shan*Siqiang Luo*Dongsheng Li*Weining Qian#Finding global homophily in graph neural networks when meeting heterophily#Proceedings of the 39th International Conference on Machine Learning#2022",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2023,
+    "authors": [
+      "Xiao Li",
+      "Li Sun",
+      "Mengjie Ling",
+      "Yan Peng"
+    ],
+    "venue": "Neurocomputing",
+    "title": "A survey of graph neural network based recommendation in social networks",
+    "raw_text": "Xiao Li*Li Sun*Mengjie Ling*Yan Peng#A survey of graph neural network based recommendation in social networks#Neurocomputing#2023",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Zihao Li",
+      "Zhichen Zeng",
+      "Xiao Lin",
+      "Feihao Fang",
+      "Yanru Qu",
+      "Zhe Xu",
+      "Zhining Liu",
+      "Xuying Ning",
+      "Tianxin Wei",
+      "Ge Liu",
+      "Hanghang Tong",
+      "Jingrui He"
+    ],
+    "venue": "arXiv preprint",
+    "title": "Flow matching meets biology and life science: a survey",
+    "raw_text": "Zihao Li*Zhichen Zeng*Xiao Lin*Feihao Fang*Yanru Qu*Zhe Xu*Zhining Liu*Xuying Ning*Tianxin Wei*Ge Liu*Hanghang Tong*Jingrui He#Flow matching meets biology and life science: a survey#arXiv preprint#2025",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2021,
+    "authors": [
+      "Derek Lim",
+      "Felix Hohne",
+      "Xiuyu Li",
+      "Sijia Linda Huang",
+      "Vaishnavi Gupta",
+      "Omkar Bhalerao",
+      "Ser Nam Lim"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "title": "Large scale learning on non-homophilous graphs: New benchmarks and strong simple methods",
+    "raw_text": "Derek Lim*Felix Hohne*Xiuyu Li*Sijia Linda Huang*Vaishnavi Gupta*Omkar Bhalerao*Ser Nam Lim#Large scale learning on non-homophilous graphs: New benchmarks and strong simple methods#Advances in Neural Information Processing Systems#2021",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Xiao Lin",
+      "Zhining Liu",
+      "Dongqi Fu",
+      "Ruizhong Qiu",
+      "Hanghang Tong"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "title": "BackTime: Backdoor attacks on multivariate time series forecasting",
+    "raw_text": "Xiao Lin*Zhining Liu*Dongqi Fu*Ruizhong Qiu*Hanghang Tong#BackTime: Backdoor attacks on multivariate time series forecasting#Advances in Neural Information Processing Systems#2024",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Xiao Lin",
+      "Zhining Liu",
+      "Ze Yang",
+      "Gaotang Li",
+      "Ruizhong Qiu",
+      "Shuke Wang",
+      "Hui Liu",
+      "Haotian Li",
+      "Sumit Keswani",
+      "Vishwa Pardeshi",
+      "Huijun Zhao",
+      "Wei Fan",
+      "Hanghang Tong"
+    ],
+    "venue": "arXiv preprint",
+    "title": "MORALISE: a structured benchmark for moral alignment in visual language models",
+    "raw_text": "Xiao Lin*Zhining Liu*Ze Yang*Gaotang Li*Ruizhong Qiu*Shuke Wang*Hui Liu*Haotian Li*Sumit Keswani*Vishwa Pardeshi*Huijun Zhao*Wei Fan*Hanghang Tong#MORALISE: a structured benchmark for moral alignment in visual language models#arXiv preprint#2025",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2026,
+    "authors": [
+      "Xiao Lin",
+      "Zhicheng Tang",
+      "Weilin Cong",
+      "Mengyue Hang",
+      "Kai Wang",
+      "Yajuan Wang",
+      "Zhichen Zeng",
+      "Ting-Wei Li",
+      "Hyunsik Yoo",
+      "Zhining Liu",
+      "Xuying Ning",
+      "Ruizhong Qiu",
+      "Wen-Yen Chen",
+      "Shuo Chang",
+      "Rong Jin",
+      "Huayu Li",
+      "Hanghang Tong"
+    ],
+    "venue": "Proceedings of the ACM Web Conference 2026",
+    "title": "Mixture of sequence: Theme-aware mixture-of-experts for long-sequence recommendation",
+    "raw_text": "Xiao Lin*Zhicheng Tang*Weilin Cong*Mengyue Hang*Kai Wang*Yajuan Wang*Zhichen Zeng*Ting-Wei Li*Hyunsik Yoo*Zhining Liu*Xuying Ning*Ruizhong Qiu*Wen-Yen Chen*Shuo Chang*Rong Jin*Huayu Li*Hanghang Tong#Mixture of sequence: Theme-aware mixture-of-experts for long-sequence recommendation#Proceedings of the ACM Web Conference 2026#2026",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Lihui Liu",
+      "Zihao Wang",
+      "Ruizhong Qiu",
+      "Yikun Ban",
+      "Eunice Chan",
+      "Yangqiu Song",
+      "Jingrui He",
+      "Hanghang Tong"
+    ],
+    "venue": "arXiv preprint",
+    "title": "Logic query of thoughts: Guiding large language models to answer complex logic queries with knowledge graphs",
+    "raw_text": "Lihui Liu*Zihao Wang*Ruizhong Qiu*Yikun Ban*Eunice Chan*Yangqiu Song*Jingrui He*Hanghang Tong#Logic query of thoughts: Guiding large language models to answer complex logic queries with knowledge graphs#arXiv preprint#2024",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2020,
+    "authors": [
+      "Meng Liu",
+      "Hongyang Gao",
+      "Shuiwang Ji"
+    ],
+    "venue": "Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining",
+    "title": "Towards deeper graph neural networks",
+    "raw_text": "Meng Liu*Hongyang Gao*Shuiwang Ji#Towards deeper graph neural networks#Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining#2020",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2023,
+    "authors": [
+      "Zhining Liu",
+      "Zhichen Zeng",
+      "Ruizhong Qiu",
+      "Hyunsik Yoo",
+      "David Zhou",
+      "Zhe Xu",
+      "Yada Zhu",
+      "Kommy Weldemariam",
+      "Jingrui He",
+      "Hanghang Tong"
+    ],
+    "venue": "arXiv preprint",
+    "title": "Topological augmentation for class-imbalanced node classification",
+    "raw_text": "Zhining Liu*Zhichen Zeng*Ruizhong Qiu*Hyunsik Yoo*David Zhou*Zhe Xu*Yada Zhu*Kommy Weldemariam*Jingrui He*Hanghang Tong#Topological augmentation for class-imbalanced node classification#arXiv preprint#2023",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Zhining Liu",
+      "Ruizhong Qiu",
+      "Zhichen Zeng",
+      "Hyunsik Yoo",
+      "David Zhou",
+      "Zhe Xu",
+      "Yada Zhu",
+      "Kommy Weldemariam",
+      "Jingrui He",
+      "Hanghang Tong"
+    ],
+    "venue": "Proceedings of the 41st International Conference on Machine Learning",
+    "title": "Class-imbalanced graph learning without class rebalancing",
+    "raw_text": "Zhining Liu*Ruizhong Qiu*Zhichen Zeng*Hyunsik Yoo*David Zhou*Zhe Xu*Yada Zhu*Kommy Weldemariam*Jingrui He*Hanghang Tong#Class-imbalanced graph learning without class rebalancing#Proceedings of the 41st International Conference on Machine Learning#2024",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Zhining Liu",
+      "Ruizhong Qiu",
+      "Zhichen Zeng",
+      "Yada Zhu",
+      "Hendrik Hamann",
+      "Hanghang Tong"
+    ],
+    "venue": "Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
+    "title": "AIM: Attributing, interpreting, mitigating data unfairness",
+    "raw_text": "Zhining Liu*Ruizhong Qiu*Zhichen Zeng*Yada Zhu*Hendrik Hamann*Hanghang Tong#AIM: Attributing, interpreting, mitigating data unfairness#Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining#2024",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Zhining Liu",
+      "Ziyi Chen",
+      "Hui Liu",
+      "Chen Luo",
+      "Xianfeng Tang",
+      "Suhang Wang",
+      "Joy Zeng",
+      "Zhenwei Dai",
+      "Zhan Shi",
+      "Tianxin Wei",
+      "Benoit Dumoulin",
+      "Hanghang Tong"
+    ],
+    "venue": "arXiv preprint",
+    "title": "Seeing but not believing: Probing the disconnect between visual attention and answer correctness in vlms",
+    "raw_text": "Zhining Liu*Ziyi Chen*Hui Liu*Chen Luo*Xianfeng Tang*Suhang Wang*Joy Zeng*Zhenwei Dai*Zhan Shi*Tianxin Wei*Benoit Dumoulin*Hanghang Tong#Seeing but not believing: Probing the disconnect between visual attention and answer correctness in vlms#arXiv preprint#2025",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Zhining Liu",
+      "Ze Yang",
+      "Xiao Lin",
+      "Ruizhong Qiu",
+      "Tianxin Wei",
+      "Yada Zhu",
+      "Hendrik Hamann",
+      "Jingrui He",
+      "Hanghang Tong"
+    ],
+    "venue": "Proceedings of the 42nd International Conference on Machine Learning",
+    "title": "Breaking silos: Adaptive model fusion unlocks better time series forecasting",
+    "raw_text": "Zhining Liu*Ze Yang*Xiao Lin*Ruizhong Qiu*Tianxin Wei*Yada Zhu*Hendrik Hamann*Jingrui He*Hanghang Tong#Breaking silos: Adaptive model fusion unlocks better time series forecasting#Proceedings of the 42nd International Conference on Machine Learning#2025",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2021,
+    "authors": [
+      "Sitao Luan",
+      "Chenqing Hua",
+      "Qincheng Lu",
+      "Jiaqi Zhu",
+      "Mingde Zhao",
+      "Shuyuan Zhang",
+      "Xiao-Wen Chang",
+      "Doina Precup"
+    ],
+    "venue": "arXiv preprint",
+    "title": "Is heterophily a real nightmare for graph neural networks to do node classification?",
+    "raw_text": "Sitao Luan*Chenqing Hua*Qincheng Lu*Jiaqi Zhu*Mingde Zhao*Shuyuan Zhang*Xiao-Wen Chang*Doina Precup#Is heterophily a real nightmare for graph neural networks to do node classification?#arXiv preprint#2021",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2022,
+    "authors": [
+      "Sitao Luan",
+      "Chenqing Hua",
+      "Qincheng Lu",
+      "Jiaqi Zhu",
+      "Mingde Zhao",
+      "Shuyuan Zhang",
+      "Xiao-Wen Chang",
+      "Doina Precup"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "title": "Revisiting heterophily for graph neural networks",
+    "raw_text": "Sitao Luan*Chenqing Hua*Qincheng Lu*Jiaqi Zhu*Mingde Zhao*Shuyuan Zhang*Xiao-Wen Chang*Doina Precup#Revisiting heterophily for graph neural networks#Advances in Neural Information Processing Systems#2022",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2023,
+    "authors": [
+      "Sitao Luan",
+      "Chenqing Hua",
+      "Minkai Xu",
+      "Qincheng Lu",
+      "Jiaqi Zhu",
+      "Xiao-Wen Chang",
+      "Jie Fu",
+      "Jure Leskovec",
+      "Doina Precup"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "title": "When do graph neural networks help with node classification? investigating the homophily principle on node distinguishability",
+    "raw_text": "Sitao Luan*Chenqing Hua*Minkai Xu*Qincheng Lu*Jiaqi Zhu*Xiao-Wen Chang*Jie Fu*Jure Leskovec*Doina Precup#When do graph neural networks help with node classification? investigating the homophily principle on node distinguishability#Advances in Neural Information Processing Systems#2023",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Sitao Luan",
+      "Chenqing Hua",
+      "Qincheng Lu",
+      "Liheng Ma",
+      "Lirong Wu",
+      "Xinyu Wang",
+      "Minkai Xu",
+      "Xiao-Wen Chang",
+      "Doina Precup",
+      "Rex Ying",
+      "Stan Z. Li",
+      "Jian Tang",
+      "Guy Wolf",
+      "Stefanie Jegelka"
+    ],
+    "venue": "arXiv preprint",
+    "title": "The heterophilic graph learning handbook: Benchmarks, models, theoretical analysis, applications and challenges",
+    "raw_text": "Sitao Luan*Chenqing Hua*Qincheng Lu*Liheng Ma*Lirong Wu*Xinyu Wang*Minkai Xu*Xiao-Wen Chang*Doina Precup*Rex Ying*Stan Z. Li*Jian Tang*Guy Wolf*Stefanie Jegelka#The heterophilic graph learning handbook: Benchmarks, models, theoretical analysis, applications and challenges#arXiv preprint#2024",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2022,
+    "authors": [
+      "Jiaqi Ma",
+      "Xingjian Zhang",
+      "Hezheng Fan",
+      "Jin Huang",
+      "Tianyue Li",
+      "Ting-Wei Li",
+      "Yiwen Tu",
+      "Chenshu Zhu",
+      "Qiaozhu Mei"
+    ],
+    "venue": "Learning on Graphs Conference",
+    "title": "Graph learning indexer: A contributor-friendly and metadata-rich platform for graph learning benchmarks",
+    "raw_text": "Jiaqi Ma*Xingjian Zhang*Hezheng Fan*Jin Huang*Tianyue Li*Ting-Wei Li*Yiwen Tu*Chenshu Zhu*Qiaozhu Mei#Graph learning indexer: A contributor-friendly and metadata-rich platform for graph learning benchmarks#Learning on Graphs Conference#2022",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2021,
+    "authors": [
+      "Sunil Kumar Maurya",
+      "Xin Liu",
+      "Tsuyoshi Murata"
+    ],
+    "venue": "arXiv preprint",
+    "title": "Improving graph neural networks with simple architecture design",
+    "raw_text": "Sunil Kumar Maurya*Xin Liu*Tsuyoshi Murata#Improving graph neural networks with simple architecture design#arXiv preprint#2021",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2023,
+    "authors": [
+      "Khang Nguyen",
+      "Nong Minh Hieu",
+      "Vinh Duc Nguyen",
+      "Nhat Ho",
+      "Stanley Osher",
+      "Tan Minh Nguyen"
+    ],
+    "venue": "Proceedings of the 40th International Conference on Machine Learning",
+    "title": "Revisiting over-smoothing and over-squashing using ollivier-ricci curvature",
+    "raw_text": "Khang Nguyen*Nong Minh Hieu*Vinh Duc Nguyen*Nhat Ho*Stanley Osher*Tan Minh Nguyen#Revisiting over-smoothing and over-squashing using ollivier-ricci curvature#Proceedings of the 40th International Conference on Machine Learning#2023",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2007,
+    "authors": [
+      "Shashank Pandit",
+      "Duen Horng Chau",
+      "Samuel Wang",
+      "Christos Faloutsos"
+    ],
+    "venue": "Proceedings of the 16th International Conference on World Wide Web",
+    "title": "Netprobe: a fast and scalable system for fraud detection in online auction networks",
+    "raw_text": "Shashank Pandit*Duen Horng Chau*Samuel Wang*Christos Faloutsos#Netprobe: a fast and scalable system for fraud detection in online auction networks#Proceedings of the 16th International Conference on World Wide Web#2007",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2020,
+    "authors": [
+      "Hongbin Pei",
+      "Bingzhe Wei",
+      "Kevin Chen-Chuan Chang",
+      "Yu Lei",
+      "Bo Yang"
+    ],
+    "venue": "The Eighth International Conference on Learning Representations",
+    "title": "Geom-GCN: Geometric graph convolutional networks",
+    "raw_text": "Hongbin Pei*Bingzhe Wei*Kevin Chen-Chuan Chang*Yu Lei*Bo Yang#Geom-GCN: Geometric graph convolutional networks#The Eighth International Conference on Learning Representations#2020",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2023,
+    "authors": [
+      "Oleg Platonov",
+      "Denis Kuznedelev",
+      "Michael Diskin",
+      "Artem Babenko",
+      "Liudmila Prokhorenkova"
+    ],
+    "venue": "The Eleventh International Conference on Learning Representations",
+    "title": "A critical look at the evaluation of GNNs under heterophily: Are we really making progress?",
+    "raw_text": "Oleg Platonov*Denis Kuznedelev*Michael Diskin*Artem Babenko*Liudmila Prokhorenkova#A critical look at the evaluation of GNNs under heterophily: Are we really making progress?#The Eleventh International Conference on Learning Representations#2023",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Oleg Platonov",
+      "Denis Kuznedelev",
+      "Artem Babenko",
+      "Liudmila Prokhorenkova"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "title": "Characterizing graph datasets for node classification: Homophily-heterophily dichotomy and beyond",
+    "raw_text": "Oleg Platonov*Denis Kuznedelev*Artem Babenko*Liudmila Prokhorenkova#Characterizing graph datasets for node classification: Homophily-heterophily dichotomy and beyond#Advances in Neural Information Processing Systems#2024",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2023,
+    "authors": [
+      "Chendi Qian",
+      "Andrei Manolache",
+      "Kareem Ahmed",
+      "Zhe Zeng",
+      "Guy Van den Broeck",
+      "Mathias Niepert",
+      "Christopher Morris"
+    ],
+    "venue": "arXiv preprint",
+    "title": "Probabilistically rewired message-passing neural networks",
+    "raw_text": "Chendi Qian*Andrei Manolache*Kareem Ahmed*Zhe Zeng*Guy Van den Broeck*Mathias Niepert*Christopher Morris#Probabilistically rewired message-passing neural networks#arXiv preprint#2023",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2022,
+    "authors": [
+      "Ruizhong Qiu",
+      "Zhiqing Sun",
+      "Yiming Yang"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "title": "DIMES: A differentiable meta solver for combinatorial optimization problems",
+    "raw_text": "Ruizhong Qiu*Zhiqing Sun*Yiming Yang#DIMES: A differentiable meta solver for combinatorial optimization problems#Advances in Neural Information Processing Systems#2022",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2023,
+    "authors": [
+      "Ruizhong Qiu",
+      "Dingsu Wang",
+      "Lei Ying",
+      "H Vincent Poor",
+      "Yifang Zhang",
+      "Hanghang Tong"
+    ],
+    "venue": "Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
+    "title": "Reconstructing graph diffusion history from a single snapshot",
+    "raw_text": "Ruizhong Qiu*Dingsu Wang*Lei Ying*H Vincent Poor*Yifang Zhang*Hanghang Tong#Reconstructing graph diffusion history from a single snapshot#Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining#2023",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Ruizhong Qiu",
+      "Jun-Gi Jang",
+      "Xiao Lin",
+      "Lihui Liu",
+      "Hanghang Tong"
+    ],
+    "venue": "Proceedings of the VLDB Endowment",
+    "title": "TUCKET: A tensor time series data structure for efficient and accurate factor analysis over time ranges",
+    "raw_text": "Ruizhong Qiu*Jun-Gi Jang*Xiao Lin*Lihui Liu*Hanghang Tong#TUCKET: A tensor time series data structure for efficient and accurate factor analysis over time ranges#Proceedings of the VLDB Endowment#2024",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Ruizhong Qiu",
+      "Gaotang Li",
+      "Ting-Wei Li",
+      "Tianxin Wei",
+      "Jingrui He",
+      "Hanghang Tong"
+    ],
+    "venue": "NeurIPS 2025 Workshop on Vision–Language Model Real-World Deployment",
+    "title": "Efficient inference scaling for safety assurance",
+    "raw_text": "Ruizhong Qiu*Gaotang Li*Ting-Wei Li*Tianxin Wei*Jingrui He*Hanghang Tong#Efficient inference scaling for safety assurance#NeurIPS 2025 Workshop on Vision–Language Model Real-World Deployment#2025",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Ruizhong Qiu",
+      "Zhe Xu",
+      "Wenxuan Bao",
+      "Hanghang Tong"
+    ],
+    "venue": "13th International Conference on Learning Representations",
+    "title": "Ask, and it shall be given: On the Turing completeness of prompting",
+    "raw_text": "Ruizhong Qiu*Zhe Xu*Wenxuan Bao*Hanghang Tong#Ask, and it shall be given: On the Turing completeness of prompting#13th International Conference on Learning Representations#2025",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Ruizhong Qiu",
+      "Weiliang Will Zeng",
+      "Hanghang Tong",
+      "James Ezick",
+      "Christopher Lott"
+    ],
+    "venue": "13th International Conference on Learning Representations",
+    "title": "How efficient is LLM-generated code? A rigorous & high-standard benchmark",
+    "raw_text": "Ruizhong Qiu*Weiliang Will Zeng*Hanghang Tong*James Ezick*Christopher Lott#How efficient is LLM-generated code? A rigorous & high-standard benchmark#13th International Conference on Learning Representations#2025",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2026,
+    "authors": [
+      "Ruizhong Qiu",
+      "Hanqing Zeng",
+      "Yinglong Xia",
+      "Yiwen Meng",
+      "Ren Chen",
+      "Jiarui Feng",
+      "Dongqi Fu",
+      "Qifan Wang",
+      "Jiayi Liu",
+      "Jun Xiao",
+      "Xiangjun Fan",
+      "Benyu Zhang",
+      "Hong Li",
+      "Zhining Liu",
+      "Hyunsik Yoo",
+      "Zhichen Zeng",
+      "Tianxin Wei",
+      "Hanghang Tong"
+    ],
+    "venue": "arXiv preprint",
+    "title": "ReMix: reinforcement routing for mixtures of LoRAs in LLM finetuning",
+    "raw_text": "Ruizhong Qiu*Hanqing Zeng*Yinglong Xia*Yiwen Meng*Ren Chen*Jiarui Feng*Dongqi Fu*Qifan Wang*Jiayi Liu*Jun Xiao*Xiangjun Fan*Benyu Zhang*Hong Li*Zhining Liu*Hyunsik Yoo*Zhichen Zeng*Tianxin Wei*Hanghang Tong#ReMix: reinforcement routing for mixtures of LoRAs in LLM finetuning#arXiv preprint#2026",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2023,
+    "authors": [
+      "Manon Réau",
+      "Nicolas Renaud",
+      "Li C. Xue",
+      "Alexandre M.J.J. Bonvin"
+    ],
+    "venue": "Bioinformatics",
+    "title": "DeepRank-GNN: A graph neural network framework to learn patterns in protein–protein interfaces",
+    "raw_text": "Manon Réau*Nicolas Renaud*Li C. Xue*Alexandre M.J.J. Bonvin#DeepRank-GNN: A graph neural network framework to learn patterns in protein–protein interfaces#Bioinformatics#2023",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2021,
+    "authors": [
+      "Benedek Rozemberczki",
+      "Carl Allen",
+      "Rik Sarkar"
+    ],
+    "venue": "Journal of Complex Networks",
+    "title": "Multi-scale attributed node embedding",
+    "raw_text": "Benedek Rozemberczki*Carl Allen*Rik Sarkar#Multi-scale attributed node embedding#Journal of Complex Networks#2021",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2008,
+    "authors": [
+      "Prithviraj Sen",
+      "Galileo Namata",
+      "Mustafa Bilgic",
+      "Lise Getoor",
+      "Brian Galligher",
+      "Tina Eliassi-Rad"
+    ],
+    "venue": "AI Magazine",
+    "title": "Collective classification in network data",
+    "raw_text": "Prithviraj Sen*Galileo Namata*Mustafa Bilgic*Lise Getoor*Brian Galligher*Tina Eliassi-Rad#Collective classification in network data#AI Magazine#2008",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2023,
+    "authors": [
+      "Dai Shi",
+      "Yi Guo",
+      "Zhiqi Shao",
+      "Junbin Gao"
+    ],
+    "venue": "arXiv preprint",
+    "title": "How curvature enhance the adaptation power of framelet GCNs",
+    "raw_text": "Dai Shi*Yi Guo*Zhiqi Shao*Junbin Gao#How curvature enhance the adaptation power of framelet GCNs#arXiv preprint#2023",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2023,
+    "authors": [
+      "Dai Shi",
+      "Andi Han",
+      "Lequan Lin",
+      "Yi Guo",
+      "Junbin Gao"
+    ],
+    "venue": "arXiv preprint",
+    "title": "Exposition on over-squashing problem on GNNs: Current methods, benchmarks and challenges",
+    "raw_text": "Dai Shi*Andi Han*Lequan Lin*Yi Guo*Junbin Gao#Exposition on over-squashing problem on GNNs: Current methods, benchmarks and challenges#arXiv preprint#2023",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2023,
+    "authors": [
+      "Yunchong Song",
+      "Chenghu Zhou",
+      "Xinbing Wang",
+      "Zhouhan Lin"
+    ],
+    "venue": "The Eleventh International Conference on Learning Representations",
+    "title": "Ordered GNN: Ordering message passing to deal with heterophily and over-smoothing",
+    "raw_text": "Yunchong Song*Chenghu Zhou*Xinbing Wang*Zhouhan Lin#Ordered GNN: Ordering message passing to deal with heterophily and over-smoothing#The Eleventh International Conference on Learning Representations#2023",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2009,
+    "authors": [
+      "Jie Tang",
+      "Jimeng Sun",
+      "Chi Wang",
+      "Zi Yang"
+    ],
+    "venue": "Proceedings of the 15th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining",
+    "title": "Social influence analysis in large-scale networks",
+    "raw_text": "Jie Tang*Jimeng Sun*Chi Wang*Zi Yang#Social influence analysis in large-scale networks#Proceedings of the 15th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining#2009",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2021,
+    "authors": [
+      "Jake Topping",
+      "Francesco Di Giovanni",
+      "Benjamin Paul Chamberlain",
+      "Xiaowen Dong",
+      "Michael M. Bronstein"
+    ],
+    "venue": "arXiv preprint",
+    "title": "Understanding over-squashing and bottlenecks on graphs via curvature",
+    "raw_text": "Jake Topping*Francesco Di Giovanni*Benjamin Paul Chamberlain*Xiaowen Dong*Michael M. Bronstein#Understanding over-squashing and bottlenecks on graphs via curvature#arXiv preprint#2021",
+    "type": "other"
+  },
+  {
+    "url": "https://arxiv.org/abs/1710.10903",
+    "cited_url": "https://arxiv.org/abs/1710.10903",
+    "arxiv_url": "https://arxiv.org/abs/1710.10903",
+    "doi": null,
+    "year": 2017,
+    "authors": [
+      "Petar Veličković",
+      "Guillem Cucurull",
+      "Arantxa Casanova",
+      "Adriana Romero",
+      "Pietro Lio",
+      "Yoshua Bengio"
+    ],
+    "venue": "arXiv preprint arXiv:1710.10903",
+    "title": "Graph attention networks",
+    "raw_text": "Petar Veličković*Guillem Cucurull*Arantxa Casanova*Adriana Romero*Pietro Lio*Yoshua Bengio#Graph attention networks#arXiv preprint arXiv:1710.10903#2017",
+    "type": "arxiv"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2023,
+    "authors": [
+      "Dingsu Wang",
+      "Yuchen Yan",
+      "Ruizhong Qiu",
+      "Yada Zhu",
+      "Kaiyu Guan",
+      "Andrew Margenot",
+      "Hanghang Tong"
+    ],
+    "venue": "Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
+    "title": "Networked time series imputation via position-aware graph enhanced variational autoencoders",
+    "raw_text": "Dingsu Wang*Yuchen Yan*Ruizhong Qiu*Yada Zhu*Kaiyu Guan*Andrew Margenot*Hanghang Tong#Networked time series imputation via position-aware graph enhanced variational autoencoders#Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining#2023",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2022,
+    "authors": [
+      "Tianxin Wei",
+      "Yuning You",
+      "Tianlong Chen",
+      "Yang Shen",
+      "Jingrui He",
+      "Zhangyang Wang"
+    ],
+    "venue": "Advances in neural information processing systems",
+    "title": "Augmentations in hypergraph contrastive learning: Fabricated and generative",
+    "raw_text": "Tianxin Wei*Yuning You*Tianlong Chen*Yang Shen*Jingrui He*Zhangyang Wang#Augmentations in hypergraph contrastive learning: Fabricated and generative#Advances in neural information processing systems#2022",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Tianxin Wei",
+      "Ruizhong Qiu",
+      "Yifan Chen",
+      "Yunzhe Qi",
+      "Jiacheng Lin",
+      "Wenju Xu",
+      "Sreyashi Nag",
+      "Ruirui Li",
+      "Hanqing Lu",
+      "Zhengyang Wang",
+      "Chen Luo",
+      "Hui Liu",
+      "Suhang Wang",
+      "Jingrui He",
+      "Qi He",
+      "Xianfeng Tang"
+    ],
+    "venue": "arXiv preprint",
+    "title": "Robust watermarking for diffusion models: A unified multi-dimensional recipe",
+    "raw_text": "Tianxin Wei*Ruizhong Qiu*Yifan Chen*Yunzhe Qi*Jiacheng Lin*Wenju Xu*Sreyashi Nag*Ruirui Li*Hanqing Lu*Zhengyang Wang*Chen Luo*Hui Liu*Suhang Wang*Jingrui He*Qi He*Xianfeng Tang#Robust watermarking for diffusion models: A unified multi-dimensional recipe#arXiv preprint#2024",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Tianxin Wei",
+      "Xuying Ning",
+      "Xuxing Chen",
+      "Ruizhong Qiu",
+      "Yupeng Hou",
+      "Yan Xie",
+      "Shuang Yang",
+      "Zhigang Hua",
+      "Jingrui He"
+    ],
+    "venue": "arXiv preprint",
+    "title": "CoFiRec: coarse-to-fine tokenization for generative recommendation",
+    "raw_text": "Tianxin Wei*Xuying Ning*Xuxing Chen*Ruizhong Qiu*Yupeng Hou*Yan Xie*Shuang Yang*Zhigang Hua*Jingrui He#CoFiRec: coarse-to-fine tokenization for generative recommendation#arXiv preprint#2025",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Tianxin Wei",
+      "Noveen Sachdeva",
+      "Benjamin Coleman",
+      "Zhankui He",
+      "Yuanchen Bei",
+      "Xuying Ning",
+      "Mengting Ai",
+      "Yunzhe Li",
+      "Jingrui He",
+      "Ed H. Chi",
+      "Chi Wang",
+      "Shuo Chen",
+      "Fernando Pereira",
+      "Wang-Cheng Kang",
+      "Derek Zhiyuan Cheng"
+    ],
+    "venue": "arXiv preprint",
+    "title": "Evo-Memory: Benchmarking LLM agent test-time learning with self-evolving memory",
+    "raw_text": "Tianxin Wei*Noveen Sachdeva*Benjamin Coleman*Zhankui He*Yuanchen Bei*Xuying Ning*Mengting Ai*Yunzhe Li*Jingrui He*Ed H. Chi*Chi Wang*Shuo Chen*Fernando Pereira*Wang-Cheng Kang*Derek Zhiyuan Cheng#Evo-Memory: Benchmarking LLM agent test-time learning with self-evolving memory#arXiv preprint#2025",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2026,
+    "authors": [
+      "Tianxin Wei",
+      "Ting-Wei Li",
+      "Zhining Liu",
+      "Xuying Ning",
+      "Ze Yang",
+      "Jiaru Zou",
+      "Zhichen Zeng",
+      "Ruizhong Qiu",
+      "Xiao Lin",
+      "Dongqi Fu",
+      "Zihao Li",
+      "Mengting Ai",
+      "Duo Zhou",
+      "Wenxuan Bao",
+      "Yunzhe Li",
+      "Gaotang Li",
+      "Cheng Qian",
+      "Yu Wang",
+      "Xiangru Tang",
+      "Yin Xiao",
+      "Liri Fang",
+      "Hui Liu",
+      "Xianfeng Tang",
+      "Yuji Zhang",
+      "Chi Wang",
+      "Jiaxuan You",
+      "Heng Ji",
+      "Hanghang Tong",
+      "Jingrui He"
+    ],
+    "venue": "arXiv preprint",
+    "title": "Agentic reasoning for large language models: A survey",
+    "raw_text": "Tianxin Wei*Ting-Wei Li*Zhining Liu*Xuying Ning*Ze Yang*Jiaru Zou*Zhichen Zeng*Ruizhong Qiu*Xiao Lin*Dongqi Fu*Zihao Li*Mengting Ai*Duo Zhou*Wenxuan Bao*Yunzhe Li*Gaotang Li*Cheng Qian*Yu Wang*Xiangru Tang*Yin Xiao*Liri Fang*Hui Liu*Xianfeng Tang*Yuji Zhang*Chi Wang*Jiaxuan You*Heng Ji*Hanghang Tong*Jingrui He#Agentic reasoning for large language models: A survey#arXiv preprint#2026a",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2026,
+    "authors": [
+      "Tianxin Wei",
+      "Ruizhong Qiu",
+      "Yifan Chen",
+      "Yunzhe Qi",
+      "Jiacheng Lin",
+      "Wenxuan Bao",
+      "Wenju Xu",
+      "Sreyashi Nag",
+      "Ruirui Li",
+      "Hanqing Lu",
+      "Zhengyang Wang",
+      "Chen Luo",
+      "Hui Liu",
+      "Suhang Wang",
+      "Jingrui He",
+      "Qi He",
+      "Xianfeng Tang"
+    ],
+    "venue": "Transactions on Machine Learning Research",
+    "title": "DiffKGW: stealthy and robust diffusion model watermarking",
+    "raw_text": "Tianxin Wei*Ruizhong Qiu*Yifan Chen*Yunzhe Qi*Jiacheng Lin*Wenxuan Bao*Wenju Xu*Sreyashi Nag*Ruirui Li*Hanqing Lu*Zhengyang Wang*Chen Luo*Hui Liu*Suhang Wang*Jingrui He*Qi He*Xianfeng Tang#DiffKGW: stealthy and robust diffusion model watermarking#Transactions on Machine Learning Research#2026b",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2019,
+    "authors": [
+      "Felix Wu",
+      "Amauri Souza",
+      "Tianyi Zhang",
+      "Christopher Fifty",
+      "Tao Yu",
+      "Kilian Weinberger"
+    ],
+    "venue": "International conference on machine learning",
+    "title": "Simplifying graph convolutional networks",
+    "raw_text": "Felix Wu*Amauri Souza*Tianyi Zhang*Christopher Fifty*Tao Yu*Kilian Weinberger#Simplifying graph convolutional networks#International conference on machine learning#2019",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2022,
+    "authors": [
+      "Qitian Wu",
+      "Wentao Zhao",
+      "Zenan Li",
+      "David P. Wipf",
+      "Junchi Yan"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "title": "NodeFormer: A scalable graph structure learning transformer for node classification",
+    "raw_text": "Qitian Wu*Wentao Zhao*Zenan Li*David P. Wipf*Junchi Yan#NodeFormer: A scalable graph structure learning transformer for node classification#Advances in Neural Information Processing Systems#2022",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2023,
+    "authors": [
+      "Qitian Wu",
+      "Chenxiao Yang",
+      "Wentao Zhao",
+      "Yixuan He",
+      "David Wipf",
+      "Junchi Yan"
+    ],
+    "venue": "arXiv preprint",
+    "title": "Difformer: Scalable (graph) transformers induced by energy constrained diffusion",
+    "raw_text": "Qitian Wu*Chenxiao Yang*Wentao Zhao*Yixuan He*David Wipf*Junchi Yan#Difformer: Scalable (graph) transformers induced by energy constrained diffusion#arXiv preprint#2023",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Qitian Wu",
+      "Wentao Zhao",
+      "Chenxiao Yang",
+      "Hengrui Zhang",
+      "Fan Nie",
+      "Haitian Jiang",
+      "Yatao Bian",
+      "Junchi Yan"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "title": "Simplifying and empowering transformers for large-graph representations",
+    "raw_text": "Qitian Wu*Wentao Zhao*Chenxiao Yang*Hengrui Zhang*Fan Nie*Haitian Jiang*Yatao Bian*Junchi Yan#Simplifying and empowering transformers for large-graph representations#Advances in Neural Information Processing Systems#2024a",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Ziwei Wu",
+      "Lecheng Zheng",
+      "Yuancheng Yu",
+      "Ruizhong Qiu",
+      "John Birge",
+      "Jingrui He"
+    ],
+    "venue": "arXiv preprint",
+    "title": "Fair anomaly detection for imbalanced groups",
+    "raw_text": "Ziwei Wu*Lecheng Zheng*Yuancheng Yu*Ruizhong Qiu*John Birge*Jingrui He#Fair anomaly detection for imbalanced groups#arXiv preprint#2024b",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Yujie Xing",
+      "Xiao Wang",
+      "Yibo Li",
+      "Hai Huang",
+      "Chuan Shi"
+    ],
+    "venue": "arXiv preprint",
+    "title": "Less is more: On the over-globalizing problem in graph transformers",
+    "raw_text": "Yujie Xing*Xiao Wang*Yibo Li*Hai Huang*Chuan Shi#Less is more: On the over-globalizing problem in graph transformers#arXiv preprint#2024",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Haobo Xu",
+      "Yuchen Yan",
+      "Dingsu Wang",
+      "Zhe Xu",
+      "Zhichen Zeng",
+      "Tarek F. Abdelzaher",
+      "Jiawei Han",
+      "Hanghang Tong"
+    ],
+    "venue": "Proceedings of the 41st International Conference on Machine Learning",
+    "title": "SLOG: An inductive spectral graph neural network beyond polynomial filter",
+    "raw_text": "Haobo Xu*Yuchen Yan*Dingsu Wang*Zhe Xu*Zhichen Zeng*Tarek F. Abdelzaher*Jiawei Han*Hanghang Tong#SLOG: An inductive spectral graph neural network beyond polynomial filter#Proceedings of the 41st International Conference on Machine Learning#2024a",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2018,
+    "authors": [
+      "Keyulu Xu",
+      "Weihua Hu",
+      "Jure Leskovec",
+      "Stefanie Jegelka"
+    ],
+    "venue": "The Sixth International Conference on Learning Representations",
+    "title": "How powerful are graph neural networks?",
+    "raw_text": "Keyulu Xu*Weihua Hu*Jure Leskovec*Stefanie Jegelka#How powerful are graph neural networks?#The Sixth International Conference on Learning Representations#2018a",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2018,
+    "authors": [
+      "Keyulu Xu",
+      "Chengtao Li",
+      "Yonglong Tian",
+      "Tomohiro Sonobe",
+      "Ken-ichi Kawarabayashi",
+      "Stefanie Jegelka"
+    ],
+    "venue": "Proceedings of the 35th International Conference on Machine Learning",
+    "title": "Representation learning on graphs with jumping knowledge networks",
+    "raw_text": "Keyulu Xu*Chengtao Li*Yonglong Tian*Tomohiro Sonobe*Ken-ichi Kawarabayashi*Stefanie Jegelka#Representation learning on graphs with jumping knowledge networks#Proceedings of the 35th International Conference on Machine Learning#2018b",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2023,
+    "authors": [
+      "Zhe Xu",
+      "Yuzhong Chen",
+      "Qinghai Zhou",
+      "Yuhang Wu",
+      "Menghai Pan",
+      "Hao Yang",
+      "Hanghang Tong"
+    ],
+    "venue": "Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
+    "title": "Node classification beyond homophily: Towards a general solution",
+    "raw_text": "Zhe Xu*Yuzhong Chen*Qinghai Zhou*Yuhang Wu*Menghai Pan*Hao Yang*Hanghang Tong#Node classification beyond homophily: Towards a general solution#Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining#2023",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Zhe Xu",
+      "Ruizhong Qiu",
+      "Yuzhong Chen",
+      "Huiyuan Chen",
+      "Xiran Fan",
+      "Menghai Pan",
+      "Zhichen Zeng",
+      "Mahashweta Das",
+      "Hanghang Tong"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "title": "Discrete-state continuous-time diffusion for graph generation",
+    "raw_text": "Zhe Xu*Ruizhong Qiu*Yuzhong Chen*Huiyuan Chen*Xiran Fan*Menghai Pan*Zhichen Zeng*Mahashweta Das*Hanghang Tong#Discrete-state continuous-time diffusion for graph generation#Advances in Neural Information Processing Systems#2024b",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Yuchen Yan",
+      "Yuzhong Chen",
+      "Huiyuan Chen",
+      "Minghua Xu",
+      "Mahashweta Das",
+      "Hao Yang",
+      "Hanghang Tong"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "title": "From trainable negative depth to edge heterophily in graphs",
+    "raw_text": "Yuchen Yan*Yuzhong Chen*Huiyuan Chen*Minghua Xu*Mahashweta Das*Hao Yang*Hanghang Tong#From trainable negative depth to edge heterophily in graphs#Advances in Neural Information Processing Systems#2024",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2022,
+    "authors": [
+      "Yujun Yan",
+      "Milad Hashemi",
+      "Kevin Swersky",
+      "Yaoqing Yang",
+      "Danai Koutra"
+    ],
+    "venue": "2022 IEEE International Conference on Data Mining",
+    "title": "Two sides of the same coin: Heterophily and oversmoothing in graph convolutional neural networks",
+    "raw_text": "Yujun Yan*Milad Hashemi*Kevin Swersky*Yaoqing Yang*Danai Koutra#Two sides of the same coin: Heterophily and oversmoothing in graph convolutional neural networks#2022 IEEE International Conference on Data Mining#2022",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Hyunsik Yoo",
+      "Zhichen Zeng",
+      "Jian Kang",
+      "Ruizhong Qiu",
+      "David Zhou",
+      "Zhining Liu",
+      "Fei Wang",
+      "Charlie Xu",
+      "Eunice Chan",
+      "Hanghang Tong"
+    ],
+    "venue": "Proceedings of the ACM on Web Conference 2024",
+    "title": "Ensuring user-side fairness in dynamic recommender systems",
+    "raw_text": "Hyunsik Yoo*Zhichen Zeng*Jian Kang*Ruizhong Qiu*David Zhou*Zhining Liu*Fei Wang*Charlie Xu*Eunice Chan*Hanghang Tong#Ensuring user-side fairness in dynamic recommender systems#Proceedings of the ACM on Web Conference 2024#2024",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Hyunsik Yoo",
+      "SeongKu Kang",
+      "Ruizhong Qiu",
+      "Charlie Xu",
+      "Fei Wang",
+      "Hanghang Tong"
+    ],
+    "venue": "Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+    "title": "Embracing plasticity: Balancing stability and plasticity in continual recommender systems",
+    "raw_text": "Hyunsik Yoo*SeongKu Kang*Ruizhong Qiu*Charlie Xu*Fei Wang*Hanghang Tong#Embracing plasticity: Balancing stability and plasticity in continual recommender systems#Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval#2025a",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Hyunsik Yoo",
+      "Ruizhong Qiu",
+      "Charlie Xu",
+      "Fei Wang",
+      "Hanghang Tong"
+    ],
+    "venue": "Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
+    "title": "Generalizable recommender system during temporal popularity distribution shifts",
+    "raw_text": "Hyunsik Yoo*Ruizhong Qiu*Charlie Xu*Fei Wang*Hanghang Tong#Generalizable recommender system during temporal popularity distribution shifts#Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining#2025b",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2021,
+    "authors": [
+      "Ronghui You",
+      "Shuwei Yao",
+      "Hiroshi Mamitsuka",
+      "Shanfeng Zhu"
+    ],
+    "venue": "Bioinformatics",
+    "title": "DeepGraphGO: Graph neural network for large-scale, multispecies protein function prediction",
+    "raw_text": "Ronghui You*Shuwei Yao*Hiroshi Mamitsuka*Shanfeng Zhu#DeepGraphGO: Graph neural network for large-scale, multispecies protein function prediction#Bioinformatics#2021",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Qi Yu",
+      "Zhichen Zeng",
+      "Yuchen Yan",
+      "Lei Ying",
+      "R. Srikant",
+      "Hanghang Tong"
+    ],
+    "venue": "Proceedings of the ACM on Web Conference 2025",
+    "title": "Joint optimal transport and embedding for network alignment",
+    "raw_text": "Qi Yu*Zhichen Zeng*Yuchen Yan*Lei Ying*R. Srikant*Hanghang Tong#Joint optimal transport and embedding for network alignment#Proceedings of the ACM on Web Conference 2025#2025",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2026,
+    "authors": [
+      "Qi Yu",
+      "Zhichen Zeng",
+      "Yuchen Yan",
+      "Zhining Liu",
+      "Baoyu Jing",
+      "Ruizhong Qiu",
+      "Ariful Azad",
+      "Hanghang Tong"
+    ],
+    "venue": "The Fourteenth International Conference on Learning Representations",
+    "title": "PlanetAlign: a comprehensive Python library for benchmarking network alignment",
+    "raw_text": "Qi Yu*Zhichen Zeng*Yuchen Yan*Zhining Liu*Baoyu Jing*Ruizhong Qiu*Ariful Azad*Hanghang Tong#PlanetAlign: a comprehensive Python library for benchmarking network alignment#The Fourteenth International Conference on Learning Representations#2026",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2023,
+    "authors": [
+      "Zhichen Zeng",
+      "Si Zhang",
+      "Yinglong Xia",
+      "Hanghang Tong"
+    ],
+    "venue": "Proceedings of the ACM web conference 2023",
+    "title": "Parrot: Position-aware regularized optimal transport for network alignment",
+    "raw_text": "Zhichen Zeng*Si Zhang*Yinglong Xia*Hanghang Tong#Parrot: Position-aware regularized optimal transport for network alignment#Proceedings of the ACM web conference 2023#2023a",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2023,
+    "authors": [
+      "Zhichen Zeng",
+      "Ruike Zhu",
+      "Yinglong Xia",
+      "Hanqing Zeng",
+      "Hanghang Tong"
+    ],
+    "venue": "Proceedings of the 40th International Conference on Machine Learning",
+    "title": "Generative graph dictionary learning",
+    "raw_text": "Zhichen Zeng*Ruike Zhu*Yinglong Xia*Hanqing Zeng*Hanghang Tong#Generative graph dictionary learning#Proceedings of the 40th International Conference on Machine Learning#2023b",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Zhichen Zeng",
+      "Boxin Du",
+      "Si Zhang",
+      "Yinglong Xia",
+      "Zhining Liu",
+      "Hanghang Tong"
+    ],
+    "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+    "title": "Hierarchical multi-marginal optimal transport for network alignment",
+    "raw_text": "Zhichen Zeng*Boxin Du*Si Zhang*Yinglong Xia*Zhining Liu*Hanghang Tong#Hierarchical multi-marginal optimal transport for network alignment#Proceedings of the AAAI Conference on Artificial Intelligence#2024a",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Zhichen Zeng",
+      "Ruizhong Qiu",
+      "Zhe Xu",
+      "Zhining Liu",
+      "Yuchen Yan",
+      "Tianxin Wei",
+      "Lei Ying",
+      "Jingrui He",
+      "Hanghang Tong"
+    ],
+    "venue": "Proceedings of the 41st International Conference on Machine Learning",
+    "title": "Graph mixup on approximate Gromov–Wasserstein geodesics",
+    "raw_text": "Zhichen Zeng*Ruizhong Qiu*Zhe Xu*Zhining Liu*Yuchen Yan*Tianxin Wei*Lei Ying*Jingrui He*Hanghang Tong#Graph mixup on approximate Gromov–Wasserstein geodesics#Proceedings of the 41st International Conference on Machine Learning#2024b",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Zhichen Zeng",
+      "Mengyue Hang",
+      "Xiaolong Liu",
+      "Xiaoyi Liu",
+      "Xiao Lin",
+      "Ruizhong Qiu",
+      "Tianxin Wei",
+      "Zhining Liu",
+      "Siyang Yuan",
+      "Chaofei Yang",
+      "Yiqun Liu",
+      "Hang Yin",
+      "Jiyan Yang",
+      "Hanghang Tong"
+    ],
+    "venue": "arXiv preprint",
+    "title": "Hierarchical LoRA MoE for efficient CTR model scaling",
+    "raw_text": "Zhichen Zeng*Mengyue Hang*Xiaolong Liu*Xiaoyi Liu*Xiao Lin*Ruizhong Qiu*Tianxin Wei*Zhining Liu*Siyang Yuan*Chaofei Yang*Yiqun Liu*Hang Yin*Jiyan Yang*Hanghang Tong#Hierarchical LoRA MoE for efficient CTR model scaling#arXiv preprint#2025#",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Zhichen Zeng",
+      "Xiaolong Liu",
+      "Mengyue Hang",
+      "Xiaoyi Liu",
+      "Qinghai Zhou",
+      "Chaofei Yang",
+      "Yiqun Liu",
+      "Yichen Ruan",
+      "Laming Chen",
+      "Yuxin Chen",
+      "Yujia Hao",
+      "Jiaqi Xu",
+      "Jade Nie",
+      "Xi Liu",
+      "Buyun Zhang",
+      "Wei Wen",
+      "Siyang Yuan",
+      "Hang Yin",
+      "Xin Zhang",
+      "Kai Wang",
+      "Wen-Yen Chen",
+      "Yiping Han",
+      "Huayu Li",
+      "Chunzhi Yang",
+      "Bo Long",
+      "Philip S. Yu",
+      "Jiyan Yang",
+      "Hanghang Tong"
+    ],
+    "venue": "Proceedings of the 34th ACM International Conference on Information and Knowledge Management",
+    "title": "InterFormer: Effective heterogeneous interaction learning for click-through rate prediction",
+    "raw_text": "Zhichen Zeng*Xiaolong Liu*Mengyue Hang*Xiaoyi Liu*Qinghai Zhou*Chaofei Yang*Yiqun Liu*Yichen Ruan*Laming Chen*Yuxin Chen*Yujia Hao*Jiaqi Xu*Jade Nie*Xi Liu*Buyun Zhang*Wei Wen*Siyang Yuan*Hang Yin*Xin Zhang*Kai Wang*Wen-Yen Chen*Yiping Han*Huayu Li*Chunzhi Yang*Bo Long*Philip S. Yu*Jiyan Yang*Hanghang Tong#InterFormer: Effective heterogeneous interaction learning for click-through rate prediction#Proceedings of the 34th ACM International Conference on Information and Knowledge Management#2025#",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2026,
+    "authors": [
+      "Zhichen Zeng",
+      "Wenxuan Bao",
+      "Xiao Lin",
+      "Ruizhong Qiu",
+      "Tianxin Wei",
+      "Xuying Ning",
+      "Yuchen Yan",
+      "Chen Luo",
+      "Monica Xiao Cheng",
+      "Jingrui He",
+      "Hanghang Tong"
+    ],
+    "venue": "arXiv preprint",
+    "title": "Subspace alignment for vision-language model test-time adaptation",
+    "raw_text": "Zhichen Zeng*Wenxuan Bao*Xiao Lin*Ruizhong Qiu*Tianxin Wei*Xuying Ning*Yuchen Yan*Chen Luo*Monica Xiao Cheng*Jingrui He*Hanghang Tong#Subspace alignment for vision-language model test-time adaptation#arXiv preprint#2026#",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2026,
+    "authors": [
+      "Zhichen Zeng",
+      "Ruizhong Qiu",
+      "Wenxuan Bao",
+      "Tianxin Wei",
+      "Xiao Lin",
+      "Yuchen Yan",
+      "Tarek F. Abdelzaher",
+      "Jiawei Han",
+      "Hanghang Tong"
+    ],
+    "venue": "Transactions on Machine Learning Research",
+    "title": "Pave your own path: Graph gradual domain adaptation on fused Gromov–Wasserstein geodesics",
+    "raw_text": "Zhichen Zeng*Ruizhong Qiu*Wenxuan Bao*Tianxin Wei*Xiao Lin*Yuchen Yan*Tarek F. Abdelzaher*Jiawei Han*Hanghang Tong#Pave your own path: Graph gradual domain adaptation on fused Gromov–Wasserstein geodesics#Transactions on Machine Learning Research#2026#",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2026,
+    "authors": [
+      "Zhichen Zeng",
+      "Qi Yu",
+      "Xiao Lin",
+      "Ruizhong Qiu",
+      "Xuying Ning",
+      "Tianxin Wei",
+      "Yuchen Yan",
+      "Jingrui He",
+      "Hanghang Tong"
+    ],
+    "venue": "Findings of EACL 2026",
+    "title": "Harnessing consistency for robust test-time LLM ensemble",
+    "raw_text": "Zhichen Zeng*Qi Yu*Xiao Lin*Ruizhong Qiu*Xuying Ning*Tianxin Wei*Yuchen Yan*Jingrui He*Hanghang Tong#Harnessing consistency for robust test-time LLM ensemble#Findings of EACL 2026#2026#",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2023,
+    "authors": [
+      "Acong Zhang",
+      "Ping Li",
+      "Guanrong Chen"
+    ],
+    "venue": "arXiv preprint",
+    "title": "Steering graph neural networks with pinning control",
+    "raw_text": "Acong Zhang*Ping Li*Guanrong Chen#Steering graph neural networks with pinning control#arXiv preprint#2023#",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2026,
+    "authors": [
+      "Yunkai Zhang",
+      "Qiang Zhang",
+      "Diji Yang",
+      "Ryan Lin",
+      "Ruizhong Qiu",
+      "Benyu Zhang",
+      "Hanchao Yu",
+      "Jason Liu",
+      "Yinglong Xia",
+      "Zhuokai Zhao",
+      "Lizhu Zhang",
+      "Xiangjun Fan",
+      "Zhuoran Yu",
+      "Abhishek Kumar",
+      "Zeyu Zheng"
+    ],
+    "venue": "Proceedings of the ACM Web Conference 2026",
+    "title": "Guiding generative recommender systems with structured human priors via multi-head decoding",
+    "raw_text": "Yunkai Zhang*Qiang Zhang*Diji Yang*Ryan Lin*Ruizhong Qiu*Benyu Zhang*Hanchao Yu*Jason Liu*Yinglong Xia*Zhuokai Zhao*Lizhu Zhang*Xiangjun Fan*Zhuoran Yu*Abhishek Kumar*Zeyu Zheng#Guiding generative recommender systems with structured human priors via multi-head decoding#Proceedings of the ACM Web Conference 2026#2026#",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2022,
+    "authors": [
+      "Xin Zheng",
+      "Yi Wang",
+      "Yixin Liu",
+      "Ming Li",
+      "Miao Zhang",
+      "Di Jin",
+      "Philip S. Yu",
+      "Shirui Pan"
+    ],
+    "venue": "arXiv preprint",
+    "title": "Graph neural networks for graphs with heterophily: A survey",
+    "raw_text": "Xin Zheng*Yi Wang*Yixin Liu*Ming Li*Miao Zhang*Di Jin*Philip S. Yu*Shirui Pan#Graph neural networks for graphs with heterophily: A survey#arXiv preprint#2022#",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Yilun Zheng",
+      "Xiang Li",
+      "Sitao Luan",
+      "Xiaojiang Peng",
+      "Lihui Chen"
+    ],
+    "venue": "The Thirteenth International Conference on Learning Representations",
+    "title": "Let your features tell the differences: Understanding graph convolution by feature splitting",
+    "raw_text": "Yilun Zheng*Xiang Li*Sitao Luan*Xiaojiang Peng*Lihui Chen#Let your features tell the differences: Understanding graph convolution by feature splitting#The Thirteenth International Conference on Learning Representations#2025#",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Duo Zhou",
+      "Yuji Zhang",
+      "Tianxin Wei",
+      "Ruizhong Qiu",
+      "Ke Yang",
+      "Xiao Lin",
+      "Cheng Qian",
+      "Jingrui He",
+      "Hanghang Tong",
+      "Heng Ji",
+      "Huan Zhang"
+    ],
+    "venue": "arXiv preprint",
+    "title": "Geometric disentangelment unlearning",
+    "raw_text": "Duo Zhou*Yuji Zhang*Tianxin Wei*Ruizhong Qiu*Ke Yang*Xiao Lin*Cheng Qian*Jingrui He*Hanghang Tong*Heng Ji*Huan Zhang#Geometric disentangelment unlearning#arXiv preprint#2025#",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2020,
+    "authors": [
+      "Jiong Zhu",
+      "Yujun Yan",
+      "Lingxiao Zhao",
+      "Mark Heimann",
+      "Leman Akoglu",
+      "Danai Koutra"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "title": "Beyond homophily in graph neural networks: Current limitations and effective designs",
+    "raw_text": "Jiong Zhu*Yujun Yan*Lingxiao Zhao*Mark Heimann*Leman Akoglu*Danai Koutra#Beyond homophily in graph neural networks: Current limitations and effective designs#Advances in Neural Information Processing Systems#2020#",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2023,
+    "authors": [
+      "Jiong Zhu",
+      "Yujun Yan",
+      "Mark Heimann",
+      "Lingxiao Zhao",
+      "Leman Akoglu",
+      "Danai Koutra"
+    ],
+    "venue": "IEEE Data Engineering Bulletin",
+    "title": "Heterophily and graph neural networks: Past, present and future",
+    "raw_text": "Jiong Zhu*Yujun Yan*Mark Heimann*Lingxiao Zhao*Leman Akoglu*Danai Koutra#Heterophily and graph neural networks: Past, present and future#IEEE Data Engineering Bulletin#2023#",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Jiong Zhu",
+      "Gaotang Li",
+      "Yao-An Yang",
+      "Jing Zhu",
+      "Xuehao Cui",
+      "Danai Koutra"
+    ],
+    "venue": "arXiv preprint",
+    "title": "On the impact of feature heterophily on link prediction with graph neural networks",
+    "raw_text": "Jiong Zhu*Gaotang Li*Yao-An Yang*Jing Zhu*Xuehao Cui*Danai Koutra#On the impact of feature heterophily on link prediction with graph neural networks#arXiv preprint#2024#",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Jiaru Zou",
+      "Yikun Ban",
+      "Zihao Li",
+      "Yunzhe Qi",
+      "Ruizhong Qiu",
+      "Ling Yang",
+      "Jingrui He"
+    ],
+    "venue": "Advances in Neural Information Processing Systems 38",
+    "title": "Transformer copilot: Learning from the mistake log in LLM fine-tuning",
+    "raw_text": "Jiaru Zou*Yikun Ban*Zihao Li*Yunzhe Qi*Ruizhong Qiu*Ling Yang*Jingrui He#Transformer copilot: Learning from the mistake log in LLM fine-tuning#Advances in Neural Information Processing Systems 38#2025#",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Jiaru Zou",
+      "Xiyuan Yang",
+      "Ruizhong Qiu",
+      "Gaotang Li",
+      "Katherine Tieu",
+      "Pan Lu",
+      "Ke Shen",
+      "Hanghang Tong",
+      "Yejin Choi",
+      "Jingrui He",
+      "James Zou",
+      "Mengdi Wang",
+      "Ling Yang"
+    ],
+    "venue": "arXiv preprint",
+    "title": "Latent collaboration in multi-agent systems",
+    "raw_text": "Jiaru Zou*Xiyuan Yang*Ruizhong Qiu*Gaotang Li*Katherine Tieu*Pan Lu*Ke Shen*Hanghang Tong*Yejin Choi*Jingrui He*James Zou*Mengdi Wang*Ling Yang#Latent collaboration in multi-agent systems#arXiv preprint#2025#",
+    "type": "other"
+  }
+]

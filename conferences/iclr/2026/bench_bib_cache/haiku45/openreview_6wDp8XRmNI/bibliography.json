@@ -1,0 +1,1333 @@
+[
+  {
+    "url": "https://arxiv.org/abs/2108.13264",
+    "cited_url": "https://arxiv.org/abs/2108.13264",
+    "arxiv_url": "https://arxiv.org/abs/2108.13264",
+    "doi": null,
+    "year": 2022,
+    "authors": [
+      "Rishabh Agarwal",
+      "Max Schwarzer",
+      "Pablo Samuel Castro",
+      "Aaron Courville",
+      "Marc G. Bellemare"
+    ],
+    "venue": "arXiv",
+    "title": "Deep reinforcement learning at the edge of the statistical precipice",
+    "raw_text": "Rishabh Agarwal*Max Schwarzer*Pablo Samuel Castro*Aaron Courville*Marc G. Bellemare#Deep reinforcement learning at the edge of the statistical precipice#arXiv#2022#https://arxiv.org/abs/2108.13264",
+    "type": "arxiv"
+  },
+  {
+    "url": "https://books.google.co.jp/books?id=P1oIEQAAQBAJ",
+    "cited_url": "https://books.google.co.jp/books?id=P1oIEQAAQBAJ",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "V. Alto"
+    ],
+    "venue": "Packt Publishing",
+    "title": "Building LLM Powered Applications: Create intelligent apps and agents with large language models",
+    "raw_text": "V. Alto#Building LLM Powered Applications: Create intelligent apps and agents with large language models#Packt Publishing#2024#https://books.google.co.jp/books?id=P1oIEQAAQBAJ",
+    "type": "non-arxiv"
+  },
+  {
+    "url": "https://arxiv.org/abs/2110.01548",
+    "cited_url": "https://arxiv.org/abs/2110.01548",
+    "arxiv_url": "https://arxiv.org/abs/2110.01548",
+    "doi": null,
+    "year": 2021,
+    "authors": [
+      "Gaon An",
+      "Seungyong Moon",
+      "Jang-Hyun Kim",
+      "Hyun Oh Song"
+    ],
+    "venue": "arXiv",
+    "title": "Uncertainty-based offline reinforcement learning with diversified q-ensemble",
+    "raw_text": "Gaon An*Seungyong Moon*Jang-Hyun Kim*Hyun Oh Song#Uncertainty-based offline reinforcement learning with diversified q-ensemble#arXiv#2021#https://arxiv.org/abs/2110.01548",
+    "type": "arxiv"
+  },
+  {
+    "url": "https://doi.org/10.5281/zenodo.11295916",
+    "cited_url": "https://doi.org/10.5281/zenodo.11295916",
+    "arxiv_url": "",
+    "doi": "10.5281/zenodo.11295916",
+    "year": 2024,
+    "authors": [
+      "Miller Janny Ariza-Garzón",
+      "Mario Sanz-Guerrero",
+      "Javier Arroyo Gallardo",
+      "Lending Club"
+    ],
+    "venue": "Zenodo",
+    "title": "Lending club loan dataset for granting models",
+    "raw_text": "Miller Janny Ariza-Garzón*Mario Sanz-Guerrero*Javier Arroyo Gallardo*Lending Club#Lending club loan dataset for granting models#Zenodo#2024#https://doi.org/10.5281/zenodo.11295916",
+    "type": "non-arxiv"
+  },
+  {
+    "url": "https://arxiv.org/abs/2204.05862",
+    "cited_url": "https://arxiv.org/abs/2204.05862",
+    "arxiv_url": "https://arxiv.org/abs/2204.05862",
+    "doi": null,
+    "year": 2022,
+    "authors": [
+      "Yuntao Bai",
+      "Andy Jones",
+      "Kamal Ndousse",
+      "Amanda Askell",
+      "Anna Chen",
+      "Nova DasSarma",
+      "Dawn Drain",
+      "Stanislav Fort",
+      "Deep Ganguli",
+      "Tom Henighan",
+      "Nicholas Joseph",
+      "Saurav Kadavath",
+      "Jackson Kernion",
+      "Tom Conerly",
+      "Sheer El-Showk",
+      "Nelson Elhage",
+      "Zac Hatfield-Dodds",
+      "Danny Hernandez",
+      "Tristan Hume",
+      "Scott Johnston",
+      "Shauna Kravec",
+      "Liane Lovitt",
+      "Neel Nanda",
+      "Catherine Olsson",
+      "Dario Amodei",
+      "Tom Brown",
+      "Jack Clark",
+      "Sam McCandlish",
+      "Chris Olah",
+      "Ben Mann",
+      "Jared Kaplan"
+    ],
+    "venue": "arXiv",
+    "title": "Training a helpful and harmless assistant with reinforcement learning from human feedback",
+    "raw_text": "Yuntao Bai*Andy Jones*Kamal Ndousse*Amanda Askell*Anna Chen*Nova DasSarma*Dawn Drain*Stanislav Fort*Deep Ganguli*Tom Henighan*Nicholas Joseph*Saurav Kadavath*Jackson Kernion*Tom Conerly*Sheer El-Showk*Nelson Elhage*Zac Hatfield-Dodds*Danny Hernandez*Tristan Hume*Scott Johnston*Shauna Kravec*Liane Lovitt*Neel Nanda*Catherine Olsson*Dario Amodei*Tom Brown*Jack Clark*Sam McCandlish*Chris Olah*Ben Mann*Jared Kaplan#Training a helpful and harmless assistant with reinforcement learning from human feedback#arXiv#2022#https://arxiv.org/abs/2204.05862",
+    "type": "arxiv"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2006,
+    "authors": [
+      "Christopher M. Bishop"
+    ],
+    "venue": "Springer",
+    "title": "Pattern Recognition and Machine Learning",
+    "raw_text": "Christopher M. Bishop#Pattern Recognition and Machine Learning#Springer#2006",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2020,
+    "authors": [
+      "Tom B. Brown",
+      "Benjamin Mann",
+      "Nick Ryder",
+      "et al"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "title": "Language models are few-shot learners",
+    "raw_text": "Tom B. Brown*Benjamin Mann*Nick Ryder*et al.#Language models are few-shot learners#Advances in Neural Information Processing Systems#2020",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2018,
+    "authors": [
+      "Jacob Buckman",
+      "Danijar Hafner",
+      "George Tucker",
+      "Eugene Brevdo",
+      "Honglak Lee",
+      "Marc G. Bellemare"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "title": "Sample-efficient reinforcement learning with stochastic ensemble value expansion",
+    "raw_text": "Jacob Buckman*Danijar Hafner*George Tucker*Eugene Brevdo*Honglak Lee*Marc G. Bellemare#Sample-efficient reinforcement learning with stochastic ensemble value expansion#Advances in Neural Information Processing Systems#2018",
+    "type": "other"
+  },
+  {
+    "url": "https://openreview.net/forum?id=dqpg8jdA2w",
+    "cited_url": "https://openreview.net/forum?id=dqpg8jdA2w",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Ruifeng Chen",
+      "Chengxing Jia",
+      "Zefang Huang",
+      "Tian-Shuo Liu",
+      "Xu-Hui Liu",
+      "Yang Yu"
+    ],
+    "venue": "Forty-first International Conference on Machine Learning",
+    "title": "Offline transition modeling via contrastive energy learning",
+    "raw_text": "Ruifeng Chen*Chengxing Jia*Zefang Huang*Tian-Shuo Liu*Xu-Hui Liu*Yang Yu#Offline transition modeling via contrastive energy learning#Forty-first International Conference on Machine Learning#2024#https://openreview.net/forum?id=dqpg8jdA2w",
+    "type": "non-arxiv"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2018,
+    "authors": [
+      "Kurtland Chua",
+      "Roberto Calandra",
+      "Rowan McAllister",
+      "Sergey Levine"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "title": "Deep reinforcement learning in a handful of trials using probabilistic dynamics models",
+    "raw_text": "Kurtland Chua*Roberto Calandra*Rowan McAllister*Sergey Levine#Deep reinforcement learning in a handful of trials using probabilistic dynamics models#Advances in Neural Information Processing Systems#2018",
+    "type": "other"
+  },
+  {
+    "url": "https://github.com/open-compass/opencompass",
+    "cited_url": "https://github.com/open-compass/opencompass",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2023,
+    "authors": [
+      "OpenCompass Contributors"
+    ],
+    "venue": "",
+    "title": "Opencompass: A universal evaluation platform for foundation models",
+    "raw_text": "OpenCompass Contributors#Opencompass: A universal evaluation platform for foundation models##2023#https://github.com/open-compass/opencompass",
+    "type": "non-arxiv"
+  },
+  {
+    "url": "https://link.springer.com/article/10.1007/s43681-024-00469-8",
+    "cited_url": "https://link.springer.com/article/10.1007/s43681-024-00469-8",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Nicholas Kluge Corrêa",
+      "James William Santos",
+      "Camila Galvão",
+      "Marcelo Pasetti",
+      "Dieine Schiavon",
+      "Faizah Naqvi",
+      "Robayet Hossain",
+      "Nythamar De Oliveira"
+    ],
+    "venue": "AI and Ethics",
+    "title": "Crossing the principle–practice gap in ai ethics with ethical problem-solving",
+    "raw_text": "Nicholas Kluge Corrêa*James William Santos*Camila Galvão*Marcelo Pasetti*Dieine Schiavon*Faizah Naqvi*Robayet Hossain*Nythamar De Oliveira#Crossing the principle–practice gap in ai ethics with ethical problem-solving#AI and Ethics#2024#https://link.springer.com/article/10.1007/s43681-024-00469-8",
+    "type": "non-arxiv"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2019,
+    "authors": [
+      "Joe Davison",
+      "Yacine Jernite",
+      "Clara Ma",
+      "Lysandre Debut",
+      "J. Plu",
+      "Sam Shleifer",
+      "Julien Chaumond",
+      "Thomas Wolf",
+      "Clement Delangue",
+      "Victor Sanh",
+      "Pierric Cistac",
+      "Teven Le Scao",
+      "Alexander M. Rush",
+      "Sylvain Gugger",
+      "Canwen Xu",
+      "Tim Rault",
+      "Quentin Lhoest",
+      "Mariama Drame",
+      "Patrick von Platen",
+      "Anthony Moi",
+      "Morgan Funtowicz",
+      "Rémi Louf"
+    ],
+    "venue": "arXiv.org",
+    "title": "Huggingface's transformers: State-of-the-art natural language processing",
+    "raw_text": "Joe Davison*Yacine Jernite*Clara Ma*Lysandre Debut*J. Plu*Sam Shleifer*Julien Chaumond*Thomas Wolf*Clement Delangue*Victor Sanh*Pierric Cistac*Teven Le Scao*Alexander M. Rush*Sylvain Gugger*Canwen Xu*Tim Rault*Quentin Lhoest*Mariama Drame*Patrick von Platen*Anthony Moi*Morgan Funtowicz*Rémi Louf#Huggingface's transformers: State-of-the-art natural language processing#arXiv.org#2019",
+    "type": "other"
+  },
+  {
+    "url": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/LICENSE-MODEL",
+    "cited_url": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/LICENSE-MODEL",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2023,
+    "authors": [
+      "DeepSeek-AI"
+    ],
+    "venue": "GitHub",
+    "title": "DeepSeek Model License Agreement, Version 1.0",
+    "raw_text": "DeepSeek-AI#DeepSeek Model License Agreement, Version 1.0#GitHub#2023#https://github.com/deepseek-ai/DeepSeek-V2/blob/main/LICENSE-MODEL",
+    "type": "non-arxiv"
+  },
+  {
+    "url": "https://github.com/deepseek-ai/DeepSeek-V2/",
+    "cited_url": "https://github.com/deepseek-ai/DeepSeek-V2/",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "DeepSeek-AI"
+    ],
+    "venue": "GitHub",
+    "title": "DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model",
+    "raw_text": "DeepSeek-AI#DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model#GitHub#2024#https://github.com/deepseek-ai/DeepSeek-V2/",
+    "type": "non-arxiv"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2023,
+    "authors": [
+      "Yann Dubois",
+      "Xuechen Li",
+      "Rohan Taori",
+      "Tianyi Zhang",
+      "Ishaan Gulrajani",
+      "Jimmy Ba",
+      "Carlos Guestrin",
+      "Percy Liang",
+      "Tatsunori B. Hashimoto"
+    ],
+    "venue": "arXiv",
+    "title": "Alpacafarm: A simulation framework for methods that learn from human feedback",
+    "raw_text": "Yann Dubois*Xuechen Li*Rohan Taori*Tianyi Zhang*Ishaan Gulrajani*Jimmy Ba*Carlos Guestrin*Percy Liang*Tatsunori B. Hashimoto#Alpacafarm: A simulation framework for methods that learn from human feedback#arXiv#2023",
+    "type": "other"
+  },
+  {
+    "url": "https://arxiv.org/abs/2404.04475",
+    "cited_url": "https://arxiv.org/abs/2404.04475",
+    "arxiv_url": "https://arxiv.org/abs/2404.04475",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Yann Dubois",
+      "Balázs Galambosi",
+      "Percy Liang",
+      "Tatsunori B Hashimoto"
+    ],
+    "venue": "arXiv preprint arXiv:2404.04475",
+    "title": "Length-controlled alpacaeval: A simple way to debias automatic evaluators",
+    "raw_text": "Yann Dubois*Balázs Galambosi*Percy Liang*Tatsunori B Hashimoto#Length-controlled alpacaeval: A simple way to debias automatic evaluators#arXiv preprint arXiv:2404.04475#2024",
+    "type": "arxiv"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2018,
+    "authors": [
+      "Vladlen Feinberg",
+      "Alvin Wan",
+      "Ion Stoica",
+      "Michael I. Jordan",
+      "Joseph E. Gonzalez",
+      "Sergey Levine"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "title": "Model-based value estimation for efficient model-free reinforcement learning",
+    "raw_text": "Vladlen Feinberg*Alvin Wan*Ion Stoica*Michael I. Jordan*Joseph E. Gonzalez*Sergey Levine#Model-based value estimation for efficient model-free reinforcement learning#International Conference on Machine Learning#2018",
+    "type": "other"
+  },
+  {
+    "url": "https://arxiv.org/abs/2004.07219",
+    "cited_url": "https://arxiv.org/abs/2004.07219",
+    "arxiv_url": "https://arxiv.org/abs/2004.07219",
+    "doi": null,
+    "year": 2020,
+    "authors": [
+      "Justin Fu",
+      "Aviral Kumar",
+      "Ofir Nachum",
+      "George Tucker",
+      "Sergey Levine"
+    ],
+    "venue": "arXiv preprint arXiv:2004.07219",
+    "title": "D4RL: Datasets for deep data-driven reinforcement learning",
+    "raw_text": "Justin Fu*Aviral Kumar*Ofir Nachum*George Tucker*Sergey Levine#D4RL: Datasets for deep data-driven reinforcement learning#arXiv preprint arXiv:2004.07219#2020",
+    "type": "arxiv"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2019,
+    "authors": [
+      "Scott Fujimoto",
+      "David Meger",
+      "Doina Precup"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "title": "Off-policy deep reinforcement learning without exploration",
+    "raw_text": "Scott Fujimoto*David Meger*Doina Precup#Off-policy deep reinforcement learning without exploration#International Conference on Machine Learning#2019",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 1986,
+    "authors": [
+      "Christian Genest",
+      "James V. Zidek"
+    ],
+    "venue": "Statistical Science",
+    "title": "Combining probability distributions: A critique and an annotated bibliography",
+    "raw_text": "Christian Genest*James V. Zidek#Combining probability distributions: A critique and an annotated bibliography#Statistical Science#1986",
+    "type": "other"
+  },
+  {
+    "url": "https://arxiv.org/abs/2506.06607",
+    "cited_url": "https://arxiv.org/abs/2506.06607",
+    "arxiv_url": "https://arxiv.org/abs/2506.06607",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Charles Goddard",
+      "Fernando Fernandes Neto"
+    ],
+    "venue": "arXiv",
+    "title": "Training-free tokenizer transplantation via orthogonal matching pursuit",
+    "raw_text": "Charles Goddard*Fernando Fernandes Neto#Training-free tokenizer transplantation via orthogonal matching pursuit#arXiv#2025#https://arxiv.org/abs/2506.06607",
+    "type": "arxiv"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2016,
+    "authors": [
+      "Ian Goodfellow",
+      "Yoshua Bengio",
+      "Aaron Courville"
+    ],
+    "venue": "MIT Press",
+    "title": "Deep Learning",
+    "raw_text": "Ian Goodfellow*Yoshua Bengio*Aaron Courville#Deep Learning#MIT Press#2016",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2017,
+    "authors": [
+      "Chuan Guo",
+      "Geoff Pleiss",
+      "Yu Sun",
+      "Kilian Q. Weinberger"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "title": "On calibration of modern neural networks",
+    "raw_text": "Chuan Guo*Geoff Pleiss*Yu Sun*Kilian Q. Weinberger#On calibration of modern neural networks#International Conference on Machine Learning#2017",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2018,
+    "authors": [
+      "David Ha",
+      "Jürgen Schmidhuber"
+    ],
+    "venue": "Neural Information Processing Systems Workshop",
+    "title": "World models",
+    "raw_text": "David Ha*Jürgen Schmidhuber#World models#Neural Information Processing Systems Workshop#2018",
+    "type": "other"
+  },
+  {
+    "url": "https://arxiv.org/abs/1801.01290",
+    "cited_url": "https://arxiv.org/abs/1801.01290",
+    "arxiv_url": "https://arxiv.org/abs/1801.01290",
+    "doi": null,
+    "year": 2018,
+    "authors": [
+      "Tuomas Haarnoja",
+      "Aurick Zhou",
+      "Pieter Abbeel",
+      "Sergey Levine"
+    ],
+    "venue": "arXiv",
+    "title": "Soft actor-critic: Off-policy maximum entropy deep reinforcement learning with a stochastic actor",
+    "raw_text": "Tuomas Haarnoja*Aurick Zhou*Pieter Abbeel*Sergey Levine#Soft actor-critic: Off-policy maximum entropy deep reinforcement learning with a stochastic actor#arXiv#2018#https://arxiv.org/abs/1801.01290",
+    "type": "arxiv"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2019,
+    "authors": [
+      "Danijar Hafner",
+      "Timothy P. Lillicrap",
+      "Mohammad Norouzi",
+      "Jimmy Ba"
+    ],
+    "venue": "International Conference on Learning Representations",
+    "title": "Learning latent dynamics for planning from pixels",
+    "raw_text": "Danijar Hafner*Timothy P. Lillicrap*Mohammad Norouzi*Jimmy Ba#Learning latent dynamics for planning from pixels#International Conference on Learning Representations#2019",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2020,
+    "authors": [
+      "Danijar Hafner",
+      "Timothy Lillicrap",
+      "Mohammad Norouzi",
+      "Jimmy Ba"
+    ],
+    "venue": "International Conference on Learning Representations",
+    "title": "Dream to control: Learning behaviors by latent imagination",
+    "raw_text": "Danijar Hafner*Timothy Lillicrap*Mohammad Norouzi*Jimmy Ba#Dream to control: Learning behaviors by latent imagination#International Conference on Learning Representations#2020",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 1998,
+    "authors": [
+      "Tom Heskes"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "title": "Selecting weighting factors in logarithmic opinion pools",
+    "raw_text": "Tom Heskes#Selecting weighting factors in logarithmic opinion pools#Advances in Neural Information Processing Systems#1998",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2015,
+    "authors": [
+      "Geoffrey Hinton",
+      "Oriol Vinyals",
+      "Jeff Dean"
+    ],
+    "venue": "NIPS Deep Learning Workshop",
+    "title": "Distilling the knowledge in a neural network",
+    "raw_text": "Geoffrey Hinton*Oriol Vinyals*Jeff Dean#Distilling the knowledge in a neural network#NIPS Deep Learning Workshop#2015",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2002,
+    "authors": [
+      "Geoffrey E. Hinton"
+    ],
+    "venue": "Neural Computation",
+    "title": "Training products of experts by minimizing contrastive divergence",
+    "raw_text": "Geoffrey E. Hinton#Training products of experts by minimizing contrastive divergence#Neural Computation#2002",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2022,
+    "authors": [
+      "Jordan Hoffmann",
+      "Sebastian Borgeaud",
+      "Arthur Mensch",
+      "et al"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "title": "Training compute-optimal large language models",
+    "raw_text": "Jordan Hoffmann*Sebastian Borgeaud*Arthur Mensch*et al.#Training compute-optimal large language models#Advances in Neural Information Processing Systems#2022",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2020,
+    "authors": [
+      "Ari Holtzman",
+      "Jan Buys",
+      "Li Du",
+      "Maxwell Forbes",
+      "Yejin Choi"
+    ],
+    "venue": "International Conference on Learning Representations",
+    "title": "The curious case of neural text degeneration",
+    "raw_text": "Ari Holtzman*Jan Buys*Li Du*Maxwell Forbes*Yejin Choi#The curious case of neural text degeneration#International Conference on Learning Representations#2020",
+    "type": "other"
+  },
+  {
+    "url": "https://arxiv.org/abs/2106.09685",
+    "cited_url": "https://arxiv.org/abs/2106.09685",
+    "arxiv_url": "https://arxiv.org/abs/2106.09685",
+    "doi": null,
+    "year": 2021,
+    "authors": [
+      "Edward J. Hu",
+      "Yelong Shen",
+      "Phillip Wallis",
+      "Zeyuan Allen-Zhu",
+      "Yuanzhi Li",
+      "Shean Wang",
+      "Lu Wang",
+      "Weizhu Chen"
+    ],
+    "venue": "arXiv",
+    "title": "Lora: Low-rank adaptation of large language models",
+    "raw_text": "Edward J. Hu*Yelong Shen*Phillip Wallis*Zeyuan Allen-Zhu*Yuanzhi Li*Shean Wang*Lu Wang*Weizhu Chen#Lora: Low-rank adaptation of large language models#arXiv#2021#https://arxiv.org/abs/2106.09685",
+    "type": "arxiv"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2005,
+    "authors": [
+      "Aapo Hyvärinen"
+    ],
+    "venue": "Journal of Machine Learning Research",
+    "title": "Estimation of non-normalized statistical models by score matching",
+    "raw_text": "Aapo Hyvärinen#Estimation of non-normalized statistical models by score matching#Journal of Machine Learning Research#2005",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2019,
+    "authors": [
+      "Michael Janner",
+      "Justin Fu",
+      "Marvin Zhang",
+      "Sergey Levine"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "title": "When to trust your model: Model-based policy optimization",
+    "raw_text": "Michael Janner*Justin Fu*Marvin Zhang*Sergey Levine#When to trust your model: Model-based policy optimization#Advances in Neural Information Processing Systems#2019",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2022,
+    "authors": [
+      "Michael Janner",
+      "Yilun Li",
+      "Sergey Levine",
+      "Chelsea Finn"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "title": "Planning with diffusion for flexible behavior synthesis",
+    "raw_text": "Michael Janner*Yilun Li*Sergey Levine*Chelsea Finn#Planning with diffusion for flexible behavior synthesis#International Conference on Machine Learning#2022",
+    "type": "other"
+  },
+  {
+    "url": "https://arxiv.org/abs/2009.13081",
+    "cited_url": "https://arxiv.org/abs/2009.13081",
+    "arxiv_url": "https://arxiv.org/abs/2009.13081",
+    "doi": null,
+    "year": 2020,
+    "authors": [
+      "Di Jin",
+      "Eileen Pan",
+      "Nassim Oufattole",
+      "Wei-Hung Weng",
+      "Hanyi Fang",
+      "Peter Szolovits"
+    ],
+    "venue": "arXiv",
+    "title": "What disease does this patient have? a large-scale open domain question answering dataset from medical exams",
+    "raw_text": "Di Jin*Eileen Pan*Nassim Oufattole*Wei-Hung Weng*Hanyi Fang*Peter Szolovits#What disease does this patient have? a large-scale open domain question answering dataset from medical exams#arXiv#2020#https://arxiv.org/abs/2009.13081",
+    "type": "arxiv"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2017,
+    "authors": [
+      "Alex Kendall",
+      "Yarin Gal"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "title": "What uncertainties do we need in bayesian deep learning for computer vision?",
+    "raw_text": "Alex Kendall*Yarin Gal#What uncertainties do we need in bayesian deep learning for computer vision?#Advances in Neural Information Processing Systems#2017",
+    "type": "other"
+  },
+  {
+    "url": "https://huggingface.co/datasets/KisanVaani/agriculture-qa-english-only",
+    "cited_url": "https://huggingface.co/datasets/KisanVaani/agriculture-qa-english-only",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "KisanVaani"
+    ],
+    "venue": "",
+    "title": "Agriculture-qa",
+    "raw_text": "KisanVaani#Agriculture-qa##2024#https://huggingface.co/datasets/KisanVaani/agriculture-qa-english-only",
+    "type": "non-arxiv"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2022,
+    "authors": [
+      "Ilya Kostrikov",
+      "Ashvin Nair",
+      "Sergey Levine"
+    ],
+    "venue": "International Conference on Learning Representations",
+    "title": "Offline reinforcement learning with implicit q-learning",
+    "raw_text": "Ilya Kostrikov*Ashvin Nair*Sergey Levine#Offline reinforcement learning with implicit q-learning#International Conference on Learning Representations#2022",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2020,
+    "authors": [
+      "Aviral Kumar",
+      "Aurick Zhou",
+      "George Tucker",
+      "Sergey Levine"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "title": "Conservative q-learning for offline reinforcement learning",
+    "raw_text": "Aviral Kumar*Aurick Zhou*George Tucker*Sergey Levine#Conservative q-learning for offline reinforcement learning#Advances in Neural Information Processing Systems#2020",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2006,
+    "authors": [
+      "Yann LeCun",
+      "Sumit Chopra",
+      "Raia Hadsell",
+      "Marc'Aurelio Ranzato",
+      "Fu-Jie Huang"
+    ],
+    "venue": "Predicting Structured Data",
+    "title": "A tutorial on energy-based learning",
+    "raw_text": "Yann LeCun*Sumit Chopra*Raia Hadsell*Marc'Aurelio Ranzato*Fu-Jie Huang#A tutorial on energy-based learning#Predicting Structured Data#2006",
+    "type": "other"
+  },
+  {
+    "url": "https://arxiv.org/abs/2005.01643",
+    "cited_url": "https://arxiv.org/abs/2005.01643",
+    "arxiv_url": "https://arxiv.org/abs/2005.01643",
+    "doi": null,
+    "year": 2020,
+    "authors": [
+      "Sergey Levine",
+      "Aviral Kumar",
+      "George Tucker",
+      "Justin Fu"
+    ],
+    "venue": "arXiv preprint arXiv:2005.01643",
+    "title": "Offline reinforcement learning: Tutorial, review, and perspectives on open problems",
+    "raw_text": "Sergey Levine*Aviral Kumar*George Tucker*Justin Fu#Offline reinforcement learning: Tutorial, review, and perspectives on open problems#arXiv preprint arXiv:2005.01643#2020",
+    "type": "arxiv"
+  },
+  {
+    "url": "https://github.com/tatsu-lab/alpaca_eval",
+    "cited_url": "https://github.com/tatsu-lab/alpaca_eval",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2023,
+    "authors": [
+      "Xuechen Li",
+      "Tianyi Zhang",
+      "Yann Dubois",
+      "Rohan Taori",
+      "Ishaan Gulrajani",
+      "Carlos Guestrin",
+      "Percy Liang",
+      "Tatsunori B. Hashimoto"
+    ],
+    "venue": "arXiv",
+    "title": "Alpacaeval: An automatic evaluator of instruction-following models",
+    "raw_text": "Xuechen Li*Tianyi Zhang*Yann Dubois*Rohan Taori*Ishaan Gulrajani*Carlos Guestrin*Percy Liang*Tatsunori B. Hashimoto#Alpacaeval: An automatic evaluator of instruction-following models#arXiv#2023#https://github.com/tatsu-lab/alpaca_eval",
+    "type": "non-arxiv"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Haoxin Lin",
+      "Yu-Yan Xu",
+      "Yihao Sun",
+      "Zhilong Zhang",
+      "Yi-Chen Li",
+      "Chengxing Jia",
+      "Junyin Ye",
+      "Jiaji Zhang",
+      "Yang Yu"
+    ],
+    "venue": "The 13th International Conference on Learning Representations (ICLR'25)",
+    "title": "Any-step dynamics model improves future predictions for online and offline reinforcement learning",
+    "raw_text": "Haoxin Lin*Yu-Yan Xu*Yihao Sun*Zhilong Zhang*Yi-Chen Li*Chengxing Jia*Junyin Ye*Jiaji Zhang*Yang Yu#Any-step dynamics model improves future predictions for online and offline reinforcement learning#The 13th International Conference on Learning Representations (ICLR'25)#2025",
+    "type": "other"
+  },
+  {
+    "url": "https://arxiv.org/abs/2407.06089",
+    "cited_url": "https://arxiv.org/abs/2407.06089",
+    "arxiv_url": "https://arxiv.org/abs/2407.06089",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Jinliang Lu",
+      "Ziliang Pang",
+      "Min Xiao",
+      "Yaochen Zhu",
+      "Rui Xia",
+      "Jiajun Zhang"
+    ],
+    "venue": "arXiv preprint arXiv:2407.06089",
+    "title": "Merge, ensemble, and cooperate! a survey on collaborative strategies in the era of large language models",
+    "raw_text": "Jinliang Lu*Ziliang Pang*Min Xiao*Yaochen Zhu*Rui Xia*Jiajun Zhang#Merge, ensemble, and cooperate! a survey on collaborative strategies in the era of large language models#arXiv preprint arXiv:2407.06089#2024",
+    "type": "arxiv"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2014,
+    "authors": [
+      "P. Malo",
+      "A. Sinha",
+      "P. Korhonen",
+      "J. Wallenius",
+      "P. Takala"
+    ],
+    "venue": "Journal of the Association for Information Science and Technology",
+    "title": "Good debt or bad debt: Detecting semantic orientations in economic texts",
+    "raw_text": "P. Malo*A. Sinha*P. Korhonen*J. Wallenius*P. Takala#Good debt or bad debt: Detecting semantic orientations in economic texts#Journal of the Association for Information Science and Technology#2014",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2022,
+    "authors": [
+      "Michael Matena",
+      "Colin Raffel"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "title": "Merging models with fisher-weighted averaging",
+    "raw_text": "Michael Matena*Colin Raffel#Merging models with fisher-weighted averaging#Advances in Neural Information Processing Systems#2022",
+    "type": "other"
+  },
+  {
+    "url": "https://arxiv.org/abs/2404.11531",
+    "cited_url": "https://arxiv.org/abs/2404.11531",
+    "arxiv_url": "https://arxiv.org/abs/2404.11531",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Costas Mavromatis",
+      "Petros Karypis",
+      "George Karypis"
+    ],
+    "venue": "arXiv preprint arXiv:2404.11531",
+    "title": "Pack of llms: Model fusion at test-time via perplexity optimization",
+    "raw_text": "Costas Mavromatis*Petros Karypis*George Karypis#Pack of llms: Model fusion at test-time via perplexity optimization#arXiv preprint arXiv:2404.11531#2024",
+    "type": "arxiv"
+  },
+  {
+    "url": "https://huggingface.co/meta-llama/Llama-3.1-8B",
+    "cited_url": "https://huggingface.co/meta-llama/Llama-3.1-8B",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Meta"
+    ],
+    "venue": "arXiv",
+    "title": "Llama 3.1 8b",
+    "raw_text": "Meta#Llama 3.1 8b#arXiv#2024#https://huggingface.co/meta-llama/Llama-3.1-8B",
+    "type": "non-arxiv"
+  },
+  {
+    "url": "https://huggingface.co/meta-llama/Llama-3.2-1B",
+    "cited_url": "https://huggingface.co/meta-llama/Llama-3.2-1B",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Meta"
+    ],
+    "venue": "arXiv",
+    "title": "Llama 3.2 1b",
+    "raw_text": "Meta#Llama 3.2 1b#arXiv#2024#https://huggingface.co/meta-llama/Llama-3.2-1B",
+    "type": "non-arxiv"
+  },
+  {
+    "url": "https://huggingface.co/meta-llama/Llama-3.1-70B-Instruct/blob/main/LICENSE",
+    "cited_url": "https://huggingface.co/meta-llama/Llama-3.1-70B-Instruct/blob/main/LICENSE",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Meta Platforms",
+      "Inc"
+    ],
+    "venue": "",
+    "title": "LLAMA3.1 COMMUNITY LICENSE AGREEMENT",
+    "raw_text": "Meta Platforms, Inc.#LLAMA3.1 COMMUNITY LICENSE AGREEMENT##2024#https://huggingface.co/meta-llama/Llama-3.1-70B-Instruct/blob/main/LICENSE",
+    "type": "non-arxiv"
+  },
+  {
+    "url": "https://huggingface.co/meta-llama/Llama-3.2-1B/blob/main/LICENSE.txt",
+    "cited_url": "https://huggingface.co/meta-llama/Llama-3.2-1B/blob/main/LICENSE.txt",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Meta Platforms",
+      "Inc"
+    ],
+    "venue": "",
+    "title": "LLAMA3.2 COMMUNITY LICENSE AGREEMENT",
+    "raw_text": "Meta Platforms, Inc.#LLAMA3.2 COMMUNITY LICENSE AGREEMENT##2024#https://huggingface.co/meta-llama/Llama-3.2-1B/blob/main/LICENSE.txt",
+    "type": "non-arxiv"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Arindam Mitra",
+      "Hamed Khanpour",
+      "Corby Rosset",
+      "Ahmed Awadallah"
+    ],
+    "venue": "arXiv",
+    "title": "Orca-math: Unlocking the potential of slms in grade school math",
+    "raw_text": "Arindam Mitra*Hamed Khanpour*Corby Rosset*Ahmed Awadallah#Orca-math: Unlocking the potential of slms in grade school math#arXiv#2024",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2023,
+    "authors": [
+      "Thomas M. Moerland",
+      "Joost Broekens",
+      "Aske Plaat",
+      "Catholijn M. Jonker"
+    ],
+    "venue": "Foundations and Trends in Machine Learning",
+    "title": "Model-based reinforcement learning: A survey",
+    "raw_text": "Thomas M. Moerland*Joost Broekens*Aske Plaat*Catholijn M. Jonker#Model-based reinforcement learning: A survey#Foundations and Trends in Machine Learning#2023#10.1561/2200000086",
+    "type": "other"
+  },
+  {
+    "url": "https://arxiv.org/abs/2508.03121",
+    "cited_url": "https://arxiv.org/abs/2508.03121",
+    "arxiv_url": "https://arxiv.org/abs/2508.03121",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "The-Hai Nguyen",
+      "Dang Huu-Tien",
+      "Takeshi Suzuki",
+      "Le-Minh Nguyen"
+    ],
+    "venue": "arXiv",
+    "title": "Regmean++: Enhancing effectiveness and generalization of regression mean for model merging",
+    "raw_text": "The-Hai Nguyen*Dang Huu-Tien*Takeshi Suzuki*Le-Minh Nguyen#Regmean++: Enhancing effectiveness and generalization of regression mean for model merging#arXiv#2025#https://arxiv.org/abs/2508.03121",
+    "type": "arxiv"
+  },
+  {
+    "url": "https://github.com/Howuhh/sac-n-jax",
+    "cited_url": "https://github.com/Howuhh/sac-n-jax",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2023,
+    "authors": [
+      "Alexander Nikulin"
+    ],
+    "venue": "GitHub repository",
+    "title": "sac-n-jax: Single-file SAC-N implementation in jax",
+    "raw_text": "Alexander Nikulin#sac-n-jax: Single-file SAC-N implementation in jax#GitHub repository#2023#https://github.com/Howuhh/sac-n-jax",
+    "type": "non-arxiv"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2022,
+    "authors": [
+      "Long Ouyang",
+      "Jeff Wu",
+      "Xu Jiang",
+      "et al"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "title": "Training language models to follow instructions with human feedback",
+    "raw_text": "Long Ouyang*Jeff Wu*Xu Jiang*et al.#Training language models to follow instructions with human feedback#Advances in Neural Information Processing Systems#2022",
+    "type": "other"
+  },
+  {
+    "url": "https://arxiv.org/abs/2203.14371",
+    "cited_url": "https://arxiv.org/abs/2203.14371",
+    "arxiv_url": "https://arxiv.org/abs/2203.14371",
+    "doi": null,
+    "year": 2022,
+    "authors": [
+      "Ankit Pal",
+      "Logesh Kumar Umapathi",
+      "Malaikannan Sankarasubbu"
+    ],
+    "venue": "arXiv",
+    "title": "Medmcqa : A large-scale multi-subject multi-choice dataset for medical domain question answering",
+    "raw_text": "Ankit Pal*Logesh Kumar Umapathi*Malaikannan Sankarasubbu#Medmcqa : A large-scale multi-subject multi-choice dataset for medical domain question answering#arXiv#2022#https://arxiv.org/abs/2203.14371",
+    "type": "arxiv"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 1994,
+    "authors": [
+      "Martin L. Puterman"
+    ],
+    "venue": "Wiley",
+    "title": "Markov Decision Processes: Discrete Stochastic Dynamic Programming",
+    "raw_text": "Martin L. Puterman#Markov Decision Processes: Discrete Stochastic Dynamic Programming#Wiley#1994",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2004,
+    "authors": [
+      "Reuven Y. Rubinstein",
+      "Dirk P. Kroese"
+    ],
+    "venue": "Springer",
+    "title": "The Cross-Entropy Method",
+    "raw_text": "Reuven Y. Rubinstein*Dirk P. Kroese#The Cross-Entropy Method#Springer#2004",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2020,
+    "authors": [
+      "Max Savery",
+      "Asma Ben Abacha",
+      "Soumya Gayen",
+      "Dina Demner-Fushman"
+    ],
+    "venue": "Scientific Data",
+    "title": "Question-driven summarization of answers to consumer health questions",
+    "raw_text": "Max Savery*Asma Ben Abacha*Soumya Gayen*Dina Demner-Fushman#Question-driven summarization of answers to consumer health questions#Scientific Data#2020",
+    "type": "other"
+  },
+  {
+    "url": "https://arxiv.org/abs/2009.04202",
+    "cited_url": "https://arxiv.org/abs/2009.04202",
+    "arxiv_url": "https://arxiv.org/abs/2009.04202",
+    "doi": null,
+    "year": 2020,
+    "authors": [
+      "Ankur Sinha",
+      "Tanmay Khandait"
+    ],
+    "venue": "arXiv",
+    "title": "Impact of news on the commodity market: Dataset and results",
+    "raw_text": "Ankur Sinha*Tanmay Khandait#Impact of news on the commodity market: Dataset and results#arXiv#2020#https://arxiv.org/abs/2009.04202",
+    "type": "arxiv"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2018,
+    "authors": [
+      "Richard S. Sutton",
+      "Andrew G. Barto"
+    ],
+    "venue": "MIT Press",
+    "title": "Reinforcement Learning: An Introduction (2nd Edition)",
+    "raw_text": "Richard S. Sutton*Andrew G. Barto#Reinforcement Learning: An Introduction (2nd Edition)#MIT Press#2018",
+    "type": "other"
+  },
+  {
+    "url": "https://qwenlm.github.io/blog/qwen2.5/",
+    "cited_url": "https://qwenlm.github.io/blog/qwen2.5/",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Qwen Team"
+    ],
+    "venue": "arXiv",
+    "title": "Qwen2.5: A party of foundation models",
+    "raw_text": "Qwen Team#Qwen2.5: A party of foundation models#arXiv#2024#https://qwenlm.github.io/blog/qwen2.5/",
+    "type": "non-arxiv"
+  },
+  {
+    "url": "https://huggingface.co/datasets/TheFinAI/cra-lendingclub",
+    "cited_url": "https://huggingface.co/datasets/TheFinAI/cra-lendingclub",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [],
+    "venue": "Hugging Face dataset",
+    "title": "Cra-lendingclub",
+    "raw_text": "#Cra-lendingclub#Hugging Face dataset#2024#https://huggingface.co/datasets/TheFinAI/cra-lendingclub",
+    "type": "non-arxiv"
+  },
+  {
+    "url": "https://arxiv.org/abs/2302.13971",
+    "cited_url": "https://arxiv.org/abs/2302.13971",
+    "arxiv_url": "https://arxiv.org/abs/2302.13971",
+    "doi": null,
+    "year": 2023,
+    "authors": [
+      "Hugo Touvron",
+      "Thibaut Lavril",
+      "Gautier Izacard",
+      "et al"
+    ],
+    "venue": "arXiv preprint arXiv:2302.13971",
+    "title": "LLaMA: Open and efficient foundation language models",
+    "raw_text": "Hugo Touvron*Thibaut Lavril*Gautier Izacard*et al.#LLaMA: Open and efficient foundation language models#arXiv preprint arXiv:2302.13971#2023",
+    "type": "arxiv"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2017,
+    "authors": [
+      "Ashish Vaswani",
+      "Noam Shazeer",
+      "Niki Parmar",
+      "et al"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "title": "Attention is all you need",
+    "raw_text": "Ashish Vaswani*Noam Shazeer*Niki Parmar*et al.#Attention is all you need#Advances in Neural Information Processing Systems#2017",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2022,
+    "authors": [
+      "Mitchell Wortsman",
+      "Gabriel Ilharco",
+      "Samir Gadre",
+      "et al"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "title": "Model soups: Averaging weights of multiple fine-tuned models improves accuracy without extra training",
+    "raw_text": "Mitchell Wortsman*Gabriel Ilharco*Samir Gadre*et al.#Model soups: Averaging weights of multiple fine-tuned models improves accuracy without extra training#International Conference on Machine Learning#2022",
+    "type": "other"
+  },
+  {
+    "url": "https://openreview.net/forum?id=BAakY1hNKS",
+    "cited_url": "https://openreview.net/forum?id=BAakY1hNKS",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Qingyun Wu",
+      "Gagan Bansal",
+      "Jieyu Zhang",
+      "Yiran Wu",
+      "Beibin Li",
+      "Erkang Zhu",
+      "Li Jiang",
+      "Xiaoyun Zhang",
+      "Shaokun Zhang",
+      "Jiale Liu",
+      "Ahmed Hassan Awadallah",
+      "Ryen W White",
+      "Doug Burger",
+      "Chi Wang"
+    ],
+    "venue": "First Conference on Language Modeling",
+    "title": "Autogen: Enabling next-gen LLM applications via multi-agent conversations",
+    "raw_text": "Qingyun Wu*Gagan Bansal*Jieyu Zhang*Yiran Wu*Beibin Li*Erkang Zhu*Li Jiang*Xiaoyun Zhang*Shaokun Zhang*Jiale Liu*Ahmed Hassan Awadallah*Ryen W White*Doug Burger*Chi Wang#Autogen: Enabling next-gen LLM applications via multi-agent conversations#First Conference on Language Modeling#2024#https://openreview.net/forum?id=BAakY1hNKS",
+    "type": "non-arxiv"
+  },
+  {
+    "url": "https://arxiv.org/abs/2404.09492",
+    "cited_url": "https://arxiv.org/abs/2404.09492",
+    "arxiv_url": "https://arxiv.org/abs/2404.09492",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Yangyifan Xu",
+      "Jinliang Lu",
+      "Jiajun Zhang"
+    ],
+    "venue": "arXiv",
+    "title": "Bridging the gap between different vocabularies for llm ensemble",
+    "raw_text": "Yangyifan Xu*Jinliang Lu*Jiajun Zhang#Bridging the gap between different vocabularies for llm ensemble#arXiv#2024#https://arxiv.org/abs/2404.09492",
+    "type": "arxiv"
+  },
+  {
+    "url": "https://arxiv.org/abs/2407.10671",
+    "cited_url": "https://arxiv.org/abs/2407.10671",
+    "arxiv_url": "https://arxiv.org/abs/2407.10671",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "An Yang",
+      "Baosong Yang",
+      "Binyuan Hui",
+      "Bo Zheng",
+      "Bowen Yu",
+      "Chang Zhou",
+      "Chengpeng Li",
+      "Chengyuan Li",
+      "Dayiheng Liu",
+      "Fei Huang",
+      "Guanting Dong",
+      "Haoran Wei",
+      "Huan Lin",
+      "Jialong Tang",
+      "Jialin Wang",
+      "Jian Yang",
+      "Jianhong Tu",
+      "Jianwei Zhang",
+      "Jianxin Ma",
+      "Jin Xu",
+      "Jingren Zhou",
+      "Jinze Bai",
+      "Jinzheng He",
+      "Junyang Lin",
+      "Kai Dang",
+      "Keming Lu",
+      "Keqin Chen",
+      "Kexin Yang",
+      "Mei Li",
+      "Mingfeng Xue",
+      "Na Ni",
+      "Pei Zhang",
+      "Peng Wang",
+      "Ru Peng",
+      "Rui Men",
+      "Ruize Gao",
+      "Runji Lin",
+      "Shijie Wang",
+      "Shuai Bai",
+      "Sinan Tan",
+      "Tianhang Zhu",
+      "Tianhao Li",
+      "Tianyu Liu",
+      "Wenbin Ge",
+      "Xiaodong Deng",
+      "Xiaohuan Zhou",
+      "Xingzhang Ren",
+      "Xinyu Zhang",
+      "Xipin Wei",
+      "Xuancheng Ren",
+      "Yang Fan",
+      "Yang Yao",
+      "Yichang Zhang",
+      "Yu Wan",
+      "Yunfei Chu",
+      "Yuqiong Liu",
+      "Zeyu Cui",
+      "Zhenru Zhang",
+      "Zhihao Fan"
+    ],
+    "venue": "arXiv preprint arXiv:2407.10671",
+    "title": "Qwen2 technical report",
+    "raw_text": "An Yang*Baosong Yang*Binyuan Hui*Bo Zheng*Bowen Yu*Chang Zhou*Chengpeng Li*Chengyuan Li*Dayiheng Liu*Fei Huang*Guanting Dong*Haoran Wei*Huan Lin*Jialong Tang*Jialin Wang*Jian Yang*Jianhong Tu*Jianwei Zhang*Jianxin Ma*Jin Xu*Jingren Zhou*Jinze Bai*Jinzheng He*Junyang Lin*Kai Dang*Keming Lu*Keqin Chen*Kexin Yang*Mei Li*Mingfeng Xue*Na Ni*Pei Zhang*Peng Wang*Ru Peng*Rui Men*Ruize Gao*Runji Lin*Shijie Wang*Shuai Bai*Sinan Tan*Tianhang Zhu*Tianhao Li*Tianyu Liu*Wenbin Ge*Xiaodong Deng*Xiaohuan Zhou*Xingzhang Ren*Xinyu Zhang*Xipin Wei*Xuancheng Ren*Yang Fan*Yang Yao*Yichang Zhang*Yu Wan*Yunfei Chu*Yuqiong Liu*Zeyu Cui*Zhenru Zhang*Zhihao Fan#Qwen2 technical report#arXiv preprint arXiv:2407.10671#2024",
+    "type": "arxiv"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2020,
+    "authors": [
+      "Tianhe Yu",
+      "Aviral Kumar",
+      "Yevgen Chebotar",
+      "et al"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "title": "Mopo: Model-based offline policy optimization",
+    "raw_text": "Tianhe Yu*Aviral Kumar*Yevgen Chebotar*et al.#Mopo: Model-based offline policy optimization#Advances in Neural Information Processing Systems#2020",
+    "type": "other"
+  }
+]

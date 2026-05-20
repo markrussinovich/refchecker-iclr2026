@@ -1,0 +1,1472 @@
+[
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2005,
+    "authors": [
+      "Nir Ailon",
+      "Moses Charikar",
+      "Alantha Newman"
+    ],
+    "venue": "Proceedings of the Annual Symposium on Theory of Computing (STOC)",
+    "title": "Aggregating inconsistent information: Ranking and clustering",
+    "raw_text": "Nir Ailon*Moses Charikar*Alantha Newman#Aggregating inconsistent information: Ranking and clustering#Proceedings of the Annual Symposium on Theory of Computing (STOC)#2005",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2014,
+    "authors": [
+      "John Aldrich",
+      "Jason Reifler",
+      "Michael C. Munger"
+    ],
+    "venue": "Public Choice",
+    "title": "Sophisticated and myopic? citizen preferences for electoral college reform",
+    "raw_text": "John Aldrich*Jason Reifler*Michael C. Munger#Sophisticated and myopic? citizen preferences for electoral college reform#Public Choice#2014",
+    "type": "other"
+  },
+  {
+    "url": "https://pypi.org/project/optimal-voting",
+    "cited_url": "https://pypi.org/project/optimal-voting",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Ben Armstrong"
+    ],
+    "venue": "",
+    "title": "Optimal voting",
+    "raw_text": "Ben Armstrong#Optimal voting#2025#https://pypi.org/project/optimal-voting",
+    "type": "non-arxiv"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 1963,
+    "authors": [
+      "Kenneth Arrow"
+    ],
+    "venue": "New Haven: Cowles Foundation",
+    "title": "Social choice and individual values",
+    "raw_text": "Kenneth Arrow#Social choice and individual values#New Haven: Cowles Foundation#1963",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 1990,
+    "authors": [
+      "R. B. Ash"
+    ],
+    "venue": "Dover Publications",
+    "title": "Information Theory",
+    "raw_text": "R. B. Ash#Information Theory#Dover Publications#1990",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2014,
+    "authors": [
+      "Hossein Azari Soufiani",
+      "David C Parkes",
+      "Lirong Xia"
+    ],
+    "venue": "Proceedings of the Annual Conference on Neural Information Processing Systems (NIPS)",
+    "title": "A statistical decision-theoretic framework for social choice",
+    "raw_text": "Hossein Azari Soufiani*David C Parkes*Lirong Xia#A statistical decision-theoretic framework for social choice#Proceedings of the Annual Conference on Neural Information Processing Systems (NIPS)#2014",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2021,
+    "authors": [
+      "Ali Baharev",
+      "Hermann Schichl",
+      "Arnold Neumaier",
+      "Tobias Achterberg"
+    ],
+    "venue": "Journal of Experimental Algorithmics (JEA)",
+    "title": "An exact method for the minimum feedback arc set problem",
+    "raw_text": "Ali Baharev*Hermann Schichl*Arnold Neumaier*Tobias Achterberg#An exact method for the minimum feedback arc set problem#Journal of Experimental Algorithmics (JEA)#2021",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2022,
+    "authors": [
+      "Yuntao Bai",
+      "Saurav Kadavath",
+      "Sandipan Kundu",
+      "Amanda Askell",
+      "Jackson Kernion",
+      "Andy Jones",
+      "Anna Chen",
+      "Anna Goldie",
+      "Azalia Mirhoseini",
+      "Cameron McKinnon",
+      "Carol Chen",
+      "Catherine Olsson",
+      "Christopher Olah",
+      "Danny Hernandez",
+      "Dawn Drain",
+      "Deep Ganguli",
+      "Dustin Li",
+      "Eli Tran-Johnson",
+      "Ethan Perez",
+      "Jamie Kerr",
+      "Jared Mueller",
+      "Jeffrey Ladish",
+      "Joshua Landau",
+      "Kamal Ndousse",
+      "Kamile Lukosuite",
+      "Liane Lovitt",
+      "Michael Sellitto",
+      "Nelson Elhage",
+      "Nicholas Schiefer",
+      "Noemi Mercado",
+      "Nova DasSarma",
+      "Robert Lasenby",
+      "Robin Larson",
+      "Sam Ringer",
+      "Scott Johnston",
+      "Shauna Kravec",
+      "Sheer El Showk",
+      "Stanislav Fort",
+      "Tamera Lanham",
+      "Timothy Telleen-Lawton",
+      "Tom Conerly",
+      "Tom Henighan",
+      "Tristan Hume",
+      "Samuel R. Bowman",
+      "Zac Hatfield-Dodds",
+      "Ben Mann",
+      "Dario Amodei",
+      "Nicholas Joseph",
+      "Sam McCandlish",
+      "Tom Brown",
+      "Jared Kaplan"
+    ],
+    "venue": "arXiv preprint arXiv 2212.08073",
+    "title": "Constitutional ai: Harmlessness from ai feedback",
+    "raw_text": "Yuntao Bai*Saurav Kadavath*Sandipan Kundu*Amanda Askell*Jackson Kernion*Andy Jones*Anna Chen*Anna Goldie*Azalia Mirhoseini*Cameron McKinnon*Carol Chen*Catherine Olsson*Christopher Olah*Danny Hernandez*Dawn Drain*Deep Ganguli*Dustin Li*Eli Tran-Johnson*Ethan Perez*Jamie Kerr*Jared Mueller*Jeffrey Ladish*Joshua Landau*Kamal Ndousse*Kamile Lukosuite*Liane Lovitt*Michael Sellitto*Nelson Elhage*Nicholas Schiefer*Noemi Mercado*Nova DasSarma*Robert Lasenby*Robin Larson*Sam Ringer*Scott Johnston*Shauna Kravec*Sheer El Showk*Stanislav Fort*Tamera Lanham*Timothy Telleen-Lawton*Tom Conerly*Tom Henighan*Tristan Hume*Samuel R. Bowman*Zac Hatfield-Dodds*Ben Mann*Dario Amodei*Nicholas Joseph*Sam McCandlish*Tom Brown*Jared Kaplan#Constitutional ai: Harmlessness from ai feedback#arXiv preprint arXiv 2212.08073#2022",
+    "type": "other"
+  },
+  {
+    "url": "https://cacm.acm.org/blogcacm/how-objective-is-peer-review/",
+    "cited_url": "https://cacm.acm.org/blogcacm/how-objective-is-peer-review/",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2020,
+    "authors": [
+      "Hannah Bast"
+    ],
+    "venue": "",
+    "title": "How objective is peer review?",
+    "raw_text": "Hannah Bast#How objective is peer review?#2020#https://cacm.acm.org/blogcacm/how-objective-is-peer-review/",
+    "type": "non-arxiv"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2023,
+    "authors": [
+      "Alina Beygelzimer",
+      "Yann N. Dauphin",
+      "Percy Liang",
+      "Jennifer Wortman Vaughan"
+    ],
+    "venue": "",
+    "title": "Has the Machine Learning Review Process Become More Arbitrary as the Field Has Grown? The NeurIPS 2021 Consistency Experiment",
+    "raw_text": "Alina Beygelzimer*Yann N. Dauphin*Percy Liang*Jennifer Wortman Vaughan#Has the Machine Learning Review Process Become More Arbitrary as the Field Has Grown? The NeurIPS 2021 Consistency Experiment#2023",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2015,
+    "authors": [
+      "André Blais",
+      "Jean-François Laslier",
+      "François Poinas",
+      "Karine Van Der Straeten"
+    ],
+    "venue": "Public Choice",
+    "title": "Citizens' preferences about voting rules: self-interest, ideology, and sincerity",
+    "raw_text": "André Blais*Jean-François Laslier*François Poinas*Karine Van Der Straeten#Citizens' preferences about voting rules: self-interest, ideology, and sincerity#Public Choice#2015",
+    "type": "other"
+  },
+  {
+    "url": "https://arxiv.org/abs/2105.07815",
+    "cited_url": "https://arxiv.org/abs/2105.07815",
+    "arxiv_url": "https://arxiv.org/abs/2105.07815",
+    "doi": null,
+    "year": 2021,
+    "authors": [
+      "Niclas Boehmer",
+      "Robert Bredereck",
+      "Piotr Faliszewski",
+      "Rolf Niedermeier",
+      "Stanisław Szufa"
+    ],
+    "venue": "arXiv preprint arXiv:2105.07815",
+    "title": "Putting a compass on the map of elections",
+    "raw_text": "Niclas Boehmer*Robert Bredereck*Piotr Faliszewski*Rolf Niedermeier*Stanisław Szufa#Putting a compass on the map of elections#arXiv preprint arXiv:2105.07815#2021",
+    "type": "arxiv"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2022,
+    "authors": [
+      "Niclas Boehmer",
+      "Robert Bredereck",
+      "Piotr Faliszewski",
+      "Rolf Niedermeier"
+    ],
+    "venue": "Proceedings of the 2nd ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization",
+    "title": "A quantitative and qualitative analysis of the robustness of (real-world) election winners",
+    "raw_text": "Niclas Boehmer*Robert Bredereck*Piotr Faliszewski*Rolf Niedermeier#A quantitative and qualitative analysis of the robustness of (real-world) election winners#Proceedings of the 2nd ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization#2022",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2020,
+    "authors": [
+      "Arthur Boixel",
+      "Ulle Endriss"
+    ],
+    "venue": "Autonomous Agents and Multi-Agent Systems",
+    "title": "Automated justification of collective decisions via constraint solving",
+    "raw_text": "Arthur Boixel*Ulle Endriss#Automated justification of collective decisions via constraint solving#Autonomous Agents and Multi-Agent Systems#2020",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 1952,
+    "authors": [
+      "Ralph Allan Bradley",
+      "Milton E Terry"
+    ],
+    "venue": "Biometrika",
+    "title": "Rank analysis of incomplete block designs: I. the method of paired comparisons",
+    "raw_text": "Ralph Allan Bradley*Milton E Terry#Rank analysis of incomplete block designs: I. the method of paired comparisons#Biometrika#1952",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2016,
+    "authors": [
+      "Felix Brandt",
+      "Vincent Conitzer",
+      "Ulle Endriss",
+      "Jérôme Lang",
+      "Ariel D. Procaccia"
+    ],
+    "venue": "Cambridge University Press",
+    "title": "Handbook of Computational Social Choice",
+    "raw_text": "Felix Brandt*Vincent Conitzer*Ulle Endriss*Jérôme Lang*Ariel D. Procaccia#Handbook of Computational Social Choice#Cambridge University Press#2016",
+    "type": "other"
+  },
+  {
+    "url": "https://arxiv.org/abs/2508.06454",
+    "cited_url": "https://arxiv.org/abs/2508.06454",
+    "arxiv_url": "https://arxiv.org/abs/2508.06454",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Joshua Caiata",
+      "Ben Armstrong",
+      "Kate Larson"
+    ],
+    "venue": "arXiv preprint arXiv:2508.06454",
+    "title": "What voting rules actually do: A data-driven analysis of multi-winner voting",
+    "raw_text": "Joshua Caiata*Ben Armstrong*Kate Larson#What voting rules actually do: A data-driven analysis of multi-winner voting#arXiv preprint arXiv:2508.06454#2025",
+    "type": "arxiv"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2016,
+    "authors": [
+      "Olivier Cailloux",
+      "Ulle Endriss"
+    ],
+    "venue": "Autonomous Agents and Multi-Agent Systems",
+    "title": "Arguing about voting rules",
+    "raw_text": "Olivier Cailloux*Ulle Endriss#Arguing about voting rules#Autonomous Agents and Multi-Agent Systems#2016",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2011,
+    "authors": [
+      "Ioannis Caragiannis",
+      "Ariel D. Procaccia"
+    ],
+    "venue": "Artificial Intelligence",
+    "title": "Voting almost maximizes social welfare despite limited communication",
+    "raw_text": "Ioannis Caragiannis*Ariel D. Procaccia#Voting almost maximizes social welfare despite limited communication#Artificial Intelligence#2011",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2019,
+    "authors": [
+      "Ioannis Caragiannis",
+      "Xenophon Chatzigeorgiou",
+      "George A. Krimpas",
+      "Alexandros A. Voudouris"
+    ],
+    "venue": "Artificial Intelligence",
+    "title": "Optimizing positional scoring rules for rank aggregation",
+    "raw_text": "Ioannis Caragiannis*Xenophon Chatzigeorgiou*George A. Krimpas*Alexandros A. Voudouris#Optimizing positional scoring rules for rank aggregation#Artificial Intelligence#2019",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 1951,
+    "authors": [
+      "Douglas G Chapman",
+      "Herbert Robbins"
+    ],
+    "venue": "The Annals of Mathematical Statistics",
+    "title": "Minimum variance estimation without regularity assumptions",
+    "raw_text": "Douglas G Chapman*Herbert Robbins#Minimum variance estimation without regularity assumptions#The Annals of Mathematical Statistics#1951",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2017,
+    "authors": [
+      "Paul Christiano",
+      "Jan Leike",
+      "Tom B. Brown",
+      "Miljan Martic",
+      "Shane Legg",
+      "Dario Amodei"
+    ],
+    "venue": "Proceedings of the Annual Conference on Neural Information Processing Systems (NeurIPS)",
+    "title": "Deep reinforcement learning from human preferences",
+    "raw_text": "Paul Christiano*Jan Leike*Tom B. Brown*Miljan Martic*Shane Legg*Dario Amodei#Deep reinforcement learning from human preferences#Proceedings of the Annual Conference on Neural Information Processing Systems (NeurIPS)#2017",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2013,
+    "authors": [
+      "Vincent Conitzer"
+    ],
+    "venue": "Proceedings of the Conference on Communication, Control, and Computing (Allerton)",
+    "title": "The maximum likelihood approach to voting on social networks",
+    "raw_text": "Vincent Conitzer#The maximum likelihood approach to voting on social networks#Proceedings of the Conference on Communication, Control, and Computing (Allerton)#2013",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2005,
+    "authors": [
+      "Vincent Conitzer",
+      "Tuomas Sandholm"
+    ],
+    "venue": "Proceedings of the Conference on Uncertainty in Artificial Intelligence (UAI)",
+    "title": "Common voting rules as maximum likelihood estimators",
+    "raw_text": "Vincent Conitzer*Tuomas Sandholm#Common voting rules as maximum likelihood estimators#Proceedings of the Conference on Uncertainty in Artificial Intelligence (UAI)#2005",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2009,
+    "authors": [
+      "Vincent Conitzer",
+      "Matthew Rognlie",
+      "Lirong Xia"
+    ],
+    "venue": "Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI)",
+    "title": "Preference functions that score rankings and maximum likelihood estimation",
+    "raw_text": "Vincent Conitzer*Matthew Rognlie*Lirong Xia#Preference functions that score rankings and maximum likelihood estimation#Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI)#2009",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Vincent Conitzer",
+      "Rachel Freedman",
+      "Jobst Heitzig",
+      "Wesley H. Holliday",
+      "Bob M. Jacobs",
+      "Nathan Lambert",
+      "Milan Mossé",
+      "Eric Pacuit",
+      "Stuart Russell",
+      "Hailey Schoelkopf",
+      "Emanuel Tewolde",
+      "William S. Zwicker"
+    ],
+    "venue": "Proceedings of the International Conference on Machine Learning (ICML)",
+    "title": "Social choice should guide AI alignment in dealing with diverse human feedback",
+    "raw_text": "Vincent Conitzer*Rachel Freedman*Jobst Heitzig*Wesley H. Holliday*Bob M. Jacobs*Nathan Lambert*Milan Mossé*Eric Pacuit*Stuart Russell*Hailey Schoelkopf*Emanuel Tewolde*William S. Zwicker#Social choice should guide AI alignment in dealing with diverse human feedback#Proceedings of the International Conference on Machine Learning (ICML)#2024",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2021,
+    "authors": [
+      "Corinna Cortes",
+      "Neil D. Lawrence"
+    ],
+    "venue": "",
+    "title": "Inconsistency in conference peer review: Revisiting the 2014 NeurIPS experiment",
+    "raw_text": "Corinna Cortes*Neil D. Lawrence#Inconsistency in conference peer review: Revisiting the 2014 NeurIPS experiment#2021",
+    "type": "other"
+  },
+  {
+    "url": "https://arxiv.org/abs/2404.13038",
+    "cited_url": "https://arxiv.org/abs/2404.13038",
+    "arxiv_url": "https://arxiv.org/abs/2404.13038",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Jessica Dai",
+      "Eve Fleisig"
+    ],
+    "venue": "arXiv preprint arXiv:2404.13038",
+    "title": "Mapping social choice theory to RLHF",
+    "raw_text": "Jessica Dai*Eve Fleisig#Mapping social choice theory to RLHF#arXiv preprint arXiv:2404.13038#2024",
+    "type": "arxiv"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 1785,
+    "authors": [
+      "Marie Jean Antoine Nicolas de Caritat (Marquis de Condorcet)"
+    ],
+    "venue": "Paris: L'Imprimerie Royale",
+    "title": "Essai sur l'application de l'analyse à la probabilité des décisions rendues à la pluralité des voix",
+    "raw_text": "Marie Jean Antoine Nicolas de Caritat (Marquis de Condorcet)#Essai sur l'application de l'analyse à la probabilité des décisions rendues à la pluralité des voix#Paris: L'Imprimerie Royale#1785",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2001,
+    "authors": [
+      "Cynthia Dwork",
+      "Ravi Kumar",
+      "Moni Naor",
+      "D. Sivakumar"
+    ],
+    "venue": "Proceedings of the 10th World Wide Web Conference",
+    "title": "Rank aggregation methods for the web",
+    "raw_text": "Cynthia Dwork*Ravi Kumar*Moni Naor*D. Sivakumar#Rank aggregation methods for the web#Proceedings of the 10th World Wide Web Conference#2001",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2009,
+    "authors": [
+      "Edith Elkind",
+      "Piotr Faliszewski",
+      "Arkadii Slinko"
+    ],
+    "venue": "Proceedings of the Conference on Theoretical Aspects of Rationality and Knowledge (TARK)",
+    "title": "On distance rationalizability of some voting rules",
+    "raw_text": "Edith Elkind*Piotr Faliszewski*Arkadii Slinko#On distance rationalizability of some voting rules#Proceedings of the Conference on Theoretical Aspects of Rationality and Knowledge (TARK)#2009",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2010,
+    "authors": [
+      "Edith Elkind",
+      "Piotr Faliszewski",
+      "Arkadii Slinko"
+    ],
+    "venue": "Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)",
+    "title": "Good rationalizations of voting rules",
+    "raw_text": "Edith Elkind*Piotr Faliszewski*Arkadii Slinko#Good rationalizations of voting rules#Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)#2010",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2012,
+    "authors": [
+      "Mikael Fogelholm",
+      "Saara Leppinen",
+      "Anssi Auvinen",
+      "Jani Raitanen",
+      "Anu Nuutinen",
+      "Kalervo Väänänen"
+    ],
+    "venue": "Journal of Clinical Epidemiology",
+    "title": "Panel discussion does not improve reliability of peer review for medical research grant proposals",
+    "raw_text": "Mikael Fogelholm*Saara Leppinen*Anssi Auvinen*Jani Raitanen*Anu Nuutinen*Kalervo Väänänen#Panel discussion does not improve reliability of peer review for medical research grant proposals#Journal of Clinical Epidemiology#2012",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Luise Ge",
+      "Daniel Halpern",
+      "Evi Micha",
+      "Ariel D. Procaccia",
+      "Itai Shapira",
+      "Yevgeniy Vorobeychik",
+      "Junlin Wu"
+    ],
+    "venue": "",
+    "title": "Axioms for AI alignment from human feedback",
+    "raw_text": "Luise Ge*Daniel Halpern*Evi Micha*Ariel D. Procaccia*Itai Shapira*Yevgeniy Vorobeychik*Junlin Wu#Axioms for AI alignment from human feedback##2024",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2017,
+    "authors": [
+      "Alex Gershkov",
+      "Benny Moldovanu",
+      "Xianwen Shi"
+    ],
+    "venue": "The Review of Economic Studies",
+    "title": "Optimal voting rules",
+    "raw_text": "Alex Gershkov*Benny Moldovanu*Xianwen Shi#Optimal voting rules#The Review of Economic Studies#2017",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 1973,
+    "authors": [
+      "Allan Gibbard"
+    ],
+    "venue": "Econometrica",
+    "title": "Manipulation of voting schemes",
+    "raw_text": "Allan Gibbard#Manipulation of voting schemes#Econometrica#1973",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2005,
+    "authors": [
+      "Ayça E. Giritligil Kara",
+      "Murat R. Sertel"
+    ],
+    "venue": "Social Choice and Welfare",
+    "title": "Does majoritarian approval matter in selecting a social choice rule? an exploratory panel study",
+    "raw_text": "Ayça E. Giritligil Kara*Murat R. Sertel#Does majoritarian approval matter in selecting a social choice rule? an exploratory panel study#Social Choice and Welfare#2005",
+    "type": "other"
+  },
+  {
+    "url": "https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results/data",
+    "cited_url": "https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results/data",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2018,
+    "authors": [
+      "Randi Griffin"
+    ],
+    "venue": "Online dataset",
+    "title": "120 years of olympic history: Athletes and results",
+    "raw_text": "Randi Griffin#120 years of olympic history: Athletes and results#Online dataset#2018#https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results/data",
+    "type": "non-arxiv"
+  },
+  {
+    "url": "https://www.gurobi.com",
+    "cited_url": "https://www.gurobi.com",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [],
+    "venue": "Gurobi Optimization, LLC",
+    "title": "Gurobi Optimizer Reference Manual",
+    "raw_text": "#Gurobi Optimizer Reference Manual#Gurobi Optimization, LLC#2024#https://www.gurobi.com",
+    "type": "non-arxiv"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2014,
+    "authors": [
+      "Bruce Hajek",
+      "Sewoong Oh",
+      "Jiaming Xu"
+    ],
+    "venue": "Proceedings of the Annual Conference on Neural Information Processing Systems (NIPS)",
+    "title": "Minimax-optimal inference from partial rankings",
+    "raw_text": "Bruce Hajek*Sewoong Oh*Jiaming Xu#Minimax-optimal inference from partial rankings#Proceedings of the Annual Conference on Neural Information Processing Systems (NIPS)#2014",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2015,
+    "authors": [
+      "F Maxwell Harper",
+      "Joseph A Konstan"
+    ],
+    "venue": "Acm Transactions on Interactive Intelligent Systems (TIIS)",
+    "title": "The movielens datasets: History and context",
+    "raw_text": "F Maxwell Harper*Joseph A Konstan#The movielens datasets: History and context#Acm Transactions on Interactive Intelligent Systems (TIIS)#2015",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2019,
+    "authors": [
+      "Reinhard Heckel",
+      "Nihar B Shah",
+      "Kannan Ramchandran",
+      "Martin J Wainwright"
+    ],
+    "venue": "The Annals of Statistics",
+    "title": "Active ranking from pairwise comparisons and when parametric assumptions do not help",
+    "raw_text": "Reinhard Heckel*Nihar B Shah*Kannan Ramchandran*Martin J Wainwright#Active ranking from pairwise comparisons and when parametric assumptions do not help#The Annals of Statistics#2019",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 1901,
+    "authors": [
+      "Paul Jaccard"
+    ],
+    "venue": "Bull Soc Vaudoise Sci Nat",
+    "title": "Étude comparative de la distribution florale dans une portion des alpes et des jura",
+    "raw_text": "Paul Jaccard#Étude comparative de la distribution florale dans une portion des alpes et des jura#Bull Soc Vaudoise Sci Nat#1901",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2002,
+    "authors": [
+      "Kalervo Järvelin",
+      "Jaana Kekäläinen"
+    ],
+    "venue": "ACM Transactions on Information Systems (TOIS)",
+    "title": "Cumulated gain-based evaluation of ir techniques",
+    "raw_text": "Kalervo Järvelin*Jaana Kekäläinen#Cumulated gain-based evaluation of ir techniques#ACM Transactions on Information Systems (TOIS)#2002",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2022,
+    "authors": [
+      "Steven Jecmen",
+      "Hanrui Zhang",
+      "Ryan Liu",
+      "Fei Fang",
+      "Vincent Conitzer",
+      "Nihar B. Shah"
+    ],
+    "venue": "Autonomous Agents and Multi-Agent Systems",
+    "title": "Near-optimal reviewer splitting in two-phase paper reviewing and conference experiment design",
+    "raw_text": "Steven Jecmen*Hanrui Zhang*Ryan Liu*Fei Fang*Vincent Conitzer*Nihar B. Shah#Near-optimal reviewer splitting in two-phase paper reviewing and conference experiment design#Autonomous Agents and Multi-Agent Systems#2022",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 1959,
+    "authors": [
+      "John Kemeny"
+    ],
+    "venue": "Daedalus",
+    "title": "Mathematics without numbers",
+    "raw_text": "John Kemeny#Mathematics without numbers#Daedalus#1959",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 1945,
+    "authors": [
+      "M. G. Kendall"
+    ],
+    "venue": "Biometrika",
+    "title": "The treatment of ties in ranking problems",
+    "raw_text": "M. G. Kendall#The treatment of ties in ranking problems#Biometrika#1945",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2020,
+    "authors": [
+      "Wolfgang E. Kerzendorf",
+      "Ferdinando Patat",
+      "Dominic Bordelon",
+      "Glenn van de Ven",
+      "Tyler A. Pritchard"
+    ],
+    "venue": "Nature Astronomy",
+    "title": "Distributed peer review enhanced with natural language processing and machine learning",
+    "raw_text": "Wolfgang E. Kerzendorf*Ferdinando Patat*Dominic Bordelon*Glenn van de Ven*Tyler A. Pritchard#Distributed peer review enhanced with natural language processing and machine learning#Nature Astronomy#2020",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2016,
+    "authors": [
+      "Ashish Khetan",
+      "Sewoong Oh"
+    ],
+    "venue": "Journal of Machine Learning Research",
+    "title": "Data-driven rank breaking for efficient rank aggregation",
+    "raw_text": "Ashish Khetan*Sewoong Oh#Data-driven rank breaking for efficient rank aggregation#Journal of Machine Learning Research#2016",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2010,
+    "authors": [
+      "Ravi Kumar",
+      "Sergei Vassilvitskii"
+    ],
+    "venue": "Proceedings of the International Conference on World Wide Web (WWW)",
+    "title": "Generalized distances between rankings",
+    "raw_text": "Ravi Kumar*Sergei Vassilvitskii#Generalized distances between rankings#Proceedings of the International Conference on World Wide Web (WWW)#2010",
+    "type": "other"
+  },
+  {
+    "url": "https://arxiv.org/abs/2312.03121",
+    "cited_url": "https://arxiv.org/abs/2312.03121",
+    "arxiv_url": "https://arxiv.org/abs/2312.03121",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Marc Lanctot",
+      "Kate Larson",
+      "Yoram Bachrach",
+      "Luke Marris",
+      "Zun Li",
+      "Avishkar Bhoopchand",
+      "Thomas Anthony",
+      "Brian Tanner",
+      "Anna Koop"
+    ],
+    "venue": "arXiv preprint arXiv:2312.03121",
+    "title": "Evaluating agents using social choice theory",
+    "raw_text": "Marc Lanctot*Kate Larson*Yoram Bachrach*Luke Marris*Zun Li*Avishkar Bhoopchand*Thomas Anthony*Brian Tanner*Anna Koop#Evaluating agents using social choice theory#arXiv preprint arXiv:2312.03121#2025",
+    "type": "arxiv"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Marc Lanctot",
+      "Kate Larson",
+      "Michael Kaisers",
+      "Quentin Berthet",
+      "Ian Gemp",
+      "Manfred Diaz",
+      "Roberto-Rafael Maura-Rivero",
+      "Yoram Bachrach",
+      "Anna Koop",
+      "Doina Precup"
+    ],
+    "venue": "Autonomous Agents and Multi-Agent Systems",
+    "title": "Soft condorcet optimization for ranking of general agents",
+    "raw_text": "Marc Lanctot*Kate Larson*Michael Kaisers*Quentin Berthet*Ian Gemp*Manfred Diaz*Roberto-Rafael Maura-Rivero*Yoram Bachrach*Anna Koop*Doina Precup#Soft condorcet optimization for ranking of general agents#Autonomous Agents and Multi-Agent Systems#2025",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2012,
+    "authors": [
+      "Jean-François Laslier"
+    ],
+    "venue": "Springer Berlin Heidelberg",
+    "title": "And the Loser Is. . . Plurality Voting",
+    "raw_text": "Jean-François Laslier#And the Loser Is. . . Plurality Voting#Springer Berlin Heidelberg#2012",
+    "type": "other"
+  },
+  {
+    "url": "http://inverseprobability.com/2014/12/16/the-nips-experiment",
+    "cited_url": "http://inverseprobability.com/2014/12/16/the-nips-experiment",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2014,
+    "authors": [
+      "Neil Lawrence",
+      "Corinna Cortes"
+    ],
+    "venue": "Online",
+    "title": "The NIPS Experiment",
+    "raw_text": "Neil Lawrence*Corinna Cortes#The NIPS Experiment#Online#2014#http://inverseprobability.com/2014/12/16/the-nips-experiment",
+    "type": "non-arxiv"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2022,
+    "authors": [
+      "Yusha Liu",
+      "Yichong Xu",
+      "Nihar B. Shah",
+      "Aarti Singh"
+    ],
+    "venue": "ML Evaluation Standards Workshop at ICLR 2022",
+    "title": "Integrating rankings into quantized scores in peer review",
+    "raw_text": "Yusha Liu*Yichong Xu*Nihar B. Shah*Aarti Singh#Integrating rankings into quantized scores in peer review#ML Evaluation Standards Workshop at ICLR 2022#2022",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 1959,
+    "authors": [
+      "R. Duncan Luce"
+    ],
+    "venue": "Wiley",
+    "title": "Individual Choice Behavior: A Theoretical analysis",
+    "raw_text": "R. Duncan Luce#Individual Choice Behavior: A Theoretical analysis#Wiley#1959",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 1957,
+    "authors": [
+      "C. L. Mallows"
+    ],
+    "venue": "Biometrika",
+    "title": "Non-null ranking models. I",
+    "raw_text": "C. L. Mallows#Non-null ranking models. I#Biometrika#1957",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2013,
+    "authors": [
+      "Nicholas Mattei",
+      "Toby Walsh"
+    ],
+    "venue": "Algorithmic Decision Theory",
+    "title": "Preflib: A library for preferences",
+    "raw_text": "Nicholas Mattei*Toby Walsh#Preflib: A library for preferences#Algorithmic Decision Theory#2013",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2008,
+    "authors": [
+      "Tommi Meskanen",
+      "Hannu Nurmi"
+    ],
+    "venue": "Springer Berlin Heidelberg",
+    "title": "Closeness Counts in Social Choice",
+    "raw_text": "Tommi Meskanen*Hannu Nurmi#Closeness Counts in Social Choice#Springer Berlin Heidelberg#2008",
+    "type": "other"
+  },
+  {
+    "url": "https://arxiv.org/abs/2204.05390",
+    "cited_url": "https://arxiv.org/abs/2204.05390",
+    "arxiv_url": "https://arxiv.org/abs/2204.05390",
+    "doi": null,
+    "year": 2022,
+    "authors": [
+      "Jennifer Donovan Meyer",
+      "Andrea Corvillón",
+      "John M Carpenter",
+      "Adele L Plunkett",
+      "Robert Kurowski",
+      "Alex Chalevin",
+      "Jakob Bruenker",
+      "D-C Kim",
+      "Enrique Macías"
+    ],
+    "venue": "arXiv preprint arXiv:2204.05390",
+    "title": "Analysis of the ALMA cycle 8 distributed peer review process",
+    "raw_text": "Jennifer Donovan Meyer*Andrea Corvillón*John M Carpenter*Adele L Plunkett*Robert Kurowski*Alex Chalevin*Jakob Bruenker*D-C Kim*Enrique Macías#Analysis of the ALMA cycle 8 distributed peer review process#arXiv preprint arXiv:2204.05390#2022",
+    "type": "arxiv"
+  },
+  {
+    "url": "https://arxiv.org/abs/2310.16048",
+    "cited_url": "https://arxiv.org/abs/2310.16048",
+    "arxiv_url": "https://arxiv.org/abs/2310.16048",
+    "doi": null,
+    "year": 2023,
+    "authors": [
+      "Abhilash Mishra"
+    ],
+    "venue": "arXiv preprint arXiv:2310.16048",
+    "title": "AI alignment and social choice: Fundamental limitations and policy implications",
+    "raw_text": "Abhilash Mishra#AI alignment and social choice: Fundamental limitations and policy implications#arXiv preprint arXiv:2310.16048#2023",
+    "type": "arxiv"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2000,
+    "authors": [
+      "Oscar Nierstrasz"
+    ],
+    "venue": "Pattern Languages of Program Design 4",
+    "title": "Identify the champion",
+    "raw_text": "Oscar Nierstrasz#Identify the champion#Pattern Languages of Program Design 4#2000",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2007,
+    "authors": [
+      "Michael Obrecht",
+      "Karl Tibelius",
+      "Guy D'Aloisio"
+    ],
+    "venue": "Research Evaluation",
+    "title": "Examining the value added by committee discussion in the review of applications for research awards",
+    "raw_text": "Michael Obrecht*Karl Tibelius*Guy D'Aloisio#Examining the value added by committee discussion in the review of applications for research awards#Research Evaluation#2007",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2019,
+    "authors": [
+      "Adam Paszke",
+      "Sam Gross",
+      "Francisco Massa",
+      "Adam Lerer",
+      "James Bradbury",
+      "Gregory Chanan",
+      "Trevor Killeen",
+      "Zeming Lin",
+      "Natalia Gimelshein",
+      "Luca Antiga",
+      "et al"
+    ],
+    "venue": "Advances in neural information processing systems",
+    "title": "Pytorch: An imperative style, high-performance deep learning library",
+    "raw_text": "Adam Paszke*Sam Gross*Francisco Massa*Adam Lerer*James Bradbury*Gregory Chanan*Trevor Killeen*Zeming Lin*Natalia Gimelshein*Luca Antiga*et al.#Pytorch: An imperative style, high-performance deep learning library#Advances in neural information processing systems#2019",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2019,
+    "authors": [
+      "F. Patat",
+      "W. Kerzendorf",
+      "D. Bordelon",
+      "G. Van de Ven",
+      "T. Pritchard"
+    ],
+    "venue": "The Messenger",
+    "title": "The Distributed Peer Review Experiment",
+    "raw_text": "F. Patat*W. Kerzendorf*D. Bordelon*G. Van de Ven*T. Pritchard#The Distributed Peer Review Experiment#The Messenger#2019",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2017,
+    "authors": [
+      "Elizabeth L. Pier",
+      "Joshua Raclaw",
+      "Anna Kaatz",
+      "Markus Brauer",
+      "Molly L Carnes",
+      "Mitchell J. Nathan",
+      "Cecilia E. Ford"
+    ],
+    "venue": "Research Evaluation",
+    "title": "your comments are meaner than your score': score calibration talk influences intraand inter-panel variability during scientific grant peer review",
+    "raw_text": "Elizabeth L. Pier*Joshua Raclaw*Anna Kaatz*Markus Brauer*Molly L Carnes*Mitchell J. Nathan*Cecilia E. Ford#'your comments are meaner than your score': score calibration talk influences intra- and inter-panel variability during scientific grant peer review#Research Evaluation#2017",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 1975,
+    "authors": [
+      "R. L. Plackett"
+    ],
+    "venue": "Journal of the Royal Statistical Society. Series C (Applied Statistics)",
+    "title": "The analysis of permutations",
+    "raw_text": "R. L. Plackett#The analysis of permutations#Journal of the Royal Statistical Society. Series C (Applied Statistics)#1975",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 1976,
+    "authors": [
+      "Charles R. Plott"
+    ],
+    "venue": "American Journal of Political Science",
+    "title": "Axiomatic social choice theory: An overview and interpretation",
+    "raw_text": "Charles R. Plott#Axiomatic social choice theory: An overview and interpretation#American Journal of Political Science#1976",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2009,
+    "authors": [
+      "Ariel D. Procaccia",
+      "Aviv Zohar",
+      "Yoni Peleg",
+      "Jeffrey S. Rosenschein"
+    ],
+    "venue": "Artificial Intelligence",
+    "title": "The learnability of voting rules",
+    "raw_text": "Ariel D. Procaccia*Aviv Zohar*Yoni Peleg*Jeffrey S. Rosenschein#The learnability of voting rules#Artificial Intelligence#2009",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 1949,
+    "authors": [
+      "C Radhakrishna Rao"
+    ],
+    "venue": "Mathematical Proceedings of the Cambridge Philosophical Society",
+    "title": "Sufficient statistics and minimum variance estimates",
+    "raw_text": "C Radhakrishna Rao#Sufficient statistics and minimum variance estimates#Mathematical Proceedings of the Cambridge Philosophical Society#1949",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 1994,
+    "authors": [
+      "D.G. Saari"
+    ],
+    "venue": "Springer Berlin Heidelberg",
+    "title": "Geometry of Voting",
+    "raw_text": "D.G. Saari#Geometry of Voting#Springer Berlin Heidelberg#1994",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 1975,
+    "authors": [
+      "Mark Satterthwaite"
+    ],
+    "venue": "Journal of Economic Theory",
+    "title": "Strategy-proofness and Arrow's conditions: existence and correspondence theorems for voting procedures and social welfare functions",
+    "raw_text": "Mark Satterthwaite#Strategy-proofness and Arrow's conditions: existence and correspondence theorems for voting procedures and social welfare functions#Journal of Economic Theory#1975",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2023,
+    "authors": [
+      "Marie Christin Schmidtlein",
+      "Ulle Endriss"
+    ],
+    "venue": "Autonomous Agents and Multi-Agent Systems",
+    "title": "Voting by axioms",
+    "raw_text": "Marie Christin Schmidtlein*Ulle Endriss#Voting by axioms#Autonomous Agents and Multi-Agent Systems#2023",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2003,
+    "authors": [
+      "Murat R. Sertel",
+      "Ayça E. G. Kara"
+    ],
+    "venue": "Springer Berlin Heidelberg",
+    "title": "Selecting a Social Choice Rule — An Exploratory Panel Study",
+    "raw_text": "Murat R. Sertel*Ayça E. G. Kara#Selecting a Social Choice Rule — An Exploratory Panel Study#Springer Berlin Heidelberg#2003",
+    "type": "other"
+  },
+  {
+    "url": "https://www.cs.cmu.edu/~nihars/preprints/SurveyPeerReview.pdf",
+    "cited_url": "https://www.cs.cmu.edu/~nihars/preprints/SurveyPeerReview.pdf",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2022,
+    "authors": [
+      "Nihar B. Shah"
+    ],
+    "venue": "Communications of the ACM",
+    "title": "An overview of challenges, experiments, and computational solutions in peer review",
+    "raw_text": "Nihar B. Shah#An overview of challenges, experiments, and computational solutions in peer review#Communications of the ACM#2022#https://www.cs.cmu.edu/~nihars/preprints/SurveyPeerReview.pdf",
+    "type": "non-arxiv"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2018,
+    "authors": [
+      "Nihar B Shah",
+      "Martin J Wainwright"
+    ],
+    "venue": "Journal of machine learning research",
+    "title": "Simple, robust and optimal ranking from pairwise comparisons",
+    "raw_text": "Nihar B Shah*Martin J Wainwright#Simple, robust and optimal ranking from pairwise comparisons#Journal of machine learning research#2018",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2017,
+    "authors": [
+      "Nihar B Shah",
+      "Sivaraman Balakrishnan",
+      "Adityanand Guntuboyina",
+      "Martin J Wainwright"
+    ],
+    "venue": "IEEE Transactions on Information Theory",
+    "title": "Stochastically transitive models for pairwise comparisons: Statistical and computational issues",
+    "raw_text": "Nihar B Shah*Sivaraman Balakrishnan*Adityanand Guntuboyina*Martin J Wainwright#Stochastically transitive models for pairwise comparisons: Statistical and computational issues#IEEE Transactions on Information Theory#2017",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 1927,
+    "authors": [
+      "Louis L Thurstone"
+    ],
+    "venue": "The Journal of Abnormal and Social Psychology",
+    "title": "The method of paired comparisons for social values",
+    "raw_text": "Louis L Thurstone#The method of paired comparisons for social values#The Journal of Abnormal and Social Psychology#1927",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2014,
+    "authors": [
+      "T. Nicolaus Tideman",
+      "Florenz Plassmann"
+    ],
+    "venue": "Public Choice",
+    "title": "Which voting rule is most likely to choose the \"best\" candidate?",
+    "raw_text": "T. Nicolaus Tideman*Florenz Plassmann#Which voting rule is most likely to choose the \"best\" candidate?#Public Choice#2014",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2003,
+    "authors": [
+      "Ilia Tsetlin",
+      "Michel Regenwetter",
+      "Bernard Grofman"
+    ],
+    "venue": "Social Choice and Welfare",
+    "title": "The impartial culture maximizes the probability of majority cycles",
+    "raw_text": "Ilia Tsetlin*Michel Regenwetter*Bernard Grofman#The impartial culture maximizes the probability of majority cycles#Social Choice and Welfare#2003",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2010,
+    "authors": [
+      "Ulrike von Luxburg"
+    ],
+    "venue": "Found. Trends Mach. Learn.",
+    "title": "Clustering stability: An overview",
+    "raw_text": "Ulrike von Luxburg#Clustering stability: An overview#Found. Trends Mach. Learn.#2010",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2020,
+    "authors": [
+      "Matthias Weber"
+    ],
+    "venue": "Journal of Economic Behavior & Organization",
+    "title": "Choosing the rules: Preferences over voting systems for assemblies of representatives",
+    "raw_text": "Matthias Weber#Choosing the rules: Preferences over voting systems for assemblies of representatives#Journal of Economic Behavior & Organization#2020",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2016,
+    "authors": [
+      "Lirong Xia"
+    ],
+    "venue": "Proceedings of the Conference on Uncertainty in Artificial Intelligence (UAI)",
+    "title": "Bayesian estimators as voting rules",
+    "raw_text": "Lirong Xia#Bayesian estimators as voting rules#Proceedings of the Conference on Uncertainty in Artificial Intelligence (UAI)#2016",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2011,
+    "authors": [
+      "Lirong Xia",
+      "Vincent Conitzer"
+    ],
+    "venue": "Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI)",
+    "title": "A maximum likelihood approach towards aggregating partial orders",
+    "raw_text": "Lirong Xia*Vincent Conitzer#A maximum likelihood approach towards aggregating partial orders#Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI)#2011",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2010,
+    "authors": [
+      "Lirong Xia",
+      "Vincent Conitzer",
+      "Jérôme Lang"
+    ],
+    "venue": "Autonomous Agents and Multi-Agent Systems",
+    "title": "Aggregating preferences in multi-issue domains by using maximum likelihood estimators",
+    "raw_text": "Lirong Xia*Vincent Conitzer*Jérôme Lang#Aggregating preferences in multi-issue domains by using maximum likelihood estimators#Autonomous Agents and Multi-Agent Systems#2010",
+    "type": "other"
+  },
+  {
+    "url": "https://arxiv.org/abs/2312.01057",
+    "cited_url": "https://arxiv.org/abs/2312.01057",
+    "arxiv_url": "https://arxiv.org/abs/2312.01057",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Wanqiao Xu",
+      "Shi Dong",
+      "Xiuyuan Lu",
+      "Grace Lam",
+      "Zheng Wen",
+      "Benjamin Van Roy"
+    ],
+    "venue": "arXiv preprint arXiv:2312.01057",
+    "title": "RLHF and IIA: Perverse incentives",
+    "raw_text": "Wanqiao Xu*Shi Dong*Xiuyuan Lu*Grace Lam*Zheng Wen*Benjamin Van Roy#RLHF and IIA: Perverse incentives#arXiv preprint arXiv:2312.01057#2024",
+    "type": "arxiv"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 1975,
+    "authors": [
+      "H. P. Young"
+    ],
+    "venue": "SIAM Journal on Applied Mathematics",
+    "title": "Social choice scoring functions",
+    "raw_text": "H. P. Young#Social choice scoring functions#SIAM Journal on Applied Mathematics#1975",
+    "type": "other"
+  },
+  {
+    "url": "https://arxiv.org/abs/1909.08593",
+    "cited_url": "https://arxiv.org/abs/1909.08593",
+    "arxiv_url": "https://arxiv.org/abs/1909.08593",
+    "doi": null,
+    "year": 2020,
+    "authors": [
+      "Daniel M. Ziegler",
+      "Nisan Stiennon",
+      "Jeffrey Wu",
+      "Tom B. Brown",
+      "Alec Radford",
+      "Dario Amodei",
+      "Paul Christiano",
+      "Geoffrey Irving"
+    ],
+    "venue": "arXiv preprint arXiv:1909.08593",
+    "title": "Fine-tuning language models from human preferences",
+    "raw_text": "Daniel M. Ziegler*Nisan Stiennon*Jeffrey Wu*Tom B. Brown*Alec Radford*Dario Amodei*Paul Christiano*Geoffrey Irving#Fine-tuning language models from human preferences#arXiv preprint arXiv:1909.08593#2020",
+    "type": "arxiv"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2000,
+    "authors": [
+      "Walter Zucchini"
+    ],
+    "venue": "Journal of Mathematical Psychology",
+    "title": "An introduction to model selection",
+    "raw_text": "Walter Zucchini#An introduction to model selection#Journal of Mathematical Psychology#2000",
+    "type": "other"
+  }
+]

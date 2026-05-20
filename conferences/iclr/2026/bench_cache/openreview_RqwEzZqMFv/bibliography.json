@@ -1,0 +1,1471 @@
+[
+  {
+    "url": "https://github.com/meta-llama/llama3/blob/main/MODEL_CARD.md",
+    "cited_url": "https://github.com/meta-llama/llama3/blob/main/MODEL_CARD.md",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "AI@Meta"
+    ],
+    "venue": "",
+    "title": "Llama 3 model card",
+    "raw_text": "AI@Meta#Llama 3 model card#2024#https://github.com/meta-llama/llama3/blob/main/MODEL_CARD.md",
+    "type": "non-arxiv"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "George Baker",
+      "Mario Sanz-Guerrero",
+      "Katharina von der Wense"
+    ],
+    "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+    "title": "Molecular string representation preferences in pretrained llms: A comparative study in zero-& few-shot molecular property prediction",
+    "raw_text": "George Baker*Mario Sanz-Guerrero*Katharina von der Wense#Molecular string representation preferences in pretrained llms: A comparative study in zero-& few-shot molecular property prediction#Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing#2025",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 1996,
+    "authors": [
+      "Guy W Bemis",
+      "Mark A Murcko"
+    ],
+    "venue": "Journal of Medicinal Chemistry",
+    "title": "The properties of known drugs. 1. molecular frameworks",
+    "raw_text": "Guy W Bemis*Mark A Murcko#The properties of known drugs. 1. molecular frameworks#Journal of Medicinal Chemistry#1996",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 1981,
+    "authors": [
+      "Steven H Bertz"
+    ],
+    "venue": "Journal of the American Chemical Society",
+    "title": "The first general index of molecular complexity",
+    "raw_text": "Steven H Bertz#The first general index of molecular complexity#Journal of the American Chemical Society#1981",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 1997,
+    "authors": [
+      "Andrei Z Broder"
+    ],
+    "venue": "Proceedings. Compression and Complexity of SEQUENCES 1997 (Cat. No. 97TB100171)",
+    "title": "On the resemblance and containment of documents",
+    "raw_text": "Andrei Z Broder#On the resemblance and containment of documents#Proceedings. Compression and Complexity of SEQUENCES 1997 (Cat. No. 97TB100171)#1997",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2020,
+    "authors": [
+      "Tom Brown",
+      "Benjamin Mann",
+      "Nick Ryder",
+      "Melanie Subbiah",
+      "Jared D. Kaplan",
+      "Prafulla Dhariwal",
+      "et al"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "title": "Language models are few-shot learners",
+    "raw_text": "Tom Brown*Benjamin Mann*Nick Ryder*Melanie Subbiah*Jared D. Kaplan*Prafulla Dhariwal*et al.#Language models are few-shot learners#Advances in Neural Information Processing Systems#2020",
+    "type": "other"
+  },
+  {
+    "url": "https://github.com/ByteDance-Seed/seed-oss",
+    "cited_url": "https://github.com/ByteDance-Seed/seed-oss",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "ByteDance Seed Team"
+    ],
+    "venue": "https://github.com/ByteDance-Seed/seed-oss",
+    "title": "Seed-OSS open-source models",
+    "raw_text": "ByteDance Seed Team#Seed-OSS open-source models#https://github.com/ByteDance-Seed/seed-oss#2025#https://github.com/ByteDance-Seed/seed-oss",
+    "type": "non-arxiv"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 1966,
+    "authors": [
+      "Robert S Cahn",
+      "Christopher Ingold",
+      "Vladimir Prelog"
+    ],
+    "venue": "Angewandte Chemie International Edition in English",
+    "title": "Specification of molecular chirality",
+    "raw_text": "Robert S Cahn*Christopher Ingold*Vladimir Prelog#Specification of molecular chirality#Angewandte Chemie International Edition in English#1966",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2021,
+    "authors": [
+      "Nicholas Carlini",
+      "Florian Tramer",
+      "Eric Wallace",
+      "Matthew Jagielski",
+      "Ariel Herbert-V oss",
+      "Katherine Lee",
+      "Adam Roberts",
+      "Tom Brown",
+      "Dawn Song",
+      "Ulfar Erlingsson",
+      "et al"
+    ],
+    "venue": "30th USENIX security symposium (USENIX Security 21)",
+    "title": "Extracting training data from large language models",
+    "raw_text": "Nicholas Carlini*Florian Tramer*Eric Wallace*Matthew Jagielski*Ariel Herbert-V oss*Katherine Lee*Adam Roberts*Tom Brown*Dawn Song*Ulfar Erlingsson*et al.#Extracting training data from large language models#30th USENIX security symposium (USENIX Security 21)#2021",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Nikhil Chandak",
+      "Shashwat Goel",
+      "Ameya Prabhu"
+    ],
+    "venue": "Notion Blog",
+    "title": "Incorrect Baseline Evaluations Call into Question Recent LLM-RL Claims",
+    "raw_text": "Nikhil Chandak*Shashwat Goel*Ameya Prabhu#Incorrect Baseline Evaluations Call into Question Recent LLM-RL Claims#Notion Blog#2025",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2008,
+    "authors": [
+      "Jorg Degen",
+      "Christof Wegscheid-Gerlach",
+      "Andrea Zaliani",
+      "Matthias Rarey"
+    ],
+    "venue": "ChemMedChem",
+    "title": "On the art of compiling and using’drug-like’chemical fragment spaces",
+    "raw_text": "Jorg Degen*Christof Wegscheid-Gerlach*Andrea Zaliani*Matthias Rarey#On the art of compiling and using’drug-like’chemical fragment spaces#ChemMedChem#2008",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2021,
+    "authors": [
+      "Carl Edwards",
+      "ChengXiang Zhai",
+      "Heng Ji"
+    ],
+    "venue": "Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing",
+    "title": "Text2Mol: Cross-modal molecule retrieval with natural language queries",
+    "raw_text": "Carl Edwards*ChengXiang Zhai*Heng Ji#Text2Mol: Cross-modal molecule retrieval with natural language queries#Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing#2021#10.18653/v1/2021.emnlp-main.47",
+    "type": "other"
+  },
+  {
+    "url": "https://arxiv.org/abs/2306.08018",
+    "cited_url": "https://arxiv.org/abs/2306.08018",
+    "arxiv_url": "https://arxiv.org/abs/2306.08018",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Yin Fang",
+      "Xiaozhuan Liang",
+      "Ningyu Zhang",
+      "Kangwei Liu",
+      "Rui Huang",
+      "Zhuo Chen",
+      "Xiaohui Fan",
+      "Huajun Chen"
+    ],
+    "venue": "arXiv:2306.08018 [q-bio]",
+    "title": "Mol-Instructions: A Large-Scale Biomolecular Instruction Dataset for Large Language Models",
+    "raw_text": "Yin Fang*Xiaozhuan Liang*Ningyu Zhang*Kangwei Liu*Rui Huang*Zhuo Chen*Xiaohui Fan*Huajun Chen#Mol-Instructions: A Large-Scale Biomolecular Instruction Dataset for Large Language Models#arXiv:2306.08018 [q-bio]#2024",
+    "type": "arxiv"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Nelson Fernandez",
+      "Air Liquide",
+      "Maxime Illouz",
+      "Luis Pinto",
+      "Entao Yang",
+      "Habiboulaye Amadou Boubacar"
+    ],
+    "venue": "Workshop: AI4Science-NeurIPS",
+    "title": "Mega: A large-scale molecular editing dataset for guided-action optimization",
+    "raw_text": "Nelson Fernandez*Air Liquide*Maxime Illouz*Luis Pinto*Entao Yang*Habiboulaye Amadou Boubacar#Mega: A large-scale molecular editing dataset for guided-action optimization#Workshop: AI4Science-NeurIPS#2025",
+    "type": "other"
+  },
+  {
+    "url": "https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard",
+    "cited_url": "https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Clémentine Fourrier",
+      "Nathan Habib",
+      "Alina Lozovskaya",
+      "Konrad Szafer",
+      "Thomas Wolf"
+    ],
+    "venue": "",
+    "title": "Open LLM Leaderboard v2",
+    "raw_text": "Clémentine Fourrier*Nathan Habib*Alina Lozovskaya*Konrad Szafer*Thomas Wolf#Open LLM Leaderboard v2#2024#https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard",
+    "type": "non-arxiv"
+  },
+  {
+    "url": "https://zenodo.org/records/12608602",
+    "cited_url": "https://zenodo.org/records/12608602",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Leo Gao",
+      "Jonathan Tow",
+      "Baber Abbasi",
+      "Stella Biderman",
+      "Sid Black",
+      "Anthony DiPofi",
+      "et al"
+    ],
+    "venue": "",
+    "title": "The Language Model Evaluation Harness",
+    "raw_text": "Leo Gao*Jonathan Tow*Baber Abbasi*Stella Biderman*Sid Black*Anthony DiPofi*et al.#The Language Model Evaluation Harness#2024#https://zenodo.org/records/12608602",
+    "type": "non-arxiv"
+  },
+  {
+    "url": "https://www.kaggle.com/m/3301",
+    "cited_url": "https://www.kaggle.com/m/3301",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Gemma Team"
+    ],
+    "venue": "",
+    "title": "Gemma",
+    "raw_text": "Gemma Team#Gemma#2024#https://www.kaggle.com/m/3301",
+    "type": "non-arxiv"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Arnav Gudibande",
+      "Eric Wallace",
+      "Charlie Victor Snell",
+      "Xinyang Geng",
+      "Hao Liu",
+      "Pieter Abbeel",
+      "Sergey Levine",
+      "Dawn Song"
+    ],
+    "venue": "The Twelfth International Conference on Learning Representations",
+    "title": "The false promise of imitating proprietary language models",
+    "raw_text": "Arnav Gudibande*Eric Wallace*Charlie Victor Snell*Xinyang Geng*Hao Liu*Pieter Abbeel*Sergey Levine*Dawn Song#The false promise of imitating proprietary language models#The Twelfth International Conference on Learning Representations#2024",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Daya Guo",
+      "Dejian Yang",
+      "Haowei Zhang",
+      "Junxiao Song",
+      "Peiyi Wang",
+      "Qihao Zhu",
+      "Runxin Xu",
+      "Ruoyu Zhang",
+      "Shirong Ma",
+      "Xiao Bi",
+      "et al"
+    ],
+    "venue": "Nature",
+    "title": "Deepseek-r1 incentivizes reasoning in llms through reinforcement learning",
+    "raw_text": "Daya Guo*Dejian Yang*Haowei Zhang*Junxiao Song*Peiyi Wang*Qihao Zhu*Runxin Xu*Ruoyu Zhang*Shirong Ma*Xiao Bi*et al.#Deepseek-r1 incentivizes reasoning in llms through reinforcement learning#Nature#2025#10.1038/s41586-025-09422-z",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Kehan Guo",
+      "Bozhao Nan",
+      "Yujun Zhou",
+      "Taicheng Guo",
+      "Zhichun Guo",
+      "Mihir Surve",
+      "Zhenwen Liang",
+      "Nitesh V . Chawla",
+      "Olaf Wiest",
+      "Xiangliang Zhang"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "title": "Can LLMs Solve Molecule Puzzles? A Multimodal Benchmark for Molecular Structure Elucidation",
+    "raw_text": "Kehan Guo*Bozhao Nan*Yujun Zhou*Taicheng Guo*Zhichun Guo*Mihir Surve*Zhenwen Liang*Nitesh V . Chawla*Olaf Wiest*Xiangliang Zhang#Can LLMs Solve Molecule Puzzles? A Multimodal Benchmark for Molecular Structure Elucidation#Advances in Neural Information Processing Systems#2024",
+    "type": "other"
+  },
+  {
+    "url": "https://arxiv.org/abs/2409.13989",
+    "cited_url": "https://arxiv.org/abs/2409.13989",
+    "arxiv_url": "https://arxiv.org/abs/2409.13989",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Y Huang",
+      "R Zhang",
+      "X He",
+      "X Zhi",
+      "H Wang",
+      "X Li",
+      "et al"
+    ],
+    "venue": "arXiv:2409.13989 [cs]",
+    "title": "ChemEval: A Comprehensive Multi-Level Chemical Evaluation for Large Language Models",
+    "raw_text": "Y Huang*R Zhang*X He*X Zhi*H Wang*X Li*et al.#ChemEval: A Comprehensive Multi-Level Chemical Evaluation for Large Language Models#arXiv:2409.13989 [cs]#2024",
+    "type": "arxiv"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 1931,
+    "authors": [
+      "Erich Hückel"
+    ],
+    "venue": "Zeitschrift für Physik",
+    "title": "Quanstentheoretische beiträge zum benzolproblem: Ii. quantentheorie der induzierten polaritäten",
+    "raw_text": "Erich Hückel#Quanstentheoretische beiträge zum benzolproblem: Ii. quantentheorie der induzierten polaritäten#Zeitschrift für Physik#1931",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 1998,
+    "authors": [
+      "Piotr Indyk",
+      "Rajeev Motwani"
+    ],
+    "venue": "Proceedings of the thirtieth annual ACM symposium on Theory of Computing",
+    "title": "Approximate nearest neighbors: towards removing the curse of dimensionality",
+    "raw_text": "Piotr Indyk*Rajeev Motwani#Approximate nearest neighbors: towards removing the curse of dimensionality#Proceedings of the thirtieth annual ACM symposium on Theory of Computing#1998",
+    "type": "other"
+  },
+  {
+    "url": "https://arxiv.org/abs/2310.06825",
+    "cited_url": "https://arxiv.org/abs/2310.06825",
+    "arxiv_url": "https://arxiv.org/abs/2310.06825",
+    "doi": null,
+    "year": 2023,
+    "authors": [
+      "Albert Q. Jiang",
+      "Alexandre Sablayrolles",
+      "Arthur Mensch",
+      "Chris Bamford",
+      "Devendra Singh Chaplot",
+      "Diego de las Casas",
+      "Florian Bressand",
+      "Gianna Lengyel",
+      "Guillaume Lample",
+      "Lucile Saulnier",
+      "Lélio Renard Lavaud",
+      "Marie-Anne Lachaux",
+      "Pierre Stock",
+      "Teven Le Scao",
+      "Thibaut Lavril",
+      "Thomas Wang",
+      "Timothée Lacroix",
+      "William El Sayed"
+    ],
+    "venue": "",
+    "title": "Mistral 7b",
+    "raw_text": "Albert Q. Jiang*Alexandre Sablayrolles*Arthur Mensch*Chris Bamford*Devendra Singh Chaplot*Diego de las Casas*Florian Bressand*Gianna Lengyel*Guillaume Lample*Lucile Saulnier*Lélio Renard Lavaud*Marie-Anne Lachaux*Pierre Stock*Teven Le Scao*Thibaut Lavril*Thomas Wang*Timothée Lacroix*William El Sayed#Mistral 7b#2023#https://arxiv.org/abs/2310.06825",
+    "type": "arxiv"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2023,
+    "authors": [
+      "Sunghwan Kim",
+      "Jie Chen",
+      "Tiejun Cheng",
+      "Asta Gindulyte",
+      "Jia He",
+      "Siqian He",
+      "et al"
+    ],
+    "venue": "Nucleic Acids Research",
+    "title": "Pubchem 2023 update",
+    "raw_text": "Sunghwan Kim*Jie Chen*Tiejun Cheng*Asta Gindulyte*Jia He*Siqian He*et al.#Pubchem 2023 update#Nucleic Acids Research#2023#10.1093/nar/gkac956",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2006,
+    "authors": [
+      "Greg Landrum",
+      "et al"
+    ],
+    "venue": "",
+    "title": "Rdkit: Open-source cheminformatics",
+    "raw_text": "Greg Landrum*et al.#Rdkit: Open-source cheminformatics#2006",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2020,
+    "authors": [
+      "Jure Leskovec",
+      "Anand Rajaraman",
+      "Jeffrey David Ullman"
+    ],
+    "venue": "Cambridge University Press",
+    "title": "Mining of massive data sets",
+    "raw_text": "Jure Leskovec*Anand Rajaraman*Jeffrey David Ullman#Mining of massive data sets#Cambridge University Press#2020",
+    "type": "other"
+  },
+  {
+    "url": "https://arxiv.org/abs/2505.21318",
+    "cited_url": "https://arxiv.org/abs/2505.21318",
+    "arxiv_url": "https://arxiv.org/abs/2505.21318",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Hao Li",
+      "He Cao",
+      "Bin Feng",
+      "Yanjun Shao",
+      "Xiangru Tang",
+      "Zhiyuan Yan",
+      "Li Yuan",
+      "Yonghong Tian",
+      "Yu Li"
+    ],
+    "venue": "arXiv preprint arXiv:2505.21318",
+    "title": "Beyond Chemical QA: Evaluating LLM’s Chemical Reasoning with Modular Chemical Operations",
+    "raw_text": "Hao Li*He Cao*Bin Feng*Yanjun Shao*Xiangru Tang*Zhiyuan Yan*Li Yuan*Yonghong Tian*Yu Li#Beyond Chemical QA: Evaluating LLM’s Chemical Reasoning with Modular Chemical Operations#arXiv preprint arXiv:2505.21318#2025",
+    "type": "arxiv"
+  },
+  {
+    "url": "https://arxiv.org/abs/2412.14642",
+    "cited_url": "https://arxiv.org/abs/2412.14642",
+    "arxiv_url": "https://arxiv.org/abs/2412.14642",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Jiatong Li",
+      "Junxian Li",
+      "Yunqing Liu",
+      "Dongzhan Zhou",
+      "Qing Li"
+    ],
+    "venue": "arXiv preprint arXiv:2412.14642",
+    "title": "Tomg-bench: Evaluating llms on text-based open molecule generation",
+    "raw_text": "Jiatong Li*Junxian Li*Yunqing Liu*Dongzhan Zhou*Qing Li#Tomg-bench: Evaluating llms on text-based open molecule generation#arXiv preprint arXiv:2412.14642#2024a",
+    "type": "arxiv"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Jiatong Li",
+      "Yunqing Liu",
+      "Wenqi Fan",
+      "Xiao-Yong Wei",
+      "Hui Liu",
+      "Jiliang Tang",
+      "et al"
+    ],
+    "venue": "IEEE Transactions on Knowledge and Data Engineering",
+    "title": "Empowering molecule discovery for molecule-caption translation with large language models: A ChatGPT perspective",
+    "raw_text": "Jiatong Li*Yunqing Liu*Wenqi Fan*Xiao-Yong Wei*Hui Liu*Jiliang Tang*et al.#Empowering molecule discovery for molecule-caption translation with large language models: A ChatGPT perspective#IEEE Transactions on Knowledge and Data Engineering#2024b",
+    "type": "other"
+  },
+  {
+    "url": "https://arxiv.org/abs/2508.01055",
+    "cited_url": "https://arxiv.org/abs/2508.01055",
+    "arxiv_url": "https://arxiv.org/abs/2508.01055",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Xuan Liu",
+      "Siru Ouyang",
+      "Xianrui Zhong",
+      "Jiawei Han",
+      "Huimin Zhao"
+    ],
+    "venue": "arXiv preprint arXiv:2508.01055",
+    "title": "Fgbench: A dataset and benchmark for molecular property reasoning at functional group-level in large language models",
+    "raw_text": "Xuan Liu*Siru Ouyang*Xianrui Zhong*Jiawei Han*Huimin Zhao#Fgbench: A dataset and benchmark for molecular property reasoning at functional group-level in large language models#arXiv preprint arXiv:2508.01055#2025",
+    "type": "arxiv"
+  },
+  {
+    "url": "https://arxiv.org/abs/2406.12950",
+    "cited_url": "https://arxiv.org/abs/2406.12950",
+    "arxiv_url": "https://arxiv.org/abs/2406.12950",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Yuyan Liu",
+      "Sirui Ding",
+      "Sheng Zhou",
+      "Wenqi Fan",
+      "Qiaoyu Tan"
+    ],
+    "venue": "arXiv preprint arXiv:2406.12950",
+    "title": "MolecularGPT: Open Large Language Model (LLM) for Few-Shot Molecular Property Prediction",
+    "raw_text": "Yuyan Liu*Sirui Ding*Sheng Zhou*Wenqi Fan*Qiaoyu Tan#MolecularGPT: Open Large Language Model (LLM) for Few-Shot Molecular Property Prediction#arXiv preprint arXiv:2406.12950#2024",
+    "type": "arxiv"
+  },
+  {
+    "url": "https://arxiv.org/abs/2305.10688",
+    "cited_url": "https://arxiv.org/abs/2305.10688",
+    "arxiv_url": "https://arxiv.org/abs/2305.10688",
+    "doi": null,
+    "year": 2023,
+    "authors": [
+      "Zequn Liu",
+      "Wei Zhang",
+      "Yingce Xia",
+      "Lijun Wu",
+      "Shufang Xie",
+      "Tao Qin",
+      "Ming Zhang",
+      "Tie-Yan Liu"
+    ],
+    "venue": "arXiv preprint arXiv:2305.10688",
+    "title": "Molxpt: Wrapping molecules with text for generative pre-training",
+    "raw_text": "Zequn Liu*Wei Zhang*Yingce Xia*Lijun Wu*Shufang Xie*Tao Qin*Ming Zhang*Tie-Yan Liu#Molxpt: Wrapping molecules with text for generative pre-training#arXiv preprint arXiv:2305.10688#2023a",
+    "type": "arxiv"
+  },
+  {
+    "url": "https://arxiv.org/abs/2310.12798",
+    "cited_url": "https://arxiv.org/abs/2310.12798",
+    "arxiv_url": "https://arxiv.org/abs/2310.12798",
+    "doi": null,
+    "year": 2023,
+    "authors": [
+      "Zhiyuan Liu",
+      "Sihang Li",
+      "Yanchen Luo",
+      "Hao Fei",
+      "Yixin Cao",
+      "Kenji Kawaguchi",
+      "Xiang Wang",
+      "Tat-Seng Chua"
+    ],
+    "venue": "arXiv preprint arXiv:2310.12798",
+    "title": "Molca: Molecular graph-language modeling with cross-modal projector and unimodal adapter",
+    "raw_text": "Zhiyuan Liu*Sihang Li*Yanchen Luo*Hao Fei*Yixin Cao*Kenji Kawaguchi*Xiang Wang*Tat-Seng Chua#Molca: Molecular graph-language modeling with cross-modal projector and unimodal adapter#arXiv preprint arXiv:2310.12798#2023b",
+    "type": "arxiv"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2017,
+    "authors": [
+      "Daniel Lowe"
+    ],
+    "venue": "n.d.",
+    "title": "Chemical reactions from us patents",
+    "raw_text": "Daniel Lowe#Chemical reactions from us patents#n.d.#2017",
+    "type": "other"
+  },
+  {
+    "url": "https://arxiv.org/abs/2408.06292",
+    "cited_url": "https://arxiv.org/abs/2408.06292",
+    "arxiv_url": "https://arxiv.org/abs/2408.06292",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Chris Lu",
+      "Cong Lu",
+      "Robert Tjarko Lange",
+      "Jakob Foerster",
+      "Jeff Clune",
+      "David Ha"
+    ],
+    "venue": "arXiv preprint arXiv:2408.06292",
+    "title": "The AI scientist: Towards fully automated open-ended scientific discovery",
+    "raw_text": "Chris Lu*Cong Lu*Robert Tjarko Lange*Jakob Foerster*Jeff Clune*David Ha#The AI scientist: Towards fully automated open-ended scientific discovery#arXiv preprint arXiv:2408.06292#2024a",
+    "type": "arxiv"
+  },
+  {
+    "url": "https://arxiv.org/abs/2403.08192",
+    "cited_url": "https://arxiv.org/abs/2403.08192",
+    "arxiv_url": "https://arxiv.org/abs/2403.08192",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Xingyu Lu",
+      "He Cao",
+      "Zijing Liu",
+      "Shengyuan Bai",
+      "Leqing Chen",
+      "Yuan Yao",
+      "Hai-Tao Zheng",
+      "Yu Li"
+    ],
+    "venue": "arXiv preprint arXiv:2403.08192",
+    "title": "MoleculeQA: A dataset to evaluate factual accuracy in molecular comprehension",
+    "raw_text": "Xingyu Lu*He Cao*Zijing Liu*Shengyuan Bai*Leqing Chen*Yuan Yao*Hai-Tao Zheng*Yu Li#MoleculeQA: A dataset to evaluate factual accuracy in molecular comprehension#arXiv preprint arXiv:2403.08192#2024b",
+    "type": "arxiv"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2020,
+    "authors": [
+      "Benjamin P MacLeod",
+      "Fraser GL Parlane",
+      "Thomas D Morrissey",
+      "Florian H ¨ase",
+      "Lo¨ıc M Roch",
+      "Kevan E Dettelbach",
+      "Raphaell Moreira",
+      "Lars PE Yunker",
+      "Michael B Rooney",
+      "Joseph R Deeth",
+      "et al"
+    ],
+    "venue": "Science Advances",
+    "title": "Self-driving laboratory for accelerated discovery of thin-film materials",
+    "raw_text": "Benjamin P MacLeod*Fraser GL Parlane*Thomas D Morrissey*Florian H ¨ase*Lo¨ıc M Roch*Kevan E Dettelbach*Raphaell Moreira*Lars PE Yunker*Michael B Rooney*Joseph R Deeth*et al.#Self-driving laboratory for accelerated discovery of thin-film materials#Science Advances#2020",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Adrian Mirza",
+      "Nawaf Alampara",
+      "Sreekanth Kunchapu",
+      "Benedict Emoekabu",
+      "Aswanth Krishnan",
+      "Mara Wilhelmi",
+      "Macjonathan Okereke",
+      "Juliane Eberhardt",
+      "Amir Mohammad Elahi",
+      "Maximilian Greiner",
+      "Caroline T. Holick",
+      "Tanya Gupta",
+      "Mehrdad Asgari",
+      "Christina Glaubitz",
+      "Lea C. Klepsch",
+      "Yannik K¨oster",
+      "Jakob Meyer",
+      "Santiago Miret",
+      "Tim Hoffmann",
+      "Fabian Alexander Kreth",
+      "Michael Ringleb",
+      "Nicole Roesner",
+      "Ulrich S. Schubert",
+      "Leanne M. Stafast",
+      "Dinga Wonanke",
+      "Michael Pieler",
+      "Philippe Schwaller",
+      "Kevin Maik Jablonka"
+    ],
+    "venue": "Nature Chemistry",
+    "title": "Are large language models superhuman chemists?",
+    "raw_text": "Adrian Mirza*Nawaf Alampara*Sreekanth Kunchapu*Benedict Emoekabu*Aswanth Krishnan*Mara Wilhelmi*Macjonathan Okereke*Juliane Eberhardt*Amir Mohammad Elahi*Maximilian Greiner*Caroline T. Holick*Tanya Gupta*Mehrdad Asgari*Christina Glaubitz*Lea C. Klepsch*Yannik K¨oster*Jakob Meyer*Santiago Miret*Tim Hoffmann*Fabian Alexander Kreth*Michael Ringleb*Nicole Roesner*Ulrich S. Schubert*Leanne M. Stafast*Dinga Wonanke*Michael Pieler*Philippe Schwaller*Kevin Maik Jablonka#Are large language models superhuman chemists?#Nature Chemistry#2025#10.1038/s41557-025-01865-1",
+    "type": "other"
+  },
+  {
+    "url": "https://huggingface.co/mistralai/Mistral-Small-24B-Instruct-2501",
+    "cited_url": "https://huggingface.co/mistralai/Mistral-Small-24B-Instruct-2501",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Mistral AI"
+    ],
+    "venue": "Hugging Face model repository",
+    "title": "Mistral-small-24b-instruct-2501",
+    "raw_text": "Mistral AI#Mistral-small-24b-instruct-2501#Hugging Face model repository#2025#https://huggingface.co/mistralai/Mistral-Small-24B-Instruct-2501",
+    "type": "non-arxiv"
+  },
+  {
+    "url": "https://arxiv.org/abs/2506.17238",
+    "cited_url": "https://arxiv.org/abs/2506.17238",
+    "arxiv_url": "https://arxiv.org/abs/2506.17238",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Siddharth M Narayanan",
+      "James D Braza",
+      "Ryan-Rhys Griffiths",
+      "Albert Bou",
+      "Geemi Wellawatte",
+      "Mayk Caldas Ramos",
+      "Ludovico Mitchener",
+      "Samuel G Rodriques",
+      "Andrew D White"
+    ],
+    "venue": "arXiv preprint arXiv:2506.17238",
+    "title": "Training a scientific reasoning model for chemistry",
+    "raw_text": "Siddharth M Narayanan*James D Braza*Ryan-Rhys Griffiths*Albert Bou*Geemi Wellawatte*Mayk Caldas Ramos*Ludovico Mitchener*Samuel G Rodriques*Andrew D White#Training a scientific reasoning model for chemistry#arXiv preprint arXiv:2506.17238#2025",
+    "type": "arxiv"
+  },
+  {
+    "url": "https://arxiv.org/abs/2508.14444",
+    "cited_url": "https://arxiv.org/abs/2508.14444",
+    "arxiv_url": "https://arxiv.org/abs/2508.14444",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "NVIDIA"
+    ],
+    "venue": "n.d.",
+    "title": "Nvidia nemotron nano 2: An accurate and efficient hybrid mamba-transformer reasoning model",
+    "raw_text": "NVIDIA#Nvidia nemotron nano 2: An accurate and efficient hybrid mamba-transformer reasoning model#n.d.#2025a#https://arxiv.org/abs/2508.14444",
+    "type": "arxiv"
+  },
+  {
+    "url": "https://huggingface.co/nvidia/Llama-3.3-70B-Instruct-FP8",
+    "cited_url": "https://huggingface.co/nvidia/Llama-3.3-70B-Instruct-FP8",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "NVIDIA"
+    ],
+    "venue": "Hugging Face model repository",
+    "title": "Nvidia llama 3.3 70b instruct fp8",
+    "raw_text": "NVIDIA#Nvidia llama 3.3 70b instruct fp8#Hugging Face model repository#2025b#https://huggingface.co/nvidia/Llama-3.3-70B-Instruct-FP8",
+    "type": "non-arxiv"
+  },
+  {
+    "url": "https://openai.com/index/introducing-gpt-oss/",
+    "cited_url": "https://openai.com/index/introducing-gpt-oss/",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "OpenAI"
+    ],
+    "venue": "Model documentation",
+    "title": "GPT-OSS: Open-Weight Model Release (GPT-OSS-20B, GPT-OSS-120B)",
+    "raw_text": "OpenAI#GPT-OSS: Open-Weight Model Release (GPT-OSS-20B, GPT-OSS-120B)#Model documentation#2025#https://openai.com/index/introducing-gpt-oss/",
+    "type": "non-arxiv"
+  },
+  {
+    "url": "https://qwenlm.github.io/blog/qwen2.5/",
+    "cited_url": "https://qwenlm.github.io/blog/qwen2.5/",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Qwen Team"
+    ],
+    "venue": "n.d.",
+    "title": "Qwen2.5: A party of foundation models",
+    "raw_text": "Qwen Team#Qwen2.5: A party of foundation models#n.d.#2024#https://qwenlm.github.io/blog/qwen2.5/",
+    "type": "non-arxiv"
+  },
+  {
+    "url": "https://arxiv.org/abs/2505.09388",
+    "cited_url": "https://arxiv.org/abs/2505.09388",
+    "arxiv_url": "https://arxiv.org/abs/2505.09388",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Qwen Team"
+    ],
+    "venue": "n.d.",
+    "title": "Qwen3 technical report",
+    "raw_text": "Qwen Team#Qwen3 technical report#n.d.#2025#https://arxiv.org/abs/2505.09388",
+    "type": "arxiv"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2019,
+    "authors": [
+      "Philipp Renz",
+      "Dries Van Rompaey",
+      "J¨org Kurt Wegner",
+      "Sepp Hochreiter",
+      "G¨unter Klambauer"
+    ],
+    "venue": "Drug Discovery Today: Technologies",
+    "title": "On failure modes in molecule generation and optimization",
+    "raw_text": "Philipp Renz*Dries Van Rompaey*J¨org Kurt Wegner*Sepp Hochreiter*G¨unter Klambauer#On failure modes in molecule generation and optimization#Drug Discovery Today: Technologies#2019",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2010,
+    "authors": [
+      "David Rogers",
+      "Mathew Hahn"
+    ],
+    "venue": "Journal of Chemical Information and Modeling",
+    "title": "Extended-connectivity fingerprints",
+    "raw_text": "David Rogers*Mathew Hahn#Extended-connectivity fingerprints#Journal of Chemical Information and Modeling#2010",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Nicholas T Runcie",
+      "Charlotte M Deane",
+      "Fergus Imrie"
+    ],
+    "venue": "Journal of Chemical Information and Modeling",
+    "title": "Assessing the chemical intelligence of large language models",
+    "raw_text": "Nicholas T Runcie*Charlotte M Deane*Fergus Imrie#Assessing the chemical intelligence of large language models#Journal of Chemical Information and Modeling#2025",
+    "type": "other"
+  },
+  {
+    "url": "https://arxiv.org/abs/2506.10947",
+    "cited_url": "https://arxiv.org/abs/2506.10947",
+    "arxiv_url": "https://arxiv.org/abs/2506.10947",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Rulin Shao",
+      "Shuyue Stella Li",
+      "Rui Xin",
+      "Scott Geng",
+      "Yiping Wang",
+      "Sewoong Oh",
+      "et al"
+    ],
+    "venue": "arXiv preprint arXiv:2506.10947",
+    "title": "Spurious rewards: Rethinking training signals in RLVR",
+    "raw_text": "Rulin Shao*Shuyue Stella Li*Rui Xin*Scott Geng*Yiping Wang*Sewoong Oh*et al.#Spurious rewards: Rethinking training signals in RLVR#arXiv preprint arXiv:2506.10947#2025",
+    "type": "arxiv"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2023,
+    "authors": [
+      "Aarohi Srivastava",
+      "Abhinav Rastogi",
+      "Abhishek Rao",
+      "Abu Awal Shoeb",
+      "Abubakar Abid",
+      "Adam Fisch",
+      "Adam R Brown",
+      "Adam Santoro",
+      "Aditya Gupta",
+      "Adri Garriga-Alonso",
+      "et al"
+    ],
+    "venue": "Transactions on Machine Learning Research",
+    "title": "Beyond the imitation game: Quantifying and extrapolating the capabilities of language models",
+    "raw_text": "Aarohi Srivastava*Abhinav Rastogi*Abhishek Rao*Abu Awal Shoeb*Abubakar Abid*Adam Fisch*Adam R Brown*Adam Santoro*Aditya Gupta*Adri Garriga-Alonso*et al.#Beyond the imitation game: Quantifying and extrapolating the capabilities of language models#Transactions on Machine Learning Research#2023",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Liangtai Sun",
+      "Yang Han",
+      "Zihan Zhao",
+      "Da Ma",
+      "Zhennan Shen",
+      "Baocai Chen",
+      "Lu Chen",
+      "Kai Yu"
+    ],
+    "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+    "title": "SciEval: A multi-level large language model evaluation benchmark for scientific research",
+    "raw_text": "Liangtai Sun*Yang Han*Zihan Zhao*Da Ma*Zhennan Shen*Baocai Chen*Lu Chen*Kai Yu#SciEval: A multi-level large language model evaluation benchmark for scientific research#Proceedings of the AAAI Conference on Artificial Intelligence#2024",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Xiangru Tang",
+      "Tianyu Hu",
+      "Muyang Ye",
+      "Yanjun Shao",
+      "Xunjian Yin",
+      "Siru Ouyang",
+      "et al"
+    ],
+    "venue": "The Thirteenth International Conference on Learning Representations",
+    "title": "Chemagent: Self-updating memories in large language models improves chemical reasoning",
+    "raw_text": "Xiangru Tang*Tianyu Hu*Muyang Ye*Yanjun Shao*Xunjian Yin*Siru Ouyang*et al.#Chemagent: Self-updating memories in large language models improves chemical reasoning#The Thirteenth International Conference on Learning Representations#2025",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Gary Tom",
+      "Stefan P Schmid",
+      "Sterling G Baird",
+      "Yang Cao",
+      "Kourosh Darvish",
+      "Han Hao",
+      "Stanley Lo",
+      "Sergio Pablo-Garc ´ıa",
+      "Ella M Rajaonson",
+      "Marta Skreta",
+      "et al"
+    ],
+    "venue": "Chemical Reviews",
+    "title": "Self-driving laboratories for chemistry and materials science",
+    "raw_text": "Gary Tom*Stefan P Schmid*Sterling G Baird*Yang Cao*Kourosh Darvish*Han Hao*Stanley Lo*Sergio Pablo-Garc ´ıa*Ella M Rajaonson*Marta Skreta*et al.#Self-driving laboratories for chemistry and materials science#Chemical Reviews#2024",
+    "type": "other"
+  },
+  {
+    "url": "https://arxiv.org/abs/2307.09288",
+    "cited_url": "https://arxiv.org/abs/2307.09288",
+    "arxiv_url": "https://arxiv.org/abs/2307.09288",
+    "doi": null,
+    "year": 2023,
+    "authors": [
+      "Hugo Touvron",
+      "Louis Martin",
+      "Kevin Stone",
+      "Peter Albert",
+      "Amjad Almahairi",
+      "Yasmine Babaei",
+      "Nikolay Bashlykov",
+      "Soumya Batra",
+      "Prajjwal Bhargava",
+      "Shruti Bhosale",
+      "et al"
+    ],
+    "venue": "arXiv preprint arXiv:2307.09288",
+    "title": "Llama 2: Open foundation and fine-tuned chat models",
+    "raw_text": "Hugo Touvron*Louis Martin*Kevin Stone*Peter Albert*Amjad Almahairi*Yasmine Babaei*Nikolay Bashlykov*Soumya Batra*Prajjwal Bhargava*Shruti Bhosale*et al.#Llama 2: Open foundation and fine-tuned chat models#arXiv preprint arXiv:2307.09288#2023",
+    "type": "arxiv"
+  },
+  {
+    "url": "https://arxiv.org/abs/2504.06196",
+    "cited_url": "https://arxiv.org/abs/2504.06196",
+    "arxiv_url": "https://arxiv.org/abs/2504.06196",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Eric Wang",
+      "Samuel Schmidgall",
+      "Paul F Jaeger",
+      "Fan Zhang",
+      "Rory Pilgrim",
+      "Yossi Matias",
+      "Joelle Barral",
+      "David Fleet",
+      "Shekoofeh Azizi"
+    ],
+    "venue": "arXiv preprint arXiv:2504.06196",
+    "title": "Txgemma: Efficient and agentic llms for therapeutics",
+    "raw_text": "Eric Wang*Samuel Schmidgall*Paul F Jaeger*Fan Zhang*Rory Pilgrim*Yossi Matias*Joelle Barral*David Fleet*Shekoofeh Azizi#Txgemma: Efficient and agentic llms for therapeutics#arXiv preprint arXiv:2504.06196#2025a",
+    "type": "arxiv"
+  },
+  {
+    "url": "https://cdn.openai.com/pdf/2fcd284c-b468-4c21-8ee0-7a783933efcc/frontierscience-paper.pdf",
+    "cited_url": "https://cdn.openai.com/pdf/2fcd284c-b468-4c21-8ee0-7a783933efcc/frontierscience-paper.pdf",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Miles Wang",
+      "Robi Lin",
+      "Kat Hu",
+      "Joy Jiao",
+      "Neil Chowdhury",
+      "Ethan Chang",
+      "Tejal Patwardhan"
+    ],
+    "venue": "Technical Report",
+    "title": "Frontierscience: Evaluating ai’s ability to perform expert-level scientific tasks",
+    "raw_text": "Miles Wang*Robi Lin*Kat Hu*Joy Jiao*Neil Chowdhury*Ethan Chang*Tejal Patwardhan#Frontierscience: Evaluating ai’s ability to perform expert-level scientific tasks#Technical Report#2025b#https://cdn.openai.com/pdf/2fcd284c-b468-4c21-8ee0-7a783933efcc/frontierscience-paper.pdf",
+    "type": "non-arxiv"
+  },
+  {
+    "url": "https://arxiv.org/abs/2307.10635",
+    "cited_url": "https://arxiv.org/abs/2307.10635",
+    "arxiv_url": "https://arxiv.org/abs/2307.10635",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Xiaoxuan Wang",
+      "Ziniu Hu",
+      "Pan Lu",
+      "Yanqiao Zhu",
+      "Jieyu Zhang",
+      "Satyen Subramaniam",
+      "Arjun R. Loomba",
+      "Shichang Zhang",
+      "Yizhou Sun",
+      "Wei Wang"
+    ],
+    "venue": "arXiv preprint arXiv:2307.10635",
+    "title": "SciBench: Evaluating College-Level Scientific Problem-Solving Abilities of Large Language Models",
+    "raw_text": "Xiaoxuan Wang*Ziniu Hu*Pan Lu*Yanqiao Zhu*Jieyu Zhang*Satyen Subramaniam*Arjun R. Loomba*Shichang Zhang*Yizhou Sun*Wei Wang#SciBench: Evaluating College-Level Scientific Problem-Solving Abilities of Large Language Models#arXiv preprint arXiv:2307.10635#2024a",
+    "type": "arxiv"
+  },
+  {
+    "url": "https://arxiv.org/abs/2504.06196",
+    "cited_url": "https://arxiv.org/abs/2504.06196",
+    "arxiv_url": "https://arxiv.org/abs/2504.06196",
+    "doi": null,
+    "year": 2025,
+    "authors": [],
+    "venue": "arXiv preprint arXiv:2504.06196",
+    "title": "Txgemma: Efficient and agentic llms for therapeutics",
+    "raw_text": "#Txgemma: Efficient and agentic llms for therapeutics#arXiv preprint arXiv:2504.06196#2025a# Miles Wang*Robi Lin*Kat Hu*Joy Jiao*Neil Chowdhury*Ethan Chang*Tejal Patwardhan#Frontierscience: Evaluating ai’s ability to perform expert-level scientific tasks#Technical Report#2025b#https://cdn.openai.com/pdf/2fcd284c-b468-4c21-8ee0-7a783933efcc/frontierscience-paper.pdf",
+    "type": "arxiv"
+  },
+  {
+    "url": "https://arxiv.org/abs/2203.11171",
+    "cited_url": "https://arxiv.org/abs/2203.11171",
+    "arxiv_url": "https://arxiv.org/abs/2203.11171",
+    "doi": null,
+    "year": 2022,
+    "authors": [
+      "Xuezhi Wang",
+      "Jason Wei",
+      "Dale Schuurmans",
+      "Quoc Le",
+      "Ed Chi",
+      "Sharan Narang",
+      "Aakanksha Chowdhery",
+      "Denny Zhou"
+    ],
+    "venue": "arXiv preprint arXiv:2203.11171",
+    "title": "Self-consistency improves chain of thought reasoning in language models",
+    "raw_text": "Xuezhi Wang*Jason Wei*Dale Schuurmans*Quoc Le*Ed Chi*Sharan Narang*Aakanksha Chowdhery*Denny Zhou#Self-consistency improves chain of thought reasoning in language models#arXiv preprint arXiv:2203.11171#2022#",
+    "type": "arxiv"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Yubo Wang",
+      "Xueguang Ma",
+      "Ge Zhang",
+      "Yuansheng Ni",
+      "Abhranil Chandra",
+      "Shiguang Guo",
+      "Weiming Ren",
+      "Aaran Arulraj",
+      "Xuan He",
+      "Ziyan Jiang",
+      "et al"
+    ],
+    "venue": "Advances in Neural Information Processing Systems",
+    "title": "Mmlu-pro: A more robust and challenging multi-task language understanding benchmark",
+    "raw_text": "Yubo Wang*Xueguang Ma*Ge Zhang*Yuansheng Ni*Abhranil Chandra*Shiguang Guo*Weiming Ren*Aaran Arulraj*Xuan He*Ziyan Jiang*et al.#Mmlu-pro: A more robust and challenging multi-task language understanding benchmark#Advances in Neural Information Processing Systems#2024b#",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 1988,
+    "authors": [
+      "David Weininger"
+    ],
+    "venue": "Journal of Chemical Information and Computer Sciences",
+    "title": "SMILES, a chemical language and information system. 1. introduction to methodology and encoding rules",
+    "raw_text": "David Weininger#SMILES, a chemical language and information system. 1. introduction to methodology and encoding rules#Journal of Chemical Information and Computer Sciences#1988#10.1021/ci00057a005",
+    "type": "other"
+  },
+  {
+    "url": "https://arxiv.org/abs/2406.19314",
+    "cited_url": "https://arxiv.org/abs/2406.19314",
+    "arxiv_url": "https://arxiv.org/abs/2406.19314",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Colin White",
+      "Samuel Dooley",
+      "Manley Roberts",
+      "Arka Pal",
+      "Ben Feuer",
+      "Siddhartha Jain",
+      "Ravid Shwartz-Ziv",
+      "Neel Jain",
+      "Khalid Saifullah",
+      "Sreemanti Dey",
+      "et al"
+    ],
+    "venue": "arXiv preprint arXiv:2406.19314",
+    "title": "LiveBench: A Challenging, Contamination-Limited LLM Benchmark",
+    "raw_text": "Colin White*Samuel Dooley*Manley Roberts*Arka Pal*Ben Feuer*Siddhartha Jain*Ravid Shwartz-Ziv*Neel Jain*Khalid Saifullah*Sreemanti Dey*et al.#LiveBench: A Challenging, Contamination-Limited LLM Benchmark#arXiv preprint arXiv:2406.19314#2025#",
+    "type": "arxiv"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Yuyang Wu",
+      "Jinhui Ye",
+      "Shuhao Zhang",
+      "Lu Dai",
+      "Yonatan Bisk",
+      "Olexandr Isayev"
+    ],
+    "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+    "title": "Molerr2fix: Benchmarking llm trustworthiness in chemistry via modular error detection, localization, explanation, and correction",
+    "raw_text": "Yuyang Wu*Jinhui Ye*Shuhao Zhang*Lu Dai*Yonatan Bisk*Olexandr Isayev#Molerr2fix: Benchmarking llm trustworthiness in chemistry via modular error detection, localization, explanation, and correction#Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing#2025#",
+    "type": "other"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2018,
+    "authors": [
+      "Zhenqin Wu",
+      "Bharath Ramsundar",
+      "Evan N Feinberg",
+      "Joseph Gomes",
+      "Caleb Geniesse",
+      "Aneesh S Pappu",
+      "et al"
+    ],
+    "venue": "Chemical Science",
+    "title": "Moleculenet: a benchmark for molecular machine learning",
+    "raw_text": "Zhenqin Wu*Bharath Ramsundar*Evan N Feinberg*Joseph Gomes*Caleb Geniesse*Aneesh S Pappu*et al.#Moleculenet: a benchmark for molecular machine learning#Chemical Science#2018#",
+    "type": "other"
+  },
+  {
+    "url": "https://arxiv.org/abs/2504.08066",
+    "cited_url": "https://arxiv.org/abs/2504.08066",
+    "arxiv_url": "https://arxiv.org/abs/2504.08066",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Yutaro Yamada",
+      "Robert Tjarko Lange",
+      "Cong Lu",
+      "Shengran Hu",
+      "Chris Lu",
+      "Jakob Foerster",
+      "Jeff Clune",
+      "David Ha"
+    ],
+    "venue": "arXiv preprint arXiv:2504.08066",
+    "title": "The AI scientist-v2: Workshop-level automated scientific discovery via agentic tree search",
+    "raw_text": "Yutaro Yamada*Robert Tjarko Lange*Cong Lu*Shengran Hu*Chris Lu*Jakob Foerster*Jeff Clune*David Ha#The AI scientist-v2: Workshop-level automated scientific discovery via agentic tree search#arXiv preprint arXiv:2504.08066#2025#",
+    "type": "arxiv"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Geyan Ye",
+      "Xibao Cai",
+      "Houtim Lai",
+      "Xing Wang",
+      "Junhong Huang",
+      "Longyue Wang",
+      "et al"
+    ],
+    "venue": "Briefings in Bioinformatics",
+    "title": "Drugassist: A large language model for molecule optimization",
+    "raw_text": "Geyan Ye*Xibao Cai*Houtim Lai*Xing Wang*Junhong Huang*Longyue Wang*et al.#Drugassist: A large language model for molecule optimization#Briefings in Bioinformatics#2025#",
+    "type": "other"
+  },
+  {
+    "url": "https://arxiv.org/abs/2402.09391",
+    "cited_url": "https://arxiv.org/abs/2402.09391",
+    "arxiv_url": "https://arxiv.org/abs/2402.09391",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Botao Yu",
+      "Frazier N. Baker",
+      "Ziqi Chen",
+      "Xia Ning",
+      "Huan Sun"
+    ],
+    "venue": "arXiv:2402.09391 [cs]",
+    "title": "LlaSMol: Advancing Large Language Models for Chemistry with a Large-Scale, Comprehensive, High-Quality Instruction Tuning Dataset",
+    "raw_text": "Botao Yu*Frazier N. Baker*Ziqi Chen*Xia Ning*Huan Sun#LlaSMol: Advancing Large Language Models for Chemistry with a Large-Scale, Comprehensive, High-Quality Instruction Tuning Dataset#arXiv:2402.09391 [cs]#2024#",
+    "type": "arxiv"
+  },
+  {
+    "url": "https://z.ai/blog/glm-4.6",
+    "cited_url": "https://z.ai/blog/glm-4.6",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Z.ai"
+    ],
+    "venue": "Blog post",
+    "title": "Glm-4.6: Advanced agentic, reasoning and coding capabilies",
+    "raw_text": "Z.ai#Glm-4.6: Advanced agentic, reasoning and coding capabilies#Blog post#2025#https://z.ai/blog/glm-4.6",
+    "type": "non-arxiv"
+  },
+  {
+    "url": "https://arxiv.org/abs/2508.06471",
+    "cited_url": "https://arxiv.org/abs/2508.06471",
+    "arxiv_url": "https://arxiv.org/abs/2508.06471",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Aohan Zeng",
+      "Xin Lv",
+      "Qinkai Zheng",
+      "Zhenyu Hou",
+      "Bin Chen",
+      "Chengxing Xie",
+      "Cunxiang Wang",
+      "Da Yin",
+      "Hao Zeng",
+      "Jiajie Zhang",
+      "et al"
+    ],
+    "venue": "arXiv preprint arXiv:2508.06471",
+    "title": "Glm-4.5: Agentic, reasoning, and coding (arc) foundation models",
+    "raw_text": "Aohan Zeng*Xin Lv*Qinkai Zheng*Zhenyu Hou*Bin Chen*Chengxing Xie*Cunxiang Wang*Da Yin*Hao Zeng*Jiajie Zhang*et al.#Glm-4.5: Agentic, reasoning, and coding (arc) foundation models#arXiv preprint arXiv:2508.06471#2025#",
+    "type": "arxiv"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Zheni Zeng",
+      "Bangchen Yin",
+      "Shipeng Wang",
+      "Jiarui Liu",
+      "Cheng Yang",
+      "Haishen Yao",
+      "et al"
+    ],
+    "venue": "Bioinformatics",
+    "title": "ChatMol: interactive molecular discovery with natural language",
+    "raw_text": "Zheni Zeng*Bangchen Yin*Shipeng Wang*Jiarui Liu*Cheng Yang*Haishen Yao*et al.#ChatMol: interactive molecular discovery with natural language#Bioinformatics#2024#",
+    "type": "other"
+  },
+  {
+    "url": "https://arxiv.org/abs/2402.06852",
+    "cited_url": "https://arxiv.org/abs/2402.06852",
+    "arxiv_url": "https://arxiv.org/abs/2402.06852",
+    "doi": null,
+    "year": 2024,
+    "authors": [
+      "Di Zhang",
+      "Wei Liu",
+      "Qian Tan",
+      "Jingdan Chen",
+      "Hang Yan",
+      "Yuliang Yan",
+      "Jiatong Li",
+      "Weiran Huang",
+      "Xiangyu Yue",
+      "Wanli Ouyang",
+      "Dongzhan Zhou",
+      "Shufei Zhang",
+      "Mao Su",
+      "Han-Sen Zhong",
+      "Yuqiang Li"
+    ],
+    "venue": "arXiv:2402.06852 [cs]",
+    "title": "ChemLLM: A Chemical Large Language Model",
+    "raw_text": "Di Zhang*Wei Liu*Qian Tan*Jingdan Chen*Hang Yan*Yuliang Yan*Jiatong Li*Weiran Huang*Xiangyu Yue*Wanli Ouyang*Dongzhan Zhou*Shufei Zhang*Mao Su*Han-Sen Zhong*Yuqiang Li#ChemLLM: A Chemical Large Language Model#arXiv:2402.06852 [cs]#2024#",
+    "type": "arxiv"
+  },
+  {
+    "url": "https://arxiv.org/abs/2508.02066",
+    "cited_url": "https://arxiv.org/abs/2508.02066",
+    "arxiv_url": "https://arxiv.org/abs/2508.02066",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Guojiang Zhao",
+      "Sihang Li",
+      "Zixiang Lu",
+      "Zheng Cheng",
+      "Haitao Lin",
+      "Lirong Wu",
+      "Hanchen Xia",
+      "Hengxing Cai",
+      "Wentao Guo",
+      "Hongshuai Wang",
+      "et al"
+    ],
+    "venue": "arXiv preprint arXiv:2508.02066",
+    "title": "Molreasoner: Toward effective and interpretable reasoning for molecular llms",
+    "raw_text": "Guojiang Zhao*Sihang Li*Zixiang Lu*Zheng Cheng*Haitao Lin*Lirong Wu*Hanchen Xia*Hengxing Cai*Wentao Guo*Hongshuai Wang*et al.#Molreasoner: Toward effective and interpretable reasoning for molecular llms#arXiv preprint arXiv:2508.02066#2025a#",
+    "type": "arxiv"
+  },
+  {
+    "url": "https://arxiv.org/abs/2507.21990",
+    "cited_url": "https://arxiv.org/abs/2507.21990",
+    "arxiv_url": "https://arxiv.org/abs/2507.21990",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Zihan Zhao",
+      "Bo Chen",
+      "Ziping Wan",
+      "Lu Chen",
+      "Xuanze Lin",
+      "Shiyang Yu",
+      "Situo Zhang",
+      "Da Ma",
+      "Zichen Zhu",
+      "Danyang Zhang",
+      "Huayang Wang",
+      "Zhongyang Dai",
+      "Liyang Wen",
+      "Xin Chen",
+      "Kai Yu"
+    ],
+    "venue": "arXiv preprint",
+    "title": "Chemdfm-r: An chemical reasoner llm enhanced with atomized chemical knowledge",
+    "raw_text": "Zihan Zhao*Bo Chen*Ziping Wan*Lu Chen*Xuanze Lin*Shiyang Yu*Situo Zhang*Da Ma*Zichen Zhu*Danyang Zhang*Huayang Wang*Zhongyang Dai*Liyang Wen*Xin Chen*Kai Yu#Chemdfm-r: An chemical reasoner llm enhanced with atomized chemical knowledge#arXiv preprint#2025b#https://arxiv.org/abs/2507.21990",
+    "type": "arxiv"
+  },
+  {
+    "url": "",
+    "cited_url": "",
+    "arxiv_url": "",
+    "doi": null,
+    "year": 2025,
+    "authors": [
+      "Zihan Zhao",
+      "Da Ma",
+      "Lu Chen",
+      "Liangtai Sun",
+      "Zihao Li",
+      "Yi Xia",
+      "et al"
+    ],
+    "venue": "Cell Reports Physical Science",
+    "title": "Developing ChemDFM as a large language foundation model for chemistry",
+    "raw_text": "Zihan Zhao*Da Ma*Lu Chen*Liangtai Sun*Zihao Li*Yi Xia*et al.#Developing ChemDFM as a large language foundation model for chemistry#Cell Reports Physical Science#2025c#10.1016/j.xcrp.2025.102523",
+    "type": "other"
+  },
+  {
+    "url": "https://arxiv.org/abs/2311.07911",
+    "cited_url": "https://arxiv.org/abs/2311.07911",
+    "arxiv_url": "https://arxiv.org/abs/2311.07911",
+    "doi": null,
+    "year": 2023,
+    "authors": [
+      "Jeffrey Zhou",
+      "Tianjian Lu",
+      "Swaroop Mishra",
+      "Siddhartha Brahma",
+      "Sujoy Basu",
+      "Yi Luan",
+      "Denny Zhou",
+      "Le Hou"
+    ],
+    "venue": "arXiv preprint arXiv:2311.07911",
+    "title": "Instruction-following evaluation for large language models",
+    "raw_text": "Jeffrey Zhou*Tianjian Lu*Swaroop Mishra*Siddhartha Brahma*Sujoy Basu*Yi Luan*Denny Zhou*Le Hou#Instruction-following evaluation for large language models#arXiv preprint arXiv:2311.07911#2023#",
+    "type": "arxiv"
+  }
+]

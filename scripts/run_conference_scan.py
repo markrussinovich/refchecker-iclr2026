@@ -127,6 +127,10 @@ def build_overview_command(root: Path, output_dir: Path | None = None) -> list[s
                 str(output_dir / "hallucinated_reference_rate_by_year.png"),
                 "--reference-data-output",
                 str(output_dir / "hallucinated_reference_rate_by_year.csv"),
+                "--academic-reference-output",
+                str(output_dir / "academic_paper_hallucinated_reference_rate_by_year.png"),
+                "--academic-reference-data-output",
+                str(output_dir / "academic_paper_hallucinated_reference_rate_by_year.csv"),
             ]
         )
     return command
