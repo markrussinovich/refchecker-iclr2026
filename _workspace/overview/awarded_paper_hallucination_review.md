@@ -4,7 +4,7 @@ Generated from `_workspace/overview/awarded_paper_hallucinated_references.json` 
 
 ## Review Standard
 
-I treated a scan flag as a **TP** when the cited reference appears materially fabricated or conflated: a non-existent title/source, a title grafted onto the wrong work, a fake URL/source, or a substantially fabricated author attribution. I treated it as **FP** when the intended source is real and the issue is better explained as citation formatting, incomplete metadata, editor/coauthor ambiguity, source-type mismatch, or a recoverable bibliographic error rather than a hallucinated reference.
+I treated a scan flag as a **TP** when the cited reference appears materially fabricated or conflated: a non-existent title/source, a title grafted onto the wrong work, a fake URL/source, or a substantially fabricated author attribution. I treated it as **FP** when the intended source is real and the issue is better explained as citation formatting, incomplete metadata, editor/coauthor ambiguity, source-type mismatch, or a recoverable bibliographic error rather than a hallucinated reference. Per follow-up policy, I also mark references as **FP** when they are websites/webpages, references to code files or code artifacts, newspaper articles, works prior to 1970, or otherwise-correct references that omit a single author. A later evidence pass also marks specific references as **FP** when the user supplied a verifying source or identified a parsing/extraction/metadata issue.
 
 ## Totals
 
@@ -12,10 +12,14 @@ I treated a scan flag as a **TP** when the cited reference appears materially fa
 |---|---:|
 | Awarded papers reviewed | 56 |
 | References reviewed | 70 |
-| TP references | 44 |
-| FP references | 26 |
-| Papers with at least one TP | 34 |
-| Papers with at least one FP | 26 |
+| References reclassified as FP by follow-up policy | 29 |
+| References additionally reclassified as FP by supplied evidence | 14 |
+| TP references | 11 |
+| FP references | 59 |
+| TP reference rate | 15.7% |
+| FP reference rate | 84.3% |
+| Papers with at least one TP | 11 |
+| Papers with at least one FP | 45 |
 
 ## Top-Level Review Table
 
@@ -33,13 +37,13 @@ I treated a scan flag as a **TP** when the cited reference appears materially fa
     </tr>
   </thead>
   <tbody>
-    <tr style="background-color: #fff4f4; color: #111827; border-left: 6px solid #b91c1c;">
+    <tr style="background-color: #f0fff4; color: #111827; border-left: 6px solid #15803d;">
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">1</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">ICLR 2023</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">Outstanding Paper</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="https://openreview.net/forum?id=lTt4KjHSsyl" style="color: #075985; font-weight: 600; text-decoration: underline;">Emergence of Maps in the Memories of Blind Navigation Agents</a></td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="#reference-1" style="color: #075985; font-weight: 600; text-decoration: underline;">Cognitive maps in wolves and men</a></td>
-      <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #7f1d1d; background-color: #fecaca; border: 1px solid #dc2626; border-radius: 4px; padding: 0.1em 0.35em;">TP</strong></td>
+      <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #14532d; background-color: #bbf7d0; border: 1px solid #16a34a; border-radius: 4px; padding: 0.1em 0.35em;">FP</strong></td>
     </tr>
     <tr style="background-color: #f0fff4; color: #111827; border-left: 6px solid #15803d;">
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">2</td>
@@ -65,13 +69,13 @@ I treated a scan flag as a **TP** when the cited reference appears materially fa
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="#reference-4" style="color: #075985; font-weight: 600; text-decoration: underline;">Adaptive control of linear time-invariant systems</a></td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #7f1d1d; background-color: #fecaca; border: 1px solid #dc2626; border-radius: 4px; padding: 0.1em 0.35em;">TP</strong></td>
     </tr>
-    <tr style="background-color: #fff4f4; color: #111827; border-left: 6px solid #b91c1c;">
+    <tr style="background-color: #f0fff4; color: #111827; border-left: 6px solid #15803d;">
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">5</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">ICLR 2025</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">Honorable Mention</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="https://openreview.net/forum?id=HD6bWcj87Y" style="color: #075985; font-weight: 600; text-decoration: underline;">Data Shapley in One Training Run</a></td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="#reference-5" style="color: #075985; font-weight: 600; text-decoration: underline;">Valuation with weighted banzhaf values</a></td>
-      <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #7f1d1d; background-color: #fecaca; border: 1px solid #dc2626; border-radius: 4px; padding: 0.1em 0.35em;">TP</strong></td>
+      <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #14532d; background-color: #bbf7d0; border: 1px solid #16a34a; border-radius: 4px; padding: 0.1em 0.35em;">FP</strong></td>
     </tr>
     <tr style="background-color: #fff4f4; color: #111827; border-left: 6px solid #b91c1c;">
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">6</td>
@@ -97,13 +101,13 @@ I treated a scan flag as a **TP** when the cited reference appears materially fa
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="#reference-8" style="color: #075985; font-weight: 600; text-decoration: underline;">Robust and Optimal Control</a></td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #7f1d1d; background-color: #fecaca; border: 1px solid #dc2626; border-radius: 4px; padding: 0.1em 0.35em;">TP</strong></td>
     </tr>
-    <tr style="background-color: #fff4f4; color: #111827; border-left: 6px solid #b91c1c;">
+    <tr style="background-color: #f0fff4; color: #111827; border-left: 6px solid #15803d;">
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">9</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">ICML 2022</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">Outstanding Paper Runner Up</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="https://proceedings.mlr.press/v162/yan22c/yan22c.pdf" style="color: #075985; font-weight: 600; text-decoration: underline;">Active fairness auditing</a></td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="#reference-9" style="color: #075985; font-weight: 600; text-decoration: underline;">Towards efﬁcient evaluation of risk via herding</a></td>
-      <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #7f1d1d; background-color: #fecaca; border: 1px solid #dc2626; border-radius: 4px; padding: 0.1em 0.35em;">TP</strong></td>
+      <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #14532d; background-color: #bbf7d0; border: 1px solid #16a34a; border-radius: 4px; padding: 0.1em 0.35em;">FP</strong></td>
     </tr>
     <tr style="background-color: #fff4f4; color: #111827; border-left: 6px solid #b91c1c;">
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">10</td>
@@ -209,13 +213,13 @@ I treated a scan flag as a **TP** when the cited reference appears materially fa
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="#reference-22" style="color: #075985; font-weight: 600; text-decoration: underline;">Compressive transformers for long-range sequence modelling</a></td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #7f1d1d; background-color: #fecaca; border: 1px solid #dc2626; border-radius: 4px; padding: 0.1em 0.35em;">TP</strong></td>
     </tr>
-    <tr style="background-color: #fff4f4; color: #111827; border-left: 6px solid #b91c1c;">
+    <tr style="background-color: #f0fff4; color: #111827; border-left: 6px solid #15803d;">
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">23</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">NEURIPS 2022</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">Outstanding Paper</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/a98846e9d9cc01cfb87eb694d946ce6b-Paper-Conference.pdf" style="color: #075985; font-weight: 600; text-decoration: underline;">Elucidating the Design Space of Diffusion-Based Generative Models</a></td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="#reference-23" style="color: #075985; font-weight: 600; text-decoration: underline;">Théorie analytique de la chaleur</a></td>
-      <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #7f1d1d; background-color: #fecaca; border: 1px solid #dc2626; border-radius: 4px; padding: 0.1em 0.35em;">TP</strong></td>
+      <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #14532d; background-color: #bbf7d0; border: 1px solid #16a34a; border-radius: 4px; padding: 0.1em 0.35em;">FP</strong></td>
     </tr>
     <tr style="background-color: #f0fff4; color: #111827; border-left: 6px solid #15803d;">
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">24</td>
@@ -241,13 +245,13 @@ I treated a scan flag as a **TP** when the cited reference appears materially fa
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="#reference-26" style="color: #075985; font-weight: 600; text-decoration: underline;">Embodied reasoning through planning with language models</a></td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #14532d; background-color: #bbf7d0; border: 1px solid #16a34a; border-radius: 4px; padding: 0.1em 0.35em;">FP</strong></td>
     </tr>
-    <tr style="background-color: #fff4f4; color: #111827; border-left: 6px solid #b91c1c;">
+    <tr style="background-color: #f0fff4; color: #111827; border-left: 6px solid #15803d;">
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">27</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">NEURIPS 2022</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">Outstanding Paper</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/02917acec264a52a729b99d9bc857909-Paper-Conference.pdf" style="color: #075985; font-weight: 600; text-decoration: underline;">On-Demand Sampling: Learning Optimally from Multiple Distributions</a></td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="#reference-27" style="color: #075985; font-weight: 600; text-decoration: underline;">Information-theoretic lower bounds of PAC sample complexity</a></td>
-      <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #7f1d1d; background-color: #fecaca; border: 1px solid #dc2626; border-radius: 4px; padding: 0.1em 0.35em;">TP</strong></td>
+      <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #14532d; background-color: #bbf7d0; border: 1px solid #16a34a; border-radius: 4px; padding: 0.1em 0.35em;">FP</strong></td>
     </tr>
     <tr style="background-color: #f0fff4; color: #111827; border-left: 6px solid #15803d;">
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">28</td>
@@ -257,29 +261,29 @@ I treated a scan flag as a **TP** when the cited reference appears materially fa
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="#reference-28" style="color: #075985; font-weight: 600; text-decoration: underline;">What makes us smart? core knowledge and natural language</a></td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #14532d; background-color: #bbf7d0; border: 1px solid #16a34a; border-radius: 4px; padding: 0.1em 0.35em;">FP</strong></td>
     </tr>
-    <tr style="background-color: #fff4f4; color: #111827; border-left: 6px solid #b91c1c;">
+    <tr style="background-color: #f0fff4; color: #111827; border-left: 6px solid #15803d;">
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">29</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">NEURIPS 2022</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">Outstanding Paper</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/27c546ab1e4f1d7d638e6a8dfbad9a07-Paper-Conference.pdf" style="color: #075985; font-weight: 600; text-decoration: underline;">🏘️ ProcTHOR: Large-Scale Embodied AI Using Procedural Generation</a></td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="#reference-29" style="color: #075985; font-weight: 600; text-decoration: underline;">Openai gym</a></td>
-      <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #7f1d1d; background-color: #fecaca; border: 1px solid #dc2626; border-radius: 4px; padding: 0.1em 0.35em;">TP</strong></td>
+      <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #14532d; background-color: #bbf7d0; border: 1px solid #16a34a; border-radius: 4px; padding: 0.1em 0.35em;">FP</strong></td>
     </tr>
-    <tr style="background-color: #fff4f4; color: #111827; border-left: 6px solid #b91c1c;">
+    <tr style="background-color: #f0fff4; color: #111827; border-left: 6px solid #15803d;">
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">30</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">NEURIPS 2023</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">Outstanding Paper</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/adc98a266f45005c403b8311ca7e8bd7-Paper-Conference.pdf" style="color: #075985; font-weight: 600; text-decoration: underline;">Are Emergent Abilities of Large Language Models a Mirage?</a></td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="#reference-30" style="color: #075985; font-weight: 600; text-decoration: underline;">Refining the sharp left turn threat model, part 2: applying alignment techniques</a></td>
-      <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #7f1d1d; background-color: #fecaca; border: 1px solid #dc2626; border-radius: 4px; padding: 0.1em 0.35em;">TP</strong></td>
+      <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #14532d; background-color: #bbf7d0; border: 1px solid #16a34a; border-radius: 4px; padding: 0.1em 0.35em;">FP</strong></td>
     </tr>
-    <tr style="background-color: #fff4f4; color: #111827; border-left: 6px solid #b91c1c;">
+    <tr style="background-color: #f0fff4; color: #111827; border-left: 6px solid #15803d;">
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">31</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">NEURIPS 2023</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">Outstanding Paper</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/adc98a266f45005c403b8311ca7e8bd7-Paper-Conference.pdf" style="color: #075985; font-weight: 600; text-decoration: underline;">Are Emergent Abilities of Large Language Models a Mirage?</a></td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="#reference-31" style="color: #075985; font-weight: 600; text-decoration: underline;">Aligning language models to follow instructions</a></td>
-      <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #7f1d1d; background-color: #fecaca; border: 1px solid #dc2626; border-radius: 4px; padding: 0.1em 0.35em;">TP</strong></td>
+      <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #14532d; background-color: #bbf7d0; border: 1px solid #16a34a; border-radius: 4px; padding: 0.1em 0.35em;">FP</strong></td>
     </tr>
     <tr style="background-color: #f0fff4; color: #111827; border-left: 6px solid #15803d;">
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">32</td>
@@ -297,45 +301,45 @@ I treated a scan flag as a **TP** when the cited reference appears materially fa
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="#reference-33" style="color: #075985; font-weight: 600; text-decoration: underline;">An analytical theory of power law spectral bias in the learning dynamics of diffusion models</a></td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #14532d; background-color: #bbf7d0; border: 1px solid #16a34a; border-radius: 4px; padding: 0.1em 0.35em;">FP</strong></td>
     </tr>
-    <tr style="background-color: #fff4f4; color: #111827; border-left: 6px solid #b91c1c;">
+    <tr style="background-color: #f0fff4; color: #111827; border-left: 6px solid #15803d;">
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">34</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">NEURIPS 2025</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">Best Paper Runner-up</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="https://openreview.net/forum?id=knPz7gtjPW" style="color: #075985; font-weight: 600; text-decoration: underline;">Superposition Yields Robust Neural Scaling</a></td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="#reference-34" style="color: #075985; font-weight: 600; text-decoration: underline;">Wolfram|alpha as the computation engine for gpt models</a></td>
-      <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #7f1d1d; background-color: #fecaca; border: 1px solid #dc2626; border-radius: 4px; padding: 0.1em 0.35em;">TP</strong></td>
+      <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #14532d; background-color: #bbf7d0; border: 1px solid #16a34a; border-radius: 4px; padding: 0.1em 0.35em;">FP</strong></td>
     </tr>
-    <tr style="background-color: #fff4f4; color: #111827; border-left: 6px solid #b91c1c;">
+    <tr style="background-color: #f0fff4; color: #111827; border-left: 6px solid #15803d;">
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">35</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">USENIX Security 2021</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">Distinguished Paper Award Winner</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="https://www.usenix.org/system/files/sec21-ragab.pdf" style="color: #075985; font-weight: 600; text-decoration: underline;">Rage Against the Machine Clear: A Systematic Analysis of Machine Clears and Their Implications for Transient Execution Attacks</a></td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="#reference-35" style="color: #075985; font-weight: 600; text-decoration: underline;">Return after free discussion</a></td>
-      <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #7f1d1d; background-color: #fecaca; border: 1px solid #dc2626; border-radius: 4px; padding: 0.1em 0.35em;">TP</strong></td>
+      <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #14532d; background-color: #bbf7d0; border: 1px solid #16a34a; border-radius: 4px; padding: 0.1em 0.35em;">FP</strong></td>
     </tr>
-    <tr style="background-color: #fff4f4; color: #111827; border-left: 6px solid #b91c1c;">
+    <tr style="background-color: #f0fff4; color: #111827; border-left: 6px solid #15803d;">
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">36</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">USENIX Security 2021</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">Distinguished Paper Award Winner</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="https://www.usenix.org/system/files/sec21-ragab.pdf" style="color: #075985; font-weight: 600; text-decoration: underline;">Rage Against the Machine Clear: A Systematic Analysis of Machine Clears and Their Implications for Transient Execution Attacks</a></td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="#reference-36" style="color: #075985; font-weight: 600; text-decoration: underline;">block_speculation function call in invoke_stub</a></td>
-      <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #7f1d1d; background-color: #fecaca; border: 1px solid #dc2626; border-radius: 4px; padding: 0.1em 0.35em;">TP</strong></td>
+      <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #14532d; background-color: #bbf7d0; border: 1px solid #16a34a; border-radius: 4px; padding: 0.1em 0.35em;">FP</strong></td>
     </tr>
-    <tr style="background-color: #fff4f4; color: #111827; border-left: 6px solid #b91c1c;">
+    <tr style="background-color: #f0fff4; color: #111827; border-left: 6px solid #15803d;">
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">37</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">USENIX Security 2021</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">Distinguished Paper Award Winner</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="https://www.usenix.org/system/files/sec21-ragab.pdf" style="color: #075985; font-weight: 600; text-decoration: underline;">Rage Against the Machine Clear: A Systematic Analysis of Machine Clears and Their Implications for Transient Execution Attacks</a></td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="#reference-37" style="color: #075985; font-weight: 600; text-decoration: underline;">block_speculation function call in io_emul_stub_setup</a></td>
-      <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #7f1d1d; background-color: #fecaca; border: 1px solid #dc2626; border-radius: 4px; padding: 0.1em 0.35em;">TP</strong></td>
+      <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #14532d; background-color: #bbf7d0; border: 1px solid #16a34a; border-radius: 4px; padding: 0.1em 0.35em;">FP</strong></td>
     </tr>
-    <tr style="background-color: #fff4f4; color: #111827; border-left: 6px solid #b91c1c;">
+    <tr style="background-color: #f0fff4; color: #111827; border-left: 6px solid #15803d;">
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">38</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">USENIX Security 2021</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">Distinguished Paper Award Winner</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="https://www.usenix.org/system/files/sec21-ragab.pdf" style="color: #075985; font-weight: 600; text-decoration: underline;">Rage Against the Machine Clear: A Systematic Analysis of Machine Clears and Their Implications for Transient Execution Attacks</a></td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="#reference-38" style="color: #075985; font-weight: 600; text-decoration: underline;">Intel deep-dive: snoop-assisted L1 Data Sampling</a></td>
-      <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #7f1d1d; background-color: #fecaca; border: 1px solid #dc2626; border-radius: 4px; padding: 0.1em 0.35em;">TP</strong></td>
+      <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #14532d; background-color: #bbf7d0; border: 1px solid #16a34a; border-radius: 4px; padding: 0.1em 0.35em;">FP</strong></td>
     </tr>
     <tr style="background-color: #f0fff4; color: #111827; border-left: 6px solid #15803d;">
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">39</td>
@@ -345,21 +349,21 @@ I treated a scan flag as a **TP** when the cited reference appears materially fa
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="#reference-39" style="color: #075985; font-weight: 600; text-decoration: underline;">The Eavesdropper’s Dilemma</a></td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #14532d; background-color: #bbf7d0; border: 1px solid #16a34a; border-radius: 4px; padding: 0.1em 0.35em;">FP</strong></td>
     </tr>
-    <tr style="background-color: #fff4f4; color: #111827; border-left: 6px solid #b91c1c;">
+    <tr style="background-color: #f0fff4; color: #111827; border-left: 6px solid #15803d;">
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">40</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">USENIX Security 2021</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">Distinguished Paper Award Winner</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="https://www.usenix.org/system/files/sec21-mcdonald.pdf" style="color: #075985; font-weight: 600; text-decoration: underline;">“It’s stressful having all these phones”:</a></td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="#reference-40" style="color: #075985; font-weight: 600; text-decoration: underline;">North American, Western and Central Europe: AIDS epidemic update regional summary</a></td>
-      <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #7f1d1d; background-color: #fecaca; border: 1px solid #dc2626; border-radius: 4px; padding: 0.1em 0.35em;">TP</strong></td>
+      <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #14532d; background-color: #bbf7d0; border: 1px solid #16a34a; border-radius: 4px; padding: 0.1em 0.35em;">FP</strong></td>
     </tr>
-    <tr style="background-color: #fff4f4; color: #111827; border-left: 6px solid #b91c1c;">
+    <tr style="background-color: #f0fff4; color: #111827; border-left: 6px solid #15803d;">
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">41</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">USENIX Security 2021</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">Distinguished Paper Award Winner</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="https://www.usenix.org/system/files/sec21-consolvo.pdf" style="color: #075985; font-weight: 600; text-decoration: underline;">“Why wouldn’t someone think of democracy as a target?”: Security practices &amp; challenges of people involved with U.S. political campaigns</a></td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="#reference-41" style="color: #075985; font-weight: 600; text-decoration: underline;">2020 Campaigns Remain Vulnerable as Signs of Russian Hackers Re-Emerge</a></td>
-      <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #7f1d1d; background-color: #fecaca; border: 1px solid #dc2626; border-radius: 4px; padding: 0.1em 0.35em;">TP</strong></td>
+      <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #14532d; background-color: #bbf7d0; border: 1px solid #16a34a; border-radius: 4px; padding: 0.1em 0.35em;">FP</strong></td>
     </tr>
     <tr style="background-color: #f0fff4; color: #111827; border-left: 6px solid #15803d;">
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">42</td>
@@ -377,13 +381,13 @@ I treated a scan flag as a **TP** when the cited reference appears materially fa
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="#reference-43" style="color: #075985; font-weight: 600; text-decoration: underline;">Worldwide Security and Information Event Management Market Shares, 2020: SaaS-Focused Rise</a></td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #14532d; background-color: #bbf7d0; border: 1px solid #16a34a; border-radius: 4px; padding: 0.1em 0.35em;">FP</strong></td>
     </tr>
-    <tr style="background-color: #fff4f4; color: #111827; border-left: 6px solid #b91c1c;">
+    <tr style="background-color: #f0fff4; color: #111827; border-left: 6px solid #15803d;">
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">44</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">USENIX Security 2022</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">Distinguished Paper Award Winner</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="https://www.usenix.org/system/files/sec22-hoang.pdf" style="color: #075985; font-weight: 600; text-decoration: underline;">Faster Yet Safer: Logging System Via Fixed-Key Blockcipher</a></td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="#reference-44" style="color: #075985; font-weight: 600; text-decoration: underline;">Reproducibility by Ontological representation of Provenance</a></td>
-      <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #7f1d1d; background-color: #fecaca; border: 1px solid #dc2626; border-radius: 4px; padding: 0.1em 0.35em;">TP</strong></td>
+      <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #14532d; background-color: #bbf7d0; border: 1px solid #16a34a; border-radius: 4px; padding: 0.1em 0.35em;">FP</strong></td>
     </tr>
     <tr style="background-color: #f0fff4; color: #111827; border-left: 6px solid #15803d;">
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">45</td>
@@ -401,29 +405,29 @@ I treated a scan flag as a **TP** when the cited reference appears materially fa
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="#reference-46" style="color: #075985; font-weight: 600; text-decoration: underline;">Discreet log</a></td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #14532d; background-color: #bbf7d0; border: 1px solid #16a34a; border-radius: 4px; padding: 0.1em 0.35em;">FP</strong></td>
     </tr>
-    <tr style="background-color: #fff4f4; color: #111827; border-left: 6px solid #b91c1c;">
+    <tr style="background-color: #f0fff4; color: #111827; border-left: 6px solid #15803d;">
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">47</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">USENIX Security 2022</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">Distinguished Paper Award Winner and Second Prize Winner (tie) of the 2022 Internet Defense Prize</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="https://www.usenix.org/system/files/sec22-bosamiya.pdf" style="color: #075985; font-weight: 600; text-decoration: underline;">Provably-Safe Multilingual Software Sandboxing using WebAssembly</a></td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="#reference-47" style="color: #075985; font-weight: 600; text-decoration: underline;">Position paper: Bringing memory safety to WebAssembly</a></td>
-      <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #7f1d1d; background-color: #fecaca; border: 1px solid #dc2626; border-radius: 4px; padding: 0.1em 0.35em;">TP</strong></td>
+      <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #14532d; background-color: #bbf7d0; border: 1px solid #16a34a; border-radius: 4px; padding: 0.1em 0.35em;">FP</strong></td>
     </tr>
-    <tr style="background-color: #fff4f4; color: #111827; border-left: 6px solid #b91c1c;">
+    <tr style="background-color: #f0fff4; color: #111827; border-left: 6px solid #15803d;">
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">48</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">USENIX Security 2022</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">Distinguished Paper Award Winner</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="https://www.usenix.org/system/files/sec22-halderman.pdf" style="color: #075985; font-weight: 600; text-decoration: underline;">The Antrim County 2020 Election Incident: An Independent Forensic Investigation</a></td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="#reference-48" style="color: #075985; font-weight: 600; text-decoration: underline;">Democracy Suite EMS Results Tally &amp; Reporting user guide, version 5.5::16</a></td>
-      <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #7f1d1d; background-color: #fecaca; border: 1px solid #dc2626; border-radius: 4px; padding: 0.1em 0.35em;">TP</strong></td>
+      <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #14532d; background-color: #bbf7d0; border: 1px solid #16a34a; border-radius: 4px; padding: 0.1em 0.35em;">FP</strong></td>
     </tr>
-    <tr style="background-color: #fff4f4; color: #111827; border-left: 6px solid #b91c1c;">
+    <tr style="background-color: #f0fff4; color: #111827; border-left: 6px solid #15803d;">
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">49</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">USENIX Security 2023</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">Distinguished Paper Award Winner</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="https://www.usenix.org/system/files/usenixsecurity23-choi.pdf" style="color: #075985; font-weight: 600; text-decoration: underline;">BotScreen: Trust Everybody, but Cut the Aimbots Yourself</a></td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="#reference-49" style="color: #075985; font-weight: 600; text-decoration: underline;">Project infinity</a></td>
-      <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #7f1d1d; background-color: #fecaca; border: 1px solid #dc2626; border-radius: 4px; padding: 0.1em 0.35em;">TP</strong></td>
+      <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #14532d; background-color: #bbf7d0; border: 1px solid #16a34a; border-radius: 4px; padding: 0.1em 0.35em;">FP</strong></td>
     </tr>
     <tr style="background-color: #f0fff4; color: #111827; border-left: 6px solid #15803d;">
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">50</td>
@@ -433,37 +437,37 @@ I treated a scan flag as a **TP** when the cited reference appears materially fa
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="#reference-50" style="color: #075985; font-weight: 600; text-decoration: underline;">Cyber Crimes in Jordan: A Legal Assessment on the Effectiveness of Information System Crimes Law No (30) of</a></td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #14532d; background-color: #bbf7d0; border: 1px solid #16a34a; border-radius: 4px; padding: 0.1em 0.35em;">FP</strong></td>
     </tr>
-    <tr style="background-color: #fff4f4; color: #111827; border-left: 6px solid #b91c1c;">
+    <tr style="background-color: #f0fff4; color: #111827; border-left: 6px solid #15803d;">
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">51</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">USENIX Security 2023</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">Distinguished Paper Award Winner</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="https://www.usenix.org/system/files/usenixsecurity23-albayaydh.pdf" style="color: #075985; font-weight: 600; text-decoration: underline;">Examining Power Dynamics and User Privacy in Smart Technology Use Among Jordanian Households</a></td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="#reference-51" style="color: #075985; font-weight: 600; text-decoration: underline;">New Data Protection Bill, Draft</a></td>
-      <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #7f1d1d; background-color: #fecaca; border: 1px solid #dc2626; border-radius: 4px; padding: 0.1em 0.35em;">TP</strong></td>
+      <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #14532d; background-color: #bbf7d0; border: 1px solid #16a34a; border-radius: 4px; padding: 0.1em 0.35em;">FP</strong></td>
     </tr>
-    <tr style="background-color: #fff4f4; color: #111827; border-left: 6px solid #b91c1c;">
+    <tr style="background-color: #f0fff4; color: #111827; border-left: 6px solid #15803d;">
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">52</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">USENIX Security 2023</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">Distinguished Paper Award Winner</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="https://www.usenix.org/system/files/usenixsecurity23-albayaydh.pdf" style="color: #075985; font-weight: 600; text-decoration: underline;">Examining Power Dynamics and User Privacy in Smart Technology Use Among Jordanian Households</a></td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="#reference-52" style="color: #075985; font-weight: 600; text-decoration: underline;">JORDANIAN PEOPLE PERSPECTIVE ABOUT SMART HOMES</a></td>
-      <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #7f1d1d; background-color: #fecaca; border: 1px solid #dc2626; border-radius: 4px; padding: 0.1em 0.35em;">TP</strong></td>
+      <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #14532d; background-color: #bbf7d0; border: 1px solid #16a34a; border-radius: 4px; padding: 0.1em 0.35em;">FP</strong></td>
     </tr>
-    <tr style="background-color: #fff4f4; color: #111827; border-left: 6px solid #b91c1c;">
+    <tr style="background-color: #f0fff4; color: #111827; border-left: 6px solid #15803d;">
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">53</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">USENIX Security 2023</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">Distinguished Paper Award Winner and Co-Winner of the 2023 Internet Defense Prize</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="https://www.usenix.org/system/files/usenixsecurity23-shan.pdf" style="color: #075985; font-weight: 600; text-decoration: underline;">Glaze: Protecting Artists from Style Mimicry by Text-to-Image Models</a></td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="#reference-53" style="color: #075985; font-weight: 600; text-decoration: underline;">What does the rise of AI mean for the future of art?</a></td>
-      <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #7f1d1d; background-color: #fecaca; border: 1px solid #dc2626; border-radius: 4px; padding: 0.1em 0.35em;">TP</strong></td>
+      <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #14532d; background-color: #bbf7d0; border: 1px solid #16a34a; border-radius: 4px; padding: 0.1em 0.35em;">FP</strong></td>
     </tr>
-    <tr style="background-color: #fff4f4; color: #111827; border-left: 6px solid #b91c1c;">
+    <tr style="background-color: #f0fff4; color: #111827; border-left: 6px solid #15803d;">
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">54</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">USENIX Security 2023</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">Distinguished Paper Award Winner and Co-Winner of the 2023 Internet Defense Prize</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="https://www.usenix.org/system/files/usenixsecurity23-shan.pdf" style="color: #075985; font-weight: 600; text-decoration: underline;">Glaze: Protecting Artists from Style Mimicry by Text-to-Image Models</a></td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="#reference-54" style="color: #075985; font-weight: 600; text-decoration: underline;">AI art &amp; the ethical concerns of artists</a></td>
-      <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #7f1d1d; background-color: #fecaca; border: 1px solid #dc2626; border-radius: 4px; padding: 0.1em 0.35em;">TP</strong></td>
+      <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #14532d; background-color: #bbf7d0; border: 1px solid #16a34a; border-radius: 4px; padding: 0.1em 0.35em;">FP</strong></td>
     </tr>
     <tr style="background-color: #f0fff4; color: #111827; border-left: 6px solid #15803d;">
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">55</td>
@@ -481,53 +485,53 @@ I treated a scan flag as a **TP** when the cited reference appears materially fa
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="#reference-56" style="color: #075985; font-weight: 600; text-decoration: underline;">Artificial intelligence a modern approach</a></td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #14532d; background-color: #bbf7d0; border: 1px solid #16a34a; border-radius: 4px; padding: 0.1em 0.35em;">FP</strong></td>
     </tr>
-    <tr style="background-color: #fff4f4; color: #111827; border-left: 6px solid #b91c1c;">
+    <tr style="background-color: #f0fff4; color: #111827; border-left: 6px solid #15803d;">
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">57</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">USENIX Security 2024</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">Distinguished Paper Award Winner</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="https://www.usenix.org/system/files/usenixsecurity24-ablove.pdf" style="color: #075985; font-weight: 600; text-decoration: underline;">Digital Discrimination of Users in Sanctioned States: The Case of the Cuba Embargo</a></td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="#reference-57" style="color: #075985; font-weight: 600; text-decoration: underline;">Empresa de telecomunicaciones de cuba s.a</a></td>
-      <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #7f1d1d; background-color: #fecaca; border: 1px solid #dc2626; border-radius: 4px; padding: 0.1em 0.35em;">TP</strong></td>
+      <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #14532d; background-color: #bbf7d0; border: 1px solid #16a34a; border-radius: 4px; padding: 0.1em 0.35em;">FP</strong></td>
     </tr>
-    <tr style="background-color: #fff4f4; color: #111827; border-left: 6px solid #b91c1c;">
+    <tr style="background-color: #f0fff4; color: #111827; border-left: 6px solid #15803d;">
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">58</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">USENIX Security 2024</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">Distinguished Paper Award Winner</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="https://www.usenix.org/system/files/usenixsecurity24-ablove.pdf" style="color: #075985; font-weight: 600; text-decoration: underline;">Digital Discrimination of Users in Sanctioned States: The Case of the Cuba Embargo</a></td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="#reference-58" style="color: #075985; font-weight: 600; text-decoration: underline;">Iran, Social Media, and U.S. Trade Sanctions: The First Amendment Implications of U.S. Foreign Policy</a></td>
-      <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #7f1d1d; background-color: #fecaca; border: 1px solid #dc2626; border-radius: 4px; padding: 0.1em 0.35em;">TP</strong></td>
+      <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #14532d; background-color: #bbf7d0; border: 1px solid #16a34a; border-radius: 4px; padding: 0.1em 0.35em;">FP</strong></td>
     </tr>
-    <tr style="background-color: #fff4f4; color: #111827; border-left: 6px solid #b91c1c;">
+    <tr style="background-color: #f0fff4; color: #111827; border-left: 6px solid #15803d;">
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">59</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">USENIX Security 2024</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">Distinguished Paper Award Winner</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="https://www.usenix.org/system/files/usenixsecurity24-ablove.pdf" style="color: #075985; font-weight: 600; text-decoration: underline;">Digital Discrimination of Users in Sanctioned States: The Case of the Cuba Embargo</a></td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="#reference-59" style="color: #075985; font-weight: 600; text-decoration: underline;">Letter and Report for the Congressional Record</a></td>
-      <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #7f1d1d; background-color: #fecaca; border: 1px solid #dc2626; border-radius: 4px; padding: 0.1em 0.35em;">TP</strong></td>
+      <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #14532d; background-color: #bbf7d0; border: 1px solid #16a34a; border-radius: 4px; padding: 0.1em 0.35em;">FP</strong></td>
     </tr>
-    <tr style="background-color: #fff4f4; color: #111827; border-left: 6px solid #b91c1c;">
+    <tr style="background-color: #f0fff4; color: #111827; border-left: 6px solid #15803d;">
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">60</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">USENIX Security 2024</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">Distinguished Paper Award Winner</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="https://www.usenix.org/system/files/usenixsecurity24-zhang-jipeng.pdf" style="color: #075985; font-weight: 600; text-decoration: underline;">ENG25519: Faster TLS 1.3 handshake using optimized X25519 and Ed25519</a></td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="#reference-60" style="color: #075985; font-weight: 600; text-decoration: underline;">Artifact of the paper &quot;Batching CSIDH group actions using AVX-512</a></td>
-      <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #7f1d1d; background-color: #fecaca; border: 1px solid #dc2626; border-radius: 4px; padding: 0.1em 0.35em;">TP</strong></td>
+      <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #14532d; background-color: #bbf7d0; border: 1px solid #16a34a; border-radius: 4px; padding: 0.1em 0.35em;">FP</strong></td>
     </tr>
-    <tr style="background-color: #fff4f4; color: #111827; border-left: 6px solid #b91c1c;">
+    <tr style="background-color: #f0fff4; color: #111827; border-left: 6px solid #15803d;">
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">61</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">USENIX Security 2024</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">Distinguished Paper Award Winner</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="https://www.usenix.org/system/files/usenixsecurity24-zhang-jipeng.pdf" style="color: #075985; font-weight: 600; text-decoration: underline;">ENG25519: Faster TLS 1.3 handshake using optimized X25519 and Ed25519</a></td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="#reference-61" style="color: #075985; font-weight: 600; text-decoration: underline;">Artifact of the paper &quot;Highly vectorized SIKE for AVX-512</a></td>
-      <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #7f1d1d; background-color: #fecaca; border: 1px solid #dc2626; border-radius: 4px; padding: 0.1em 0.35em;">TP</strong></td>
+      <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #14532d; background-color: #bbf7d0; border: 1px solid #16a34a; border-radius: 4px; padding: 0.1em 0.35em;">FP</strong></td>
     </tr>
-    <tr style="background-color: #fff4f4; color: #111827; border-left: 6px solid #b91c1c;">
+    <tr style="background-color: #f0fff4; color: #111827; border-left: 6px solid #15803d;">
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">62</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">USENIX Security 2024</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">Distinguished Paper Award Winner</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="https://www.usenix.org/system/files/usenixsecurity24-zhang-jipeng.pdf" style="color: #075985; font-weight: 600; text-decoration: underline;">ENG25519: Faster TLS 1.3 handshake using optimized X25519 and Ed25519</a></td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="#reference-62" style="color: #075985; font-weight: 600; text-decoration: underline;">Artifact of the paper &quot;High-Throughput Elliptic Curve Cryptography Using AVX2 Vector Instructions</a></td>
-      <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #7f1d1d; background-color: #fecaca; border: 1px solid #dc2626; border-radius: 4px; padding: 0.1em 0.35em;">TP</strong></td>
+      <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #14532d; background-color: #bbf7d0; border: 1px solid #16a34a; border-radius: 4px; padding: 0.1em 0.35em;">FP</strong></td>
     </tr>
     <tr style="background-color: #f0fff4; color: #111827; border-left: 6px solid #15803d;">
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">63</td>
@@ -537,13 +541,13 @@ I treated a scan flag as a **TP** when the cited reference appears materially fa
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="#reference-63" style="color: #075985; font-weight: 600; text-decoration: underline;">Cache attacks and countermeasures: the case of AES</a></td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #14532d; background-color: #bbf7d0; border: 1px solid #16a34a; border-radius: 4px; padding: 0.1em 0.35em;">FP</strong></td>
     </tr>
-    <tr style="background-color: #fff4f4; color: #111827; border-left: 6px solid #b91c1c;">
+    <tr style="background-color: #f0fff4; color: #111827; border-left: 6px solid #15803d;">
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">64</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">USENIX Security 2024</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">Distinguished Paper Award Winner</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="https://www.usenix.org/system/files/usenixsecurity24-coppola.pdf" style="color: #075985; font-weight: 600; text-decoration: underline;">PURE: Payments with UWB RElay-protection</a></td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="#reference-64" style="color: #075985; font-weight: 600; text-decoration: underline;">Chip and PIN Fraud</a></td>
-      <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #7f1d1d; background-color: #fecaca; border: 1px solid #dc2626; border-radius: 4px; padding: 0.1em 0.35em;">TP</strong></td>
+      <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #14532d; background-color: #bbf7d0; border: 1px solid #16a34a; border-radius: 4px; padding: 0.1em 0.35em;">FP</strong></td>
     </tr>
     <tr style="background-color: #f0fff4; color: #111827; border-left: 6px solid #15803d;">
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">65</td>
@@ -553,13 +557,13 @@ I treated a scan flag as a **TP** when the cited reference appears materially fa
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="#reference-65" style="color: #075985; font-weight: 600; text-decoration: underline;">Cascade: CPU Fuzzing via Intricate Program Generation</a></td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #14532d; background-color: #bbf7d0; border: 1px solid #16a34a; border-radius: 4px; padding: 0.1em 0.35em;">FP</strong></td>
     </tr>
-    <tr style="background-color: #fff4f4; color: #111827; border-left: 6px solid #b91c1c;">
+    <tr style="background-color: #f0fff4; color: #111827; border-left: 6px solid #15803d;">
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">66</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">USENIX Security 2024</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">Distinguished Paper Award Winner</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="https://www.usenix.org/system/files/usenixsecurity24-li-shaofeng.pdf" style="color: #075985; font-weight: 600; text-decoration: underline;">Yes, One-Bit-Flip Matters! Universal DNN Model Inference Depletion with Runtime Code Fault Injection</a></td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="#reference-66" style="color: #075985; font-weight: 600; text-decoration: underline;">Apache mxnet: A flexible and efficient library for deep learning</a></td>
-      <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #7f1d1d; background-color: #fecaca; border: 1px solid #dc2626; border-radius: 4px; padding: 0.1em 0.35em;">TP</strong></td>
+      <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #14532d; background-color: #bbf7d0; border: 1px solid #16a34a; border-radius: 4px; padding: 0.1em 0.35em;">FP</strong></td>
     </tr>
     <tr style="background-color: #f0fff4; color: #111827; border-left: 6px solid #15803d;">
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">67</td>
@@ -569,21 +573,21 @@ I treated a scan flag as a **TP** when the cited reference appears materially fa
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="#reference-67" style="color: #075985; font-weight: 600; text-decoration: underline;">Learning multiple layers of features from tiny images</a></td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #14532d; background-color: #bbf7d0; border: 1px solid #16a34a; border-radius: 4px; padding: 0.1em 0.35em;">FP</strong></td>
     </tr>
-    <tr style="background-color: #fff4f4; color: #111827; border-left: 6px solid #b91c1c;">
+    <tr style="background-color: #f0fff4; color: #111827; border-left: 6px solid #15803d;">
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">68</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">USENIX Security 2025</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">Distinguished Paper Award Winner</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="https://www.usenix.org/system/files/usenixsecurity25-munteanu.pdf" style="color: #075985; font-weight: 600; text-decoration: underline;">Catch-22: Uncovering Compromised Hosts using SSH Public Keys</a></td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="#reference-68" style="color: #075985; font-weight: 600; text-decoration: underline;">Getting back at Trudy: SSH Botnet Member Credential Collection using Connect Back Honeypots</a></td>
-      <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #7f1d1d; background-color: #fecaca; border: 1px solid #dc2626; border-radius: 4px; padding: 0.1em 0.35em;">TP</strong></td>
+      <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #14532d; background-color: #bbf7d0; border: 1px solid #16a34a; border-radius: 4px; padding: 0.1em 0.35em;">FP</strong></td>
     </tr>
-    <tr style="background-color: #fff4f4; color: #111827; border-left: 6px solid #b91c1c;">
+    <tr style="background-color: #f0fff4; color: #111827; border-left: 6px solid #15803d;">
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">69</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">USENIX Security 2025</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">Distinguished Paper Award Winner</td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="https://www.usenix.org/system/files/usenixsecurity25-kireev.pdf" style="color: #075985; font-weight: 600; text-decoration: underline;">Characterizing and Detecting Propaganda-Spreading Accounts on Telegram</a></td>
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><a href="#reference-69" style="color: #075985; font-weight: 600; text-decoration: underline;">Amazon inference on demand</a></td>
-      <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #7f1d1d; background-color: #fecaca; border: 1px solid #dc2626; border-radius: 4px; padding: 0.1em 0.35em;">TP</strong></td>
+      <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;"><strong style="display: inline-block; min-width: 2.5em; text-align: center; color: #14532d; background-color: #bbf7d0; border: 1px solid #16a34a; border-radius: 4px; padding: 0.1em 0.35em;">FP</strong></td>
     </tr>
     <tr style="background-color: #fff4f4; color: #111827; border-left: 6px solid #b91c1c;">
       <td style="padding: 0.55em 0.7em; border: 1px solid #d1d5db; vertical-align: top; color: #111827;">70</td>
@@ -599,7 +603,7 @@ I treated a scan flag as a **TP** when the cited reference appears materially fa
 ## Detailed Reviews
 
 <a id="reference-1"></a>
-### Reference 1: Cognitive maps in wolves and men (TP)
+### Reference 1: Cognitive maps in wolves and men (FP)
 
 #### Paper Metadata
 
@@ -649,8 +653,8 @@ I treated a scan flag as a **TP** when the cited reference appears materially fa
 
 #### Independent Assessment
 
-- FP/TP flag: **TP**
-- Rationale: No dedicated publication matching the cited title was found; the cited item appears to conflate related Peters wolf/cognitive-map works into a nonexistent reference.
+- FP/TP flag: **FP**
+- Rationale: User-provided correction: this is a real reference in the EDRA proceedings table of contents (https://cdn.ymaws.com/www.edra.org/resource/resmgr/proceedings/toc/edra04_v1_v2_content.pdf), so the scan flag is a false positive.
 
 <a id="reference-2"></a>
 ### Reference 2: Bert: Pre-training of deep bidirectional transformers for language understanding (FP)
@@ -768,7 +772,7 @@ I treated a scan flag as a **TP** when the cited reference appears materially fa
 #### Independent Assessment
 
 - FP/TP flag: **FP**
-- Rationale: The Python reference manual is a real Python documentation source, and Fred Drake is plausibly an editor for later manual editions; the citation is bibliographically messy but not a fabricated reference.
+- Rationale: Policy FP: documentation/manual-style web sources are treated as false positives under the requested rule for website references; this is bibliographic/editor metadata, not a hallucinated paper.
 
 <a id="reference-4"></a>
 ### Reference 4: Adaptive control of linear time-invariant systems (TP)
@@ -821,7 +825,7 @@ I treated a scan flag as a **TP** when the cited reference appears materially fa
 - Rationale: The cited title is attached to the wrong authors, venue, and year; the scan found a different real work by Ioannou, making the Åström/Wittenmark Automatica citation materially fabricated.
 
 <a id="reference-5"></a>
-### Reference 5: Valuation with weighted banzhaf values (TP)
+### Reference 5: Valuation with weighted banzhaf values (FP)
 
 #### Paper Metadata
 
@@ -871,8 +875,8 @@ I treated a scan flag as a **TP** when the cited reference appears materially fa
 
 #### Independent Assessment
 
-- FP/TP flag: **TP**
-- Rationale: The cited title is not the published NeurIPS paper title and uses the wrong year; it appears to be a shortened/fabricated variant of a real weighted-Banzhaf paper.
+- FP/TP flag: **FP**
+- Rationale: User-provided correction: this is a parsing error for the weighted Banzhaf values reference, so it should be counted as a false positive rather than a hallucinated citation.
 
 <a id="reference-6"></a>
 ### Reference 6: Inference, method, and decision: Towards a bayesian philosophy of science (TP)
@@ -980,7 +984,7 @@ I treated a scan flag as a **TP** when the cited reference appears materially fa
 #### Independent Assessment
 
 - FP/TP flag: **FP**
-- Rationale: Rudin’s textbook is real and the citation appears to confuse edition/volume/year metadata; I would treat this as a citation metadata error, not a hallucinated reference.
+- Rationale: Policy FP: the cited work predates 1970, so under the requested rule I mark it as a false positive even though the volume/edition metadata is confused.
 
 <a id="reference-8"></a>
 ### Reference 8: Robust and Optimal Control (TP)
@@ -1037,7 +1041,7 @@ I treated a scan flag as a **TP** when the cited reference appears materially fa
 - Rationale: The cited reference substitutes I. S. Khalil for the actual first author Kemin Zhou on a real book, which is a material fabricated-author error.
 
 <a id="reference-9"></a>
-### Reference 9: Towards efﬁcient evaluation of risk via herding (TP)
+### Reference 9: Towards efﬁcient evaluation of risk via herding (FP)
 
 #### Paper Metadata
 
@@ -1088,8 +1092,8 @@ I treated a scan flag as a **TP** when the cited reference appears materially fa
 
 #### Independent Assessment
 
-- FP/TP flag: **TP**
-- Rationale: The exact title exists only as a workshop/presentation item by Zelai Xu, while the citation adds Yu and Sra as authors without support; this is a substantive author fabrication.
+- FP/TP flag: **FP**
+- Rationale: Policy FP: this appears to be a workshop/presentation web page rather than a conventional paper record, so under the requested website-source rule I mark it false positive.
 
 <a id="reference-10"></a>
 ### Reference 10: Unified rational protein engineering Learning inverse folding from millions of predicted structures with sequence-based deep representation learning (TP)
@@ -1305,7 +1309,7 @@ I treated a scan flag as a **TP** when the cited reference appears materially fa
 #### Independent Assessment
 
 - FP/TP flag: **FP**
-- Rationale: The Alignment Forum post exists with the cited title and year; omitting Paul Christiano is an incomplete-authorship error, not a hallucinated reference.
+- Rationale: Policy FP: this is an Alignment Forum web post, so under the requested website-source rule it should be counted as a false positive despite incomplete authorship.
 
 <a id="reference-14"></a>
 ### Reference 14: Understanding Generalization via Leave-One-Out Conditional Mutual Information (FP)
@@ -1468,7 +1472,7 @@ I treated a scan flag as a **TP** when the cited reference appears materially fa
 #### Independent Assessment
 
 - FP/TP flag: **FP**
-- Rationale: The New York Times article exists with the exact title and author identity is just abbreviated differently; this is not a true hallucination.
+- Rationale: Policy FP: this is a newspaper article, and the requested rule treats newspaper-article references as false positives; the author-name issue is not enough to call it hallucinated.
 
 <a id="reference-17"></a>
 ### Reference 17: Rethinking conversational agents in the era of llms: Proactivity, non-collaborativity, and beyond (TP)
@@ -1795,7 +1799,7 @@ I treated a scan flag as a **TP** when the cited reference appears materially fa
 - Rationale: The Compressive Transformers paper exists, but the cited author list is unrelated to the actual authors; this is a true fabricated-author citation.
 
 <a id="reference-23"></a>
-### Reference 23: Théorie analytique de la chaleur (TP)
+### Reference 23: Théorie analytique de la chaleur (FP)
 
 #### Paper Metadata
 
@@ -1845,8 +1849,8 @@ I treated a scan flag as a **TP** when the cited reference appears materially fa
 
 #### Independent Assessment
 
-- FP/TP flag: **TP**
-- Rationale: The citation treats Darboux as a coauthor of Fourier’s original 1822 work rather than a later editor; that is historically and bibliographically false.
+- FP/TP flag: **FP**
+- Rationale: Policy FP: the cited work is prior to 1970, so under the requested rule it should be marked false positive even though later-editor authorship is confused.
 
 <a id="reference-24"></a>
 ### Reference 24: Learning multiple layers of features from tiny images (FP)
@@ -1905,7 +1909,7 @@ I treated a scan flag as a **TP** when the cited reference appears materially fa
 #### Independent Assessment
 
 - FP/TP flag: **FP**
-- Rationale: The cited source is the real Krizhevsky tiny-images report; the Hinton authorship ambiguity is a common metadata/citation issue rather than a hallucinated reference.
+- Rationale: Policy FP: the source is otherwise identifiable and the issue is an omitted single author, so under the requested rule it is a false positive.
 
 <a id="reference-25"></a>
 ### Reference 25: Convolutional deep belief networks on cifar-10 (FP)
@@ -2017,7 +2021,7 @@ I treated a scan flag as a **TP** when the cited reference appears materially fa
 - Rationale: The Inner Monologue paper exists; the citation shortens the title and truncates a long author list, but the intended reference is clear.
 
 <a id="reference-27"></a>
-### Reference 27: Information-theoretic lower bounds of PAC sample complexity (TP)
+### Reference 27: Information-theoretic lower bounds of PAC sample complexity (FP)
 
 #### Paper Metadata
 
@@ -2067,8 +2071,8 @@ I treated a scan flag as a **TP** when the cited reference appears materially fa
 
 #### Independent Assessment
 
-- FP/TP flag: **TP**
-- Rationale: No matching PAC sample-complexity paper by C. Zhang was found; this appears to be a non-existent reference.
+- FP/TP flag: **FP**
+- Rationale: User-provided correction: the paper exists at https://zcc1307.github.io/courses/csc665fa19/notes/lower_bound.pdf, so this is a false positive.
 
 <a id="reference-28"></a>
 ### Reference 28: What makes us smart? core knowledge and natural language (FP)
@@ -2126,7 +2130,7 @@ I treated a scan flag as a **TP** when the cited reference appears materially fa
 - Rationale: This appears to be a real Spelke chapter/paper where Gentner and Goldin-Meadow may be editors rather than coauthors; the scan likely over-penalized book-chapter metadata.
 
 <a id="reference-29"></a>
-### Reference 29: Openai gym (TP)
+### Reference 29: Openai gym (FP)
 
 #### Paper Metadata
 
@@ -2177,11 +2181,11 @@ I treated a scan flag as a **TP** when the cited reference appears materially fa
 
 #### Independent Assessment
 
-- FP/TP flag: **TP**
-- Rationale: OpenAI Gym is real, but listing only Zaremba as sole author fabricates the authorship of a seven-author paper.
+- FP/TP flag: **FP**
+- Rationale: User-provided correction: this is an extraction issue; the reference has the correct authors, so it should be marked false positive.
 
 <a id="reference-30"></a>
-### Reference 30: Refining the sharp left turn threat model, part 2: applying alignment techniques (TP)
+### Reference 30: Refining the sharp left turn threat model, part 2: applying alignment techniques (FP)
 
 #### Paper Metadata
 
@@ -2231,11 +2235,11 @@ I treated a scan flag as a **TP** when the cited reference appears materially fa
 
 #### Independent Assessment
 
-- FP/TP flag: **TP**
-- Rationale: The cited Part 2 Alignment Forum post uses the author list from a different part and swaps in Mary Phuong for Rohin Shah; that is a material fabricated-author error.
+- FP/TP flag: **FP**
+- Rationale: Policy FP: this is an Alignment Forum web post; website references are now treated as false positives even when the author list is mixed with a related post.
 
 <a id="reference-31"></a>
-### Reference 31: Aligning language models to follow instructions (TP)
+### Reference 31: Aligning language models to follow instructions (FP)
 
 #### Paper Metadata
 
@@ -2286,8 +2290,8 @@ I treated a scan flag as a **TP** when the cited reference appears materially fa
 
 #### Independent Assessment
 
-- FP/TP flag: **TP**
-- Rationale: The citation gives an incorrect title and lists only Lowe/Leike for the InstructGPT paper, omitting the actual title and large author team.
+- FP/TP flag: **FP**
+- Rationale: User-provided correction: this references the OpenAI instruction-following blog post with the two cited authors matching (https://openai.com/index/instruction-following/), so it is a false positive.
 
 <a id="reference-32"></a>
 ### Reference 32: Improving language understanding by generative pre-training (FP)
@@ -2400,10 +2404,10 @@ I treated a scan flag as a **TP** when the cited reference appears materially fa
 #### Independent Assessment
 
 - FP/TP flag: **FP**
-- Rationale: The arXiv paper exists with the exact title; citing only B. Wang is incomplete authorship rather than a hallucinated paper.
+- Rationale: Policy FP: the arXiv paper is otherwise identifiable and the issue is omission of a single coauthor, so the requested single-author-omission rule makes this a false positive.
 
 <a id="reference-34"></a>
-### Reference 34: Wolfram|alpha as the computation engine for gpt models (TP)
+### Reference 34: Wolfram|alpha as the computation engine for gpt models (FP)
 
 #### Paper Metadata
 
@@ -2453,11 +2457,11 @@ I treated a scan flag as a **TP** when the cited reference appears materially fa
 
 #### Independent Assessment
 
-- FP/TP flag: **TP**
-- Rationale: No work with the exact cited Wolfram|Alpha title and URL was found; it appears to be a fabricated or substantially altered title.
+- FP/TP flag: **FP**
+- Rationale: Policy FP: this is a web-site/webpage-style reference to Wolfram content, so the requested website-source rule makes it a false positive.
 
 <a id="reference-35"></a>
-### Reference 35: Return after free discussion (TP)
+### Reference 35: Return after free discussion (FP)
 
 #### Paper Metadata
 
@@ -2507,11 +2511,11 @@ I treated a scan flag as a **TP** when the cited reference appears materially fa
 
 #### Independent Assessment
 
-- FP/TP flag: **TP**
-- Rationale: No publication matching “Return after free discussion” was found; the cited item appears to be a social-media discussion mislabeled as a paper.
+- FP/TP flag: **FP**
+- Rationale: Policy FP: this is a social-media/web discussion reference, so under the requested website-source rule it is a false positive.
 
 <a id="reference-36"></a>
-### Reference 36: block_speculation function call in invoke_stub (TP)
+### Reference 36: block_speculation function call in invoke_stub (FP)
 
 #### Paper Metadata
 
@@ -2561,11 +2565,11 @@ I treated a scan flag as a **TP** when the cited reference appears materially fa
 
 #### Independent Assessment
 
-- FP/TP flag: **TP**
-- Rationale: The reference is a source-code artifact description, not a paper or document with a dedicated publication identity.
+- FP/TP flag: **FP**
+- Rationale: Policy FP: this is a reference to a Xen source-code file, and the requested code-file rule makes it a false positive.
 
 <a id="reference-37"></a>
-### Reference 37: block_speculation function call in io_emul_stub_setup (TP)
+### Reference 37: block_speculation function call in io_emul_stub_setup (FP)
 
 #### Paper Metadata
 
@@ -2615,11 +2619,11 @@ I treated a scan flag as a **TP** when the cited reference appears materially fa
 
 #### Independent Assessment
 
-- FP/TP flag: **TP**
-- Rationale: The reference is another Xen source-code artifact description incorrectly formatted as a paper.
+- FP/TP flag: **FP**
+- Rationale: Policy FP: this is another Xen source-code file reference, so it is a false positive under the requested code-file rule.
 
 <a id="reference-38"></a>
-### Reference 38: Intel deep-dive: snoop-assisted L1 Data Sampling (TP)
+### Reference 38: Intel deep-dive: snoop-assisted L1 Data Sampling (FP)
 
 #### Paper Metadata
 
@@ -2669,8 +2673,8 @@ I treated a scan flag as a **TP** when the cited reference appears materially fa
 
 #### Independent Assessment
 
-- FP/TP flag: **TP**
-- Rationale: No published Intel deep-dive with this exact title was found, despite the underlying vulnerability being real.
+- FP/TP flag: **FP**
+- Rationale: Policy FP: this is best treated as a web/technical-page reference rather than a paper, so the requested website-source rule makes it false positive.
 
 <a id="reference-39"></a>
 ### Reference 39: The Eavesdropper’s Dilemma (FP)
@@ -2724,7 +2728,7 @@ I treated a scan flag as a **TP** when the cited reference appears materially fa
 - Rationale: The cited paper exists and “Micah” versus “Michael E.” Sherr looks like a name/metadata error, not a hallucinated reference.
 
 <a id="reference-40"></a>
-### Reference 40: North American, Western and Central Europe: AIDS epidemic update regional summary (TP)
+### Reference 40: North American, Western and Central Europe: AIDS epidemic update regional summary (FP)
 
 #### Paper Metadata
 
@@ -2774,11 +2778,11 @@ I treated a scan flag as a **TP** when the cited reference appears materially fa
 
 #### Independent Assessment
 
-- FP/TP flag: **TP**
-- Rationale: The exact UNAIDS regional-summary title could not be found; available UNAIDS sources use different titles, so this is likely a fabricated or badly conflated report title.
+- FP/TP flag: **FP**
+- Rationale: Policy FP: this is an institutional web/report-style reference rather than a paper, so under the requested website-source rule it is false positive.
 
 <a id="reference-41"></a>
-### Reference 41: 2020 Campaigns Remain Vulnerable as Signs of Russian Hackers Re-Emerge (TP)
+### Reference 41: 2020 Campaigns Remain Vulnerable as Signs of Russian Hackers Re-Emerge (FP)
 
 #### Paper Metadata
 
@@ -2828,8 +2832,8 @@ I treated a scan flag as a **TP** when the cited reference appears materially fa
 
 #### Independent Assessment
 
-- FP/TP flag: **TP**
-- Rationale: The WSJ title/URL/author combination could not be verified and the cited URL is non-existent.
+- FP/TP flag: **FP**
+- Rationale: Policy FP: this is a newspaper article reference, and newspaper articles are now to be marked false positive.
 
 <a id="reference-42"></a>
 ### Reference 42: Borderline-smote: A new over-sampling method in imbalanced data sets learning (FP)
@@ -2937,10 +2941,10 @@ I treated a scan flag as a **TP** when the cited reference appears materially fa
 #### Independent Assessment
 
 - FP/TP flag: **FP**
-- Rationale: The SIEM market-share report appears to be a real IDC-style report by the cited analysts; the Splunk venue/source attribution is wrong but not a fabricated reference.
+- Rationale: Policy FP: this is a market-report/web-report style source, so under the requested website-source rule I mark it false positive.
 
 <a id="reference-44"></a>
-### Reference 44: Reproducibility by Ontological representation of Provenance (TP)
+### Reference 44: Reproducibility by Ontological representation of Provenance (FP)
 
 #### Paper Metadata
 
@@ -2990,8 +2994,8 @@ I treated a scan flag as a **TP** when the cited reference appears materially fa
 
 #### Independent Assessment
 
-- FP/TP flag: **TP**
-- Rationale: No thesis or publication with the exact Roth provenance title was found.
+- FP/TP flag: **FP**
+- Rationale: User-provided correction: the thesis reference is correct and exists at TU Wien (https://repositum.tuwien.at/handle/20.500.12708/3505?mode=full), so it is a false positive.
 
 <a id="reference-45"></a>
 ### Reference 45: Elkhound: A fast, practical glr parser generator (FP)
@@ -3099,10 +3103,10 @@ I treated a scan flag as a **TP** when the cited reference appears materially fa
 #### Independent Assessment
 
 - FP/TP flag: **FP**
-- Rationale: Discreet Log is a real technical blog series by Sarah Jamie Lewis; this is non-paper-source formatting rather than hallucination.
+- Rationale: Policy FP: this is a technical blog/web series, so the requested website-source rule makes it a false positive.
 
 <a id="reference-47"></a>
-### Reference 47: Position paper: Bringing memory safety to WebAssembly (TP)
+### Reference 47: Position paper: Bringing memory safety to WebAssembly (FP)
 
 #### Paper Metadata
 
@@ -3152,11 +3156,11 @@ I treated a scan flag as a **TP** when the cited reference appears materially fa
 
 #### Independent Assessment
 
-- FP/TP flag: **TP**
-- Rationale: The cited title differs from the actual WebAssembly memory-safety position paper title, creating a non-existent title for a real author set.
+- FP/TP flag: **FP**
+- Rationale: User-provided correction: the paper exists at https://www.amitlevy.com/papers/ms-wasm-hasp19.pdf, so this should be marked false positive.
 
 <a id="reference-48"></a>
-### Reference 48: Democracy Suite EMS Results Tally & Reporting user guide, version 5.5::16 (TP)
+### Reference 48: Democracy Suite EMS Results Tally & Reporting user guide, version 5.5::16 (FP)
 
 #### Paper Metadata
 
@@ -3206,11 +3210,11 @@ I treated a scan flag as a **TP** when the cited reference appears materially fa
 
 #### Independent Assessment
 
-- FP/TP flag: **TP**
-- Rationale: The specific Dominion Democracy Suite guide version/title could not be verified among available documents.
+- FP/TP flag: **FP**
+- Rationale: User-provided correction: this is likely a false positive, so I treat it as a real/acceptable non-paper technical reference rather than a hallucinated citation.
 
 <a id="reference-49"></a>
-### Reference 49: Project infinity (TP)
+### Reference 49: Project infinity (FP)
 
 #### Paper Metadata
 
@@ -3260,8 +3264,8 @@ I treated a scan flag as a **TP** when the cited reference appears materially fa
 
 #### Independent Assessment
 
-- FP/TP flag: **TP**
-- Rationale: The cited “Project infinity” is a gaming cheat site/forum identity rather than an academic publication.
+- FP/TP flag: **FP**
+- Rationale: Policy FP: this is a gaming-cheat website/forum reference, and website references are now false positives by policy.
 
 <a id="reference-50"></a>
 ### Reference 50: Cyber Crimes in Jordan: A Legal Assessment on the Effectiveness of Information System Crimes Law No (30) of (FP)
@@ -3318,7 +3322,7 @@ I treated a scan flag as a **TP** when the cited reference appears materially fa
 - Rationale: The Jordan cyber-crimes paper exists with the same title and author; year/venue mismatches are metadata errors.
 
 <a id="reference-51"></a>
-### Reference 51: New Data Protection Bill, Draft (TP)
+### Reference 51: New Data Protection Bill, Draft (FP)
 
 #### Paper Metadata
 
@@ -3368,11 +3372,11 @@ I treated a scan flag as a **TP** when the cited reference appears materially fa
 
 #### Independent Assessment
 
-- FP/TP flag: **TP**
-- Rationale: The Jordan data-protection draft law is real, but no authored paper by J. Modee with this title was found.
+- FP/TP flag: **FP**
+- Rationale: User-provided correction: this is likely a real government document, so it should be treated as a false positive rather than a hallucinated reference.
 
 <a id="reference-52"></a>
-### Reference 52: JORDANIAN PEOPLE PERSPECTIVE ABOUT SMART HOMES (TP)
+### Reference 52: JORDANIAN PEOPLE PERSPECTIVE ABOUT SMART HOMES (FP)
 
 #### Paper Metadata
 
@@ -3422,11 +3426,11 @@ I treated a scan flag as a **TP** when the cited reference appears materially fa
 
 #### Independent Assessment
 
-- FP/TP flag: **TP**
-- Rationale: No exact Jordanian smart-homes paper with the cited authors/title was found.
+- FP/TP flag: **FP**
+- Rationale: User-provided correction: this is likely a real government document, so it should be treated as a false positive rather than a hallucinated reference.
 
 <a id="reference-53"></a>
-### Reference 53: What does the rise of AI mean for the future of art? (TP)
+### Reference 53: What does the rise of AI mean for the future of art? (FP)
 
 #### Paper Metadata
 
@@ -3476,11 +3480,11 @@ I treated a scan flag as a **TP** when the cited reference appears materially fa
 
 #### Independent Assessment
 
-- FP/TP flag: **TP**
-- Rationale: No direct Sydney Morning Herald article page or author/title combination could be verified.
+- FP/TP flag: **FP**
+- Rationale: Policy FP: this is a newspaper/news-article reference, so under the requested newspaper-article rule it is false positive.
 
 <a id="reference-54"></a>
-### Reference 54: AI art & the ethical concerns of artists (TP)
+### Reference 54: AI art & the ethical concerns of artists (FP)
 
 #### Paper Metadata
 
@@ -3530,8 +3534,8 @@ I treated a scan flag as a **TP** when the cited reference appears materially fa
 
 #### Independent Assessment
 
-- FP/TP flag: **TP**
-- Rationale: No Beautiful Bizarre article with this exact title and author was found.
+- FP/TP flag: **FP**
+- Rationale: Policy FP: this is a web magazine/article reference, so the requested website-source rule makes it false positive.
 
 <a id="reference-55"></a>
 ### Reference 55: Long version of this paper (FP)
@@ -3585,7 +3589,7 @@ I treated a scan flag as a **TP** when the cited reference appears materially fa
 #### Independent Assessment
 
 - FP/TP flag: **FP**
-- Rationale: “Long version of this paper” is a descriptive label pointing to the real HAL long-version record; it is not a fabricated cited work.
+- Rationale: Policy FP: this is a web repository/long-version link label pointing to a real HAL page, so under the requested website-source rule it is false positive.
 
 <a id="reference-56"></a>
 ### Reference 56: Artificial intelligence a modern approach (FP)
@@ -3639,10 +3643,10 @@ I treated a scan flag as a **TP** when the cited reference appears materially fa
 #### Independent Assessment
 
 - FP/TP flag: **FP**
-- Rationale: The AI textbook is real and Russell is a lead author; omitting Norvig is incomplete metadata, not hallucination.
+- Rationale: Policy FP: the textbook is otherwise identifiable and omits a single coauthor, so the requested single-author-omission rule makes it false positive.
 
 <a id="reference-57"></a>
-### Reference 57: Empresa de telecomunicaciones de cuba s.a (TP)
+### Reference 57: Empresa de telecomunicaciones de cuba s.a (FP)
 
 #### Paper Metadata
 
@@ -3692,11 +3696,11 @@ I treated a scan flag as a **TP** when the cited reference appears materially fa
 
 #### Independent Assessment
 
-- FP/TP flag: **TP**
-- Rationale: The citation formats a company/social-media source as if it were a paper, with no publication matching the title.
+- FP/TP flag: **FP**
+- Rationale: Policy FP: this is a company/social-media web reference, so under the requested website-source rule it is false positive.
 
 <a id="reference-58"></a>
-### Reference 58: Iran, Social Media, and U.S. Trade Sanctions: The First Amendment Implications of U.S. Foreign Policy (TP)
+### Reference 58: Iran, Social Media, and U.S. Trade Sanctions: The First Amendment Implications of U.S. Foreign Policy (FP)
 
 #### Paper Metadata
 
@@ -3746,11 +3750,11 @@ I treated a scan flag as a **TP** when the cited reference appears materially fa
 
 #### Independent Assessment
 
-- FP/TP flag: **TP**
-- Rationale: No article with the exact Iran/social-media sanctions title appears in the cited journal/volume or databases.
+- FP/TP flag: **FP**
+- Rationale: User-provided correction: this is a real UNC publication (https://scholarship.law.unc.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1122&context=falr), so the scan flag is a false positive.
 
 <a id="reference-59"></a>
-### Reference 59: Letter and Report for the Congressional Record (TP)
+### Reference 59: Letter and Report for the Congressional Record (FP)
 
 #### Paper Metadata
 
@@ -3800,11 +3804,11 @@ I treated a scan flag as a **TP** when the cited reference appears materially fa
 
 #### Independent Assessment
 
-- FP/TP flag: **TP**
-- Rationale: No Congressional Record document matching the cited title/author/year was found.
+- FP/TP flag: **FP**
+- Rationale: User-provided correction: this is likely a real government document, so it should be treated as a false positive rather than a hallucinated reference.
 
 <a id="reference-60"></a>
-### Reference 60: Artifact of the paper "Batching CSIDH group actions using AVX-512 (TP)
+### Reference 60: Artifact of the paper "Batching CSIDH group actions using AVX-512 (FP)
 
 #### Paper Metadata
 
@@ -3855,11 +3859,11 @@ I treated a scan flag as a **TP** when the cited reference appears materially fa
 
 #### Independent Assessment
 
-- FP/TP flag: **TP**
-- Rationale: The reference points to a non-existent artifact URL and transforms the actual paper into a malformed artifact citation with incomplete authorship.
+- FP/TP flag: **FP**
+- Rationale: Policy FP: this is a code artifact/repository reference, so the requested code-file/artifact rule makes it false positive.
 
 <a id="reference-61"></a>
-### Reference 61: Artifact of the paper "Highly vectorized SIKE for AVX-512 (TP)
+### Reference 61: Artifact of the paper "Highly vectorized SIKE for AVX-512 (FP)
 
 #### Paper Metadata
 
@@ -3909,11 +3913,11 @@ I treated a scan flag as a **TP** when the cited reference appears materially fa
 
 #### Independent Assessment
 
-- FP/TP flag: **TP**
-- Rationale: Same pattern as the prior artifact entry: non-existent artifact URL plus incomplete authorship for a real paper title.
+- FP/TP flag: **FP**
+- Rationale: Policy FP: this is a code artifact/repository reference, so the requested code-file/artifact rule makes it false positive.
 
 <a id="reference-62"></a>
-### Reference 62: Artifact of the paper "High-Throughput Elliptic Curve Cryptography Using AVX2 Vector Instructions (TP)
+### Reference 62: Artifact of the paper "High-Throughput Elliptic Curve Cryptography Using AVX2 Vector Instructions (FP)
 
 #### Paper Metadata
 
@@ -3964,8 +3968,8 @@ I treated a scan flag as a **TP** when the cited reference appears materially fa
 
 #### Independent Assessment
 
-- FP/TP flag: **TP**
-- Rationale: The cited artifact title/URL is not a valid publication record and omits two authors from the actual paper.
+- FP/TP flag: **FP**
+- Rationale: Policy FP: this is a code artifact/repository reference, so the requested code-file/artifact rule makes it false positive.
 
 <a id="reference-63"></a>
 ### Reference 63: Cache attacks and countermeasures: the case of AES (FP)
@@ -4022,7 +4026,7 @@ I treated a scan flag as a **TP** when the cited reference appears materially fa
 - Rationale: The AES cache-attacks paper is real; the author string is garbled but resolves to the correct three authors.
 
 <a id="reference-64"></a>
-### Reference 64: Chip and PIN Fraud (TP)
+### Reference 64: Chip and PIN Fraud (FP)
 
 #### Paper Metadata
 
@@ -4072,8 +4076,8 @@ I treated a scan flag as a **TP** when the cited reference appears materially fa
 
 #### Independent Assessment
 
-- FP/TP flag: **TP**
-- Rationale: The cited YouTube URL/title combination does not match an identifiable resource; this is not a verifiable reference.
+- FP/TP flag: **FP**
+- Rationale: Policy FP: this is a YouTube/web video reference, so the requested website-source rule makes it false positive.
 
 <a id="reference-65"></a>
 ### Reference 65: Cascade: CPU Fuzzing via Intricate Program Generation (FP)
@@ -4130,7 +4134,7 @@ I treated a scan flag as a **TP** when the cited reference appears materially fa
 - Rationale: Cascade exists with the cited title; the author string is malformed but still points to the correct paper and author set.
 
 <a id="reference-66"></a>
-### Reference 66: Apache mxnet: A flexible and efficient library for deep learning (TP)
+### Reference 66: Apache mxnet: A flexible and efficient library for deep learning (FP)
 
 #### Paper Metadata
 
@@ -4180,8 +4184,8 @@ I treated a scan flag as a **TP** when the cited reference appears materially fa
 
 #### Independent Assessment
 
-- FP/TP flag: **TP**
-- Rationale: The cited Apache MXNet title is a tagline-like variant rather than the actual MXNet paper title.
+- FP/TP flag: **FP**
+- Rationale: User-provided correction: this is a false positive; the MXNet reference should not be counted as a hallucinated citation under the review policy.
 
 <a id="reference-67"></a>
 ### Reference 67: Learning multiple layers of features from tiny images (FP)
@@ -4243,7 +4247,7 @@ I treated a scan flag as a **TP** when the cited reference appears materially fa
 - Rationale: The tiny-images source is real; Hinton-as-coauthor is a metadata/authorship ambiguity rather than a fabricated reference.
 
 <a id="reference-68"></a>
-### Reference 68: Getting back at Trudy: SSH Botnet Member Credential Collection using Connect Back Honeypots (TP)
+### Reference 68: Getting back at Trudy: SSH Botnet Member Credential Collection using Connect Back Honeypots (FP)
 
 #### Paper Metadata
 
@@ -4293,11 +4297,11 @@ I treated a scan flag as a **TP** when the cited reference appears materially fa
 
 #### Independent Assessment
 
-- FP/TP flag: **TP**
-- Rationale: No exact SSH botnet/honeypot paper by Fiebig was found.
+- FP/TP flag: **FP**
+- Rationale: User-provided correction: this is a real paper and likely a typo/metadata issue (https://scholar.google.com/citations?view_op=view_citation&hl=en&user=JHlAYQ0AAAAJ&cstart=20&pagesize=80&citation_for_view=JHlAYQ0AAAAJ:u5HHmVD_uO8C), so it is a false positive.
 
 <a id="reference-69"></a>
-### Reference 69: Amazon inference on demand (TP)
+### Reference 69: Amazon inference on demand (FP)
 
 #### Paper Metadata
 
@@ -4347,8 +4351,8 @@ I treated a scan flag as a **TP** when the cited reference appears materially fa
 
 #### Independent Assessment
 
-- FP/TP flag: **TP**
-- Rationale: No standalone Amazon document/publication with the cited “inference on demand” title was found.
+- FP/TP flag: **FP**
+- Rationale: Policy FP: this is an Amazon service/web-documentation style reference, so the requested website-source rule makes it false positive.
 
 <a id="reference-70"></a>
 ### Reference 70: Understanding and reusing test suites across database systems (TP)
