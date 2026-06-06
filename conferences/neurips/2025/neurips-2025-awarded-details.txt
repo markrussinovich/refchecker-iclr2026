@@ -1,0 +1,8 @@
+Title	Award/Nomination	Link
+1000 Layer Networks for Self-Supervised RL: Scaling Depth Can Enable New Goal-Reaching Capabilities	Best Paper	https://openreview.net/forum?id=s0JVsx3bx1
+Gated Attention for Large Language Models: Non-linearity, Sparsity, and Attention-Sink-Free	Best Paper	https://openreview.net/forum?id=1b7whO4SfY
+Why Diffusion Models Don’t Memorize:  The Role of Implicit Dynamical Regularization in Training	Best Paper	https://openreview.net/forum?id=BSZqpqgqM0
+Artificial Hivemind: The Open-Ended Homogeneity of Language Models (and Beyond)	Best Paper (DB track)	https://openreview.net/forum?id=saDOrrnNTz
+Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?	Best Paper Runner-up	https://openreview.net/forum?id=4OsgYD7em5
+Optimal Mistake Bounds for Transductive Online Learning	Best Paper Runner-up	https://openreview.net/forum?id=EoebmBe9fG
+Superposition Yields Robust Neural Scaling	Best Paper Runner-up	https://openreview.net/forum?id=knPz7gtjPW

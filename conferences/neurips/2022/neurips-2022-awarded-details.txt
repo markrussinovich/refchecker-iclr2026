@@ -1,0 +1,16 @@
+Title	Award/Nomination	Link
+A Neural Corpus Indexer for Document Retrieval	Outstanding Paper	https://neurips.cc/virtual/2022/poster/54771
+An empirical analysis of compute-optimal large language model training	Outstanding Paper	https://neurips.cc/virtual/2022/poster/53031
+Beyond neural scaling laws: beating power law scaling via data pruning	Outstanding Paper	https://neurips.cc/virtual/2022/poster/53016
+Elucidating the Design Space of Diffusion-Based Generative Models	Outstanding Paper	https://neurips.cc/virtual/2022/poster/54947
+Gradient Descent: The Ultimate Optimizer	Outstanding Paper	https://neurips.cc/virtual/2022/poster/54591
+Gradient Estimation with Discrete Stein Operators	Outstanding Paper	https://neurips.cc/virtual/2022/poster/54068
+High-dimensional limit theorems for SGD: Effective dynamics and critical scaling	Outstanding Paper	https://neurips.cc/virtual/2022/poster/54694
+Is Out-of-Distribution Detection Learnable?	Outstanding Paper	https://neurips.cc/virtual/2022/poster/55375
+LAION-5B: An open large-scale dataset for training next generation image-text models	Outstanding Paper	https://neurips.cc/virtual/2022/poster/55659
+MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge	Outstanding Paper	https://neurips.cc/virtual/2022/poster/55737
+On-Demand Sampling: Learning Optimally from Multiple Distributions	Outstanding Paper	https://neurips.cc/virtual/2022/poster/52819
+Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding	Outstanding Paper	https://neurips.cc/virtual/2022/poster/55018
+Riemannian Score-Based Generative Modelling	Outstanding Paper	https://neurips.cc/virtual/2022/poster/54590
+Using natural language and program abstractions to instill human inductive biases in machines	Outstanding Paper	https://neurips.cc/virtual/2022/poster/54789
+🏘️ ProcTHOR: Large-Scale Embodied AI Using Procedural Generation	Outstanding Paper	https://neurips.cc/virtual/2022/poster/54832

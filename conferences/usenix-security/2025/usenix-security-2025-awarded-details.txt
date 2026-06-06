@@ -1,0 +1,9 @@
+Title	Award/Nomination	Link
+Branch Privilege Injection: Compromising Spectre v2 Hardware Mitigations by Exploiting Branch Predictor Race Conditions	Distinguished Paper Award Winner	https://www.usenix.org/system/files/usenixsecurity25-ruegge.pdf
+Catch-22: Uncovering Compromised Hosts using SSH Public Keys	Distinguished Paper Award Winner	https://www.usenix.org/system/files/usenixsecurity25-munteanu.pdf
+Characterizing and Detecting Propaganda-Spreading Accounts on Telegram	Distinguished Paper Award Winner	https://www.usenix.org/system/files/usenixsecurity25-kireev.pdf
+Confusing Value with Enumeration: Studying the Use of CVEs in Academia	Distinguished Paper Award Winner	https://www.usenix.org/system/files/usenixsecurity25-schloegel.pdf
+Fuzzing the PHP Interpreter via Dataflow Fusion	Distinguished Paper Award Winner	https://www.usenix.org/system/files/usenixsecurity25-jiang-yuancheng.pdf
+My ZIP isn’t your ZIP: Identifying and Exploiting Semantic Gaps Between ZIP Parsers	Distinguished Paper Award Winner	https://www.usenix.org/system/files/usenixsecurity25-you.pdf
+Understanding How Users Prepare for and React to Smartphone Theft	Distinguished Paper Award Winner	https://www.usenix.org/system/files/usenixsecurity25-bhardwaj.pdf
+We Have a Package for You! A Comprehensive Analysis of Package Hallucinations by Code Generating LLMs	Distinguished Paper Award Winner	https://www.usenix.org/system/files/usenixsecurity25-spracklen.pdf

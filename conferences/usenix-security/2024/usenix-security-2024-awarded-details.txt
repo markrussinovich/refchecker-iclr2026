@@ -1,0 +1,19 @@
+Title	Award/Nomination	Link
+Adversarial Illusions in Multi-Modal Embeddings	Distinguished Paper Award Winner	https://www.usenix.org/system/files/usenixsecurity24-zhang-tingwei.pdf
+Dancer in the Dark: Synthesizing and Evaluating Polyglots for Blind Cross-Site Scripting	Distinguished Paper Award Winner	https://www.usenix.org/system/files/usenixsecurity24-kirchner.pdf
+Data Coverage for Guided Fuzzing	Distinguished Paper Award Winner	https://www.usenix.org/system/files/usenixsecurity24-wang-mingzhe.pdf
+Digital Discrimination of Users in Sanctioned States: The Case of the Cuba Embargo	Distinguished Paper Award Winner	https://www.usenix.org/system/files/usenixsecurity24-ablove.pdf
+Don’t Listen To Me: Understanding and Exploring Jailbreak Prompts of Large Language Models	Distinguished Paper Award Winner	https://www.usenix.org/system/files/usenixsecurity24-yu-zhiyuan.pdf
+DVSorder: Ballot Randomization Flaws Threaten Voter Privacy	Distinguished Paper Award Winner	https://www.usenix.org/system/files/usenixsecurity24-crimmins.pdf
+ENG25519: Faster TLS 1.3 handshake using optimized X25519 and Ed25519	Distinguished Paper Award Winner	https://www.usenix.org/system/files/usenixsecurity24-zhang-jipeng.pdf
+HyperPill: Fuzzing for Hypervisor-bugs by Leveraging the Hardware Virtualization Interface	Distinguished Paper Award Winner	https://www.usenix.org/system/files/usenixsecurity24-bulekov.pdf
+Indirector: High-Precision Branch Target Injection Attacks Exploiting the Indirect Branch Predictor	Distinguished Paper Award Winner	https://www.usenix.org/system/files/usenixsecurity24-li-luyi.pdf
+InSpectre Gadget: Inspecting the Residual Attack Surface of Cross-privilege Spectre v2	Distinguished Paper Award Winner	https://www.usenix.org/system/files/usenixsecurity24-wiebing.pdf
+Learning with Semantics: Towards a Semantics-Aware Routing Anomaly Detection System	Distinguished Paper Award Winner and Winner of the 2024 Internet Defense Prize	https://www.usenix.org/system/files/usenixsecurity24-chen-yihao.pdf
+Logic Gone Astray: A Security Analysis Framework for the Control Plane Protocols of 5G Basebands	Distinguished Paper Award Winner	https://www.usenix.org/system/files/usenixsecurity24-tu.pdf
+PURE: Payments with UWB RElay-protection	Distinguished Paper Award Winner	https://www.usenix.org/system/files/usenixsecurity24-coppola.pdf
+Smudged Fingerprints: Characterizing and Improving the Performance of Web Application Fingerprinting	Distinguished Paper Award Winner	https://www.usenix.org/system/files/usenixsecurity24-kondracki.pdf
+Terrapin Attack: Breaking SSH Channel Integrity By Sequence Number Manipulation	Distinguished Paper Award Winner	https://www.usenix.org/system/files/usenixsecurity24-baumer.pdf
+WhisperFuzz: White-Box Fuzzing for Detecting and Locating Timing Vulnerabilities in Processors	Distinguished Paper Award Winner	https://www.usenix.org/system/files/usenixsecurity24-borkar.pdf
+Yes, One-Bit-Flip Matters! Universal DNN Model Inference Depletion with Runtime Code Fault Injection	Distinguished Paper Award Winner	https://www.usenix.org/system/files/usenixsecurity24-li-shaofeng.pdf
+“I Don’t Know If We’re Doing Good. I Don’t Know If We’re Doing Bad”: Investigating How Practitioners	Distinguished Paper Award Winner	https://www.usenix.org/system/files/usenixsecurity24-lee.pdf

@@ -1,0 +1,13 @@
+Title	Award/Nomination	Link
+Attacks on Deidentification’s Defenses	Distinguished Paper Award Winner	https://www.usenix.org/system/files/sec22-cohen.pdf
+Augmenting Decompiler Output with Learned Variable Names and Types	Distinguished Paper Award Winner	https://www.usenix.org/system/files/sec22-chen-qibin.pdf
+Building an Open, Robust, and Stable Voting-Based Domain Top List	Distinguished Paper Award Winner	https://www.usenix.org/system/files/sec22-xie.pdf
+Dos and Don’ts of Machine Learning in Computer Security	Distinguished Paper Award Winner	https://www.usenix.org/system/files/sec22-arp.pdf
+Faster Yet Safer: Logging System Via Fixed-Key Blockcipher	Distinguished Paper Award Winner	https://www.usenix.org/system/files/sec22-hoang.pdf
+FixReverter: A Realistic Bug Injection Methodology for Benchmarking Fuzz Testing	Distinguished Paper Award Winner	https://www.usenix.org/system/files/sec22-zhang-zenong.pdf
+Identity Confusion in WebView-based Mobile App-in-app Ecosystems	Distinguished Paper Award Winner	https://www.usenix.org/system/files/sec22-zhang-lei.pdf
+Online Website Fingerprinting: Evaluating Website Fingerprinting Attacks on Tor in the Real World	Distinguished Paper Award Winner and Second Prize Winner (tie) of the 2022 Internet Defense Prize	https://www.usenix.org/system/files/sec22-cherubin.pdf
+OpenVPN is Open to VPN Fingerprinting	Distinguished Paper Award Winner and First Prize Winner of the 2022 Internet Defense Prize	https://www.usenix.org/system/files/sec22-xue-diwen.pdf
+Private Signaling	Distinguished Paper Award Winner	https://www.usenix.org/system/files/sec22-madathil.pdf
+Provably-Safe Multilingual Software Sandboxing using WebAssembly	Distinguished Paper Award Winner and Second Prize Winner (tie) of the 2022 Internet Defense Prize	https://www.usenix.org/system/files/sec22-bosamiya.pdf
+The Antrim County 2020 Election Incident: An Independent Forensic Investigation	Distinguished Paper Award Winner	https://www.usenix.org/system/files/sec22-halderman.pdf

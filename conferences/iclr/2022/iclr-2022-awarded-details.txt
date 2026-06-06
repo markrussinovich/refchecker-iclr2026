@@ -1,0 +1,11 @@
+Title	Award/Nomination	Link
+Efficiently Modeling Long Sequences with Structured State Spaces	Honorable Mention	https://openreview.net/forum?id=y-kxmfQZb0D
+PiCO: Contrastive Label Disambiguation for Partial Label Learning	Honorable Mention	https://iclr.cc/virtual/2022/poster/6038
+Understanding over-squashing and bottlenecks on graphs via curvature	Honorable Mention	https://iclr.cc/virtual/2022/poster/6849
+Analytic-DPM: an Analytic Estimate of the Optimal Reverse Variance in Diffusion Probabilistic Models	Outstanding Paper	https://openreview.net/forum?id=QPlt66PftU
+Bootstrapped Meta-Learning	Outstanding Paper	https://openreview.net/forum?id=JMREtKOPjU
+Comparing Distributions by Measuring Differences that Affect Decision Making	Outstanding Paper	https://openreview.net/forum?id=zk79xmaPGCo
+Expressiveness and Approximation Properties of Graph Neural Networks	Outstanding Paper	https://openreview.net/forum?id=Mj-lMbAvbs
+Hyperparameter Tuning with Renyi Differential Privacy	Outstanding Paper	https://iclr.cc/virtual/2022/poster/6746
+Learning Strides in Convolutional Neural Networks	Outstanding Paper	https://iclr.cc/virtual/2022/oral/7069
+Neural Collapse Under MSE Loss: Proximity to and Dynamics on the Central Path	Outstanding Paper	https://iclr.cc/virtual/2022/poster/6352

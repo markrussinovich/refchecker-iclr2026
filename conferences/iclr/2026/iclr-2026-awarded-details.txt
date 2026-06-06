@@ -1,0 +1,4 @@
+Title	Award/Nomination	Link
+Transformers are Inherently Succinct	Outstanding Paper	https://openreview.net/forum?id=Yxz92UuPLQ
+LLMs Get Lost In Multi-Turn Conversation	Outstanding Paper	https://openreview.net/forum?id=VKGTGGcwl6
+The Polar Express: Optimal Matrix Sign Methods and their Application to the Muon Algorithm	Honorable Mention	https://openreview.net/forum?id=yRtgZ1K8hO

@@ -1,0 +1,6 @@
+Title	Award/Nomination	Link
+Stochastic Taylor Derivative Estimator: Efficient amortization for arbitrary differential operators	Best Paper	https://openreview.net/forum?id=J2wI2rCG2u
+Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction	Best Paper	https://openreview.net/forum?id=gojL67CfS8
+Guiding a Diffusion Model with a Bad Version of Itself	Best Paper Runner-up	https://openreview.net/forum?id=bg6fVPVs3s
+Not All Tokens Are What You Need for Pretraining	Best Paper Runner-up	https://openreview.net/forum?id=0NMzBwqaAJ
+The PRISM Alignment Dataset: What Participatory, Representative and Individualised Human Feedback Reveals About the Subjective and Multicultural Alignment of Large Language Models	Datasets and Benchmarks Best Paper	https://neurips.cc/virtual/2024/oral/98025

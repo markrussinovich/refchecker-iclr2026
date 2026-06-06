@@ -1,0 +1,17 @@
+Title	Award/Nomination	Link
+Amortizing intractable inference in large language models	Honorable Mention	https://openreview.net/forum?id=Ouj6p4ca60
+Approximating Nash Equilibria in Normal-Form Games via Stochastic Optimization	Honorable Mention	https://openreview.net/forum?id=cc8h3I3V4E
+Flow Matching on General Geometries	Honorable Mention	https://openreview.net/forum?id=g7ohDlTITL
+Is ImageNet worth 1 video? Learning strong image encoders from 1 long unlabelled video	Honorable Mention	https://openreview.net/forum?id=Yen1lGns2o
+Meta Continual Learning Revisited: Implicitly Enhancing Online Hessian Approximation via Variance Reduction	Honorable Mention	https://openreview.net/forum?id=TpD2aG1h0D
+Model Tells You What to Discard: Adaptive KV Cache Compression for LLMs	Honorable Mention	https://openreview.net/forum?id=uNrFpDPMyo
+Proving Test Set Contamination in Black-Box Language Models	Honorable Mention	https://openreview.net/forum?id=KS8mIvetg2
+Robust agents learn causal world models	Honorable Mention	https://openreview.net/forum?id=pOoKI3ouv1
+The mechanistic basis of data dependence and abrupt learning in an in-context classification task	Honorable Mention	https://openreview.net/forum?id=aN4Jf6Cx69
+Towards a statistical theory of data selection under weak supervision	Honorable Mention	https://openreview.net/forum?id=HhfcNgQn6p
+Generalization in diffusion models arises from geometry-adaptive harmonic representations	Outstanding Paper	https://openreview.net/forum?id=ANvmVS2Yr0
+Learning Interactive Real-World Simulators	Outstanding Paper	https://openreview.net/forum?id=sFyTZEqmUY
+Never Train from Scratch: Fair Comparison of Long-Sequence Models Requires Data-Driven Priors	Outstanding Paper	https://openreview.net/forum?id=PdaPky8MUn
+Protein Discovery with Discrete Walk-Jump Sampling	Outstanding Paper	https://openreview.net/forum?id=zMPHKOmQNb
+Vision Transformers Need Registers	Outstanding Paper	https://openreview.net/forum?id=2dnO3LLiJ1
+Beyond Weisfeiler-Lehman: A Quantitative Framework for GNN Expressiveness	Outstanding Paper; Honorable Mention	https://openreview.net/forum?id=HSKaGOi7Ar

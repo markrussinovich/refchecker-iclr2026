@@ -1,0 +1,16 @@
+Title	Award/Nomination	Link
+Bayesian Model Selection, the Marginal Likelihood, and Generalization	Outstanding Paper	https://icml.cc/virtual/2022/poster/17991
+Causal Conceptions of Fairness and their Consequences	Outstanding Paper	https://icml.cc/virtual/2022/oral/17122
+Do Differentiable Simulators Give Better Policy Gradients?	Outstanding Paper	https://icml.cc/virtual/2022/oral/16770
+G-Mixup: Graph Data Augmentation for Graph Classification	Outstanding Paper	https://icml.cc/virtual/2022/poster/16665
+Learning Mixtures of Linear Dynamical Systems	Outstanding Paper	https://icml.cc/virtual/2022/oral/15994
+Privacy for Free: How does Dataset Condensation Help Privacy?	Outstanding Paper	https://icml.cc/virtual/2022/oral/18236
+Solving Stackelberg Prediction Game with Least Squares Loss via Spherically Constrained Least Squares Reformulation	Outstanding Paper	https://icml.cc/virtual/2022/oral/17692
+Stable Conformal Prediction Sets	Outstanding Paper	https://icml.cc/virtual/2022/oral/16842
+The Importance of Non-Markovianity in Maximum State Entropy Exploration	Outstanding Paper	https://icml.cc/virtual/2022/poster/16289
+Understanding Dataset Difficulty with $\mathcal{V}$-Usable Information	Outstanding Paper	https://icml.cc/virtual/2022/poster/16633
+Active fairness auditing	Outstanding Paper Runner Up	https://icml.cc/virtual/2022/oral/17204
+Adversarially Trained Actor Critic for Offline Reinforcement Learning	Outstanding Paper Runner Up	https://icml.cc/virtual/2022/oral/17174
+Learning inverse folding from millions of predicted structures	Outstanding Paper Runner Up	https://icml.cc/virtual/2022/poster/16885
+Minimum Cost Intervention Design for Causal Effect Identification	Outstanding Paper Runner Up	https://icml.cc/virtual/2022/oral/17380
+Monarch: Expressive Structured Matrices for Efficient and Accurate Training	Outstanding Paper Runner Up	https://icml.cc/virtual/2022/oral/17900

@@ -1,0 +1,11 @@
+Title	Award/Nomination	Link
+Debating with More Persuasive LLMs Leads to More Truthful Answers	Best Paper	https://openreview.net/forum?id=iLCZtl7FTa
+Discrete Diffusion Modeling by Estimating the Ratios of the Data Distribution	Best Paper	https://openreview.net/forum?id=CNicRIVIPA
+Genie: Generative Interactive Environments	Best Paper	https://openreview.net/forum?id=bJbSbJskOS
+Information Complexity of Stochastic Convex Optimization: Applications to Generalization, Memorization, and Tracing	Best Paper	https://openreview.net/forum?id=CyEJn71Z00
+Position: Considerations for Differentially Private Learning with Large-Scale Public Pretraining	Best Paper	https://openreview.net/forum?id=ncjhi4qAPV
+Position: Measure Dataset Diversity, Don't Just Claim It	Best Paper	https://openreview.net/forum?id=jsKr6RVDDs
+Probabilistic Inference in Language Models via Twisted Sequential Monte Carlo	Best Paper	https://openreview.net/forum?id=frA0NNBS1n
+Scaling Rectified Flow Transformers for High-Resolution Image Synthesis	Best Paper	https://openreview.net/forum?id=FPnUhsQJ5B
+Stealing part of a production language model	Best Paper	https://openreview.net/forum?id=VE3yWXt3KB
+VideoPoet: A Large Language Model for Zero-Shot Video Generation	Best Paper	https://openreview.net/forum?id=LRkJwPIDuE

@@ -1,0 +1,8 @@
+Title	Award/Nomination	Link
+Beyond Fully-Connected Layers with Quaternions: Parameterization of Hypercomplex Multiplications with $1/n$ Parameters	Outstanding Paper	https://openreview.net/forum?id=rcQdycl0zyk
+Complex Query Answering with Neural Link Predictors	Outstanding Paper	https://openreview.net/forum?id=Mos9F9kDwkz
+EigenGame: PCA as a Nash Equilibrium	Outstanding Paper	https://openreview.net/forum?id=NzTU59SYbNq
+Learning Mesh-Based Simulation with Graph Networks	Outstanding Paper	https://openreview.net/forum?id=roNqYL0_XP
+Optimal Rates for Averaged Stochastic Gradient Descent under Neural Tangent Kernel Regime	Outstanding Paper	https://openreview.net/forum?id=PULSD5qI2N1
+Rethinking Architecture Selection in Differentiable NAS	Outstanding Paper	https://openreview.net/forum?id=PKubaeJkw3
+Score-Based Generative Modeling through Stochastic Differential Equations	Outstanding Paper	https://openreview.net/forum?id=PxTIG12RRHS

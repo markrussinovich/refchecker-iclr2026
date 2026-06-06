@@ -1,0 +1,5 @@
+Title	Award/Nomination	Link
+A Watermark for Large Language Models	Outstanding Paper	https://icml.cc/virtual/2023/oral/25524
+Adapting to game trees in zero-sum imperfect information games	Outstanding Paper	https://icml.cc/virtual/2023/poster/24235
+Generalization on the Unseen, Logic Reasoning and Degree Curriculum	Outstanding Paper	https://icml.cc/virtual/2023/poster/24523
+Learning-Rate-Free Learning by D-Adaptation	Outstanding Paper	https://icml.cc/virtual/2023/oral/25581

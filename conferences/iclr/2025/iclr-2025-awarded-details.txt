@@ -1,0 +1,7 @@
+Title	Award/Nomination	Link
+Safety Alignment Should be Made More Than Just a Few Tokens Deep	Outstanding Paper	https://openreview.net/forum?id=6Mxhg9PtDE
+Learning Dynamics of LLM Finetuning	Outstanding Paper	https://openreview.net/forum?id=tPNHOoZFl9
+AlphaEdit: Null-Space Constrained Model Editing for Language Models	Outstanding Paper	https://openreview.net/forum?id=HvSytvg3Jh
+Data Shapley in One Training Run	Honorable Mention	https://openreview.net/forum?id=HD6bWcj87Y
+SAM 2: Segment Anything in Images and Videos	Honorable Mention	https://openreview.net/forum?id=Ha6RTeWMd0
+Faster Cascades via Speculative Decoding	Honorable Mention	https://openreview.net/forum?id=vo9t20wsmd

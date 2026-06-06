@@ -1,0 +1,9 @@
+Title	Award/Nomination	Link
+CollabLLM: From Passive Responders to Active Collaborators	Outstanding Paper	https://openreview.net/forum?id=DmH4HHVb3y
+Conformal Prediction as Bayesian Quadrature	Outstanding Paper	https://openreview.net/forum?id=PNmkjIzHB7
+Roll the dice & look before you leap: Going beyond the creative limits of next-token prediction	Outstanding Paper	https://openreview.net/forum?id=Hi0SyHMmkd
+Score Matching with Missing Data	Outstanding Paper	https://openreview.net/forum?id=mBstuGUaXo
+The Value of Prediction in Identifying the Worst-Off	Outstanding Paper	https://openreview.net/forum?id=26JsumCG0z
+Train for the Worst, Plan for the Best: Understanding Token Ordering in Masked Diffusions	Outstanding Paper	https://openreview.net/forum?id=DjJmre5IkP
+Position: AI Safety should prioritize the Future of Work	Outstanding Position Paper	https://icml.cc/virtual/2025/oral/40167
+Position: The AI Conference Peer Review Crisis Demands Author Feedback and Reviewer Rewards	Outstanding Position Paper	https://icml.cc/virtual/2025/poster/40108

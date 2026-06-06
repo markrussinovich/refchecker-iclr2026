@@ -1,0 +1,8 @@
+Title	Award/Nomination	Link
+An Analysis of Speculative Type Confusion Vulnerabilities in the Wild	Distinguished Paper Award Winner and First Prize winner of the 2021 Internet Defense Prize	https://www.usenix.org/system/files/sec21-kirzner.pdf
+Poisoning the Unlabeled Dataset of Semi-Supervised Learning	Distinguished Paper Award Winner and Second Prize winner of the 2021 Internet Defense Prize	https://www.usenix.org/system/files/sec21-carlini-poisoning.pdf
+Rage Against the Machine Clear: A Systematic Analysis of Machine Clears and Their Implications for Transient Execution Attacks	Distinguished Paper Award Winner	https://www.usenix.org/system/files/sec21-ragab.pdf
+Weaponizing Middleboxes for TCP Reflected Amplification	Distinguished Paper Award Winner and Third Prize winner of the 2021 Internet Defense Prize	https://www.usenix.org/system/files/sec21-bock.pdf
+You Autocomplete Me: Poisoning Vulnerabilities in Neural Code Completion	Distinguished Paper Award Winner	https://www.usenix.org/system/files/sec21-schuster.pdf
+“It’s stressful having all these phones”:	Distinguished Paper Award Winner	https://www.usenix.org/system/files/sec21-mcdonald.pdf
+“Why wouldn’t someone think of democracy as a target?”: Security practices & challenges of people involved with U.S. political campaigns	Distinguished Paper Award Winner	https://www.usenix.org/system/files/sec21-consolvo.pdf

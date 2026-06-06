@@ -1,0 +1,7 @@
+Title	Award/Nomination	Link
+Are Emergent Abilities of Large Language Models a Mirage?	Outstanding Paper	https://neurips.cc/virtual/2023/poster/72117
+ClimSim: A large multi-scale dataset for hybrid physics-ML climate emulation	Outstanding Paper	https://neurips.cc/virtual/2023/poster/73569
+DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models	Outstanding Paper	https://neurips.cc/virtual/2023/poster/73486
+Privacy Auditing with One (1) Training Run	Outstanding Paper	https://neurips.cc/virtual/2023/poster/70925
+Direct Preference Optimization: Your Language Model is Secretly a Reward Model	Outstanding Paper Runner-up	https://neurips.cc/virtual/2023/poster/72164
+Scaling Data-Constrained Language Models	Outstanding Paper Runner-up	https://neurips.cc/virtual/2023/poster/70706
